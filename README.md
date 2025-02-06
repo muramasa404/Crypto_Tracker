@@ -6,76 +6,84 @@ GDP: {'name': 'Real Gross Domestic Product', 'interval': 'annual', 'unit': 'bill
 ## 최신 경제 뉴스
 
 <!-- NEWS-START -->
-### How Trump arrived at his stunning idea to ‘take over’ the Gaza Strip - CNN
-Trump administration officials are hurrying to catch up to the president’s audacious and improbable plan for the United States to take ownership of Gaza and redevelop it into a “Middle Eastern Riviera,” trying to wrap their heads around an idea that some hope…
-[Read more](https://www.cnn.com/2025/02/05/politics/how-trump-decided-gaza-strip-take-over/index.html)
+### US plane brings back 104 deported Indians, most from Gujarat, Punjab and Haryana - The Indian Express
+33 each from Gujarat and Haryana, 30 from Punjab; 25 women, 12 minors
+[Read more](https://indianexpress.com/article/india/us-plane-brings-back-104-deported-indians-most-from-gujarat-punjab-and-haryana-9819902/)
 
-### Why Nvidia, Broadcom, and Other Chip Stocks Are Surging Wednesday - Investopedia
-Shares of several tech companies specializing in artificial intelligence products soared Wednesday after Google parent Alphabet said it plans to ramp up spending on AI.
-[Read more](https://www.investopedia.com/why-nvidia-broadcom-and-other-chip-stocks-are-surging-wednesday-8786442)
+### Trump signs order banning transgender women from female sports - BBC.com
+He says the move, which covers non-elite levels, restores fairness but human rights advocates have condemned it.
+[Read more](https://www.bbc.com/news/articles/c20g85k3z35o)
 
-### Travis Kelce On Taylor Swift Hater Donald Trump Attending Super Bowl: “It’s A Great Honor” - Deadline
-Donald Trump has expressed "hate" for Taylor Swift, but Chiefs' TE Travis Kelce says he's "honored" that the president will attend the Super Bowl.
-[Read more](http://deadline.com/2025/02/travis-kelce-taylor-swift-hater-donald-trump-super-bowl-1236279142/)
+### Fox News hires president’s daughter-in-law Lara Trump for weekend show on network - The Associated Press
+Fox News is keeping it in the family with President Donald Trump. The network announced Wednesday that it is hiring his daughter-in-law, Lara, to host a one-hour show on Saturday nights. Lara Trump was a contributor to Fox in 2021 and 2022 before becoming co-…
+[Read more](https://apnews.com/article/lara-trump-fox-news-president-9585f6d27cbf74942ff3e2db560bbe64)
+
+### Los Angeles Rams announced as designated team for first ever NFL regular season game in Australia in 2026 - therams.com
+NFL makes multiyear commitment to playing regular season games in Melbourne; partners with the Victorian State Government and the Melbourne Cricket Ground for regular season game, with Los Angeles Rams selected as the designated team.
+[Read more](https://www.therams.com/news/rams-first-ever-nfl-regular-season-game-melbourne-australia-melbourne-cricket-ground-mcg-2026)
+
+### Senate Republicans to move forward on Trump agenda as House stalls on budget reconciliation plan - CBS News
+Senate Republicans say they'll move forward with their own plan to approve key parts of the Trump agenda beginning next week, amid House delays.
+[Read more](https://www.cbsnews.com/news/senate-republicans-trump-agenda-budget-reconciliation-plan/)
+
+### Thousands protest Trump administration policies in cities across the US - The Associated Press
+Thousands of demonstrators have gathered outside a federal courthouse in Philadelphia and at state capitols in Michigan, Texas, Wisconsin and Indiana to protest the early actions of President Donald Trump's administration. Protesters waved signs decrying Trum…
+[Read more](https://apnews.com/article/50501-protests-project-2025-trump-state-capitols-ddd341171a54ba9b498cbfe7530e18ab)
+
+### USAID is going away. Here’s what it’s been doing in South America - The Associated Press
+The dismantling of the U.S. Agency for International Development will deliver a major blow to efforts including humanitarian assistance in Colombia, conservation efforts in Brazil and coca eradication in Peru — South American countries that have been a priori…
+[Read more](https://apnews.com/article/trump-usaid-brazil-colombia-peru-amazon-venezuela-a0e9bb720165da269bf472b0f9cb50d4)
+
+### Children's Hospital Los Angeles pauses gender-affirming care for new transgender patients - ABC7 Los Angeles
+Children's Hospital Los Angeles has reportedly paused the initiation of hormone therapy for new transgender youth patients.
+[Read more](https://abc7.com/post/childrens-hospital-los-angeles-pauses-gender-affirming-care-transgender-patients-19/15869321/)
+
+### Dow Jones Today: Stocks Mixed as Investors Digest Barrage of Earnings Reports; Nvidia and Broadcom Jump - Investopedia
+Stocks closed higher Wednesday, putting major indexes back near record highs, as investors reacted to a flurry of earnings reports while keeping an eye on geopolitical developments.
+[Read more](https://www.investopedia.com/dow-jones-today-02052025-8786166)
 
 ### Blake Lively Sued by Crisis PR Firm in It Ends With Us Complaint - Variety
 A crisis PR firm that was named in Blake Lively's 'It Ends With Us' complaint filed a defamation suit against her.
 [Read more](https://variety.com/2025/film/news/blake-lively-sued-crisis-pr-it-ends-with-us-1236298031/)
 
-### Stock Market Today: Google Hit, But Offers New Entry; Broadcom, Fiserv, Mueller Water Trigger Buy Points As Nasdaq Cuts Losses (Live Coverage) - Investor's Business Daily
-None
-[Read more](https://www.investors.com/market-trend/stock-market-today/nasdaq-sp500-djia-google-stock-mattel-broadcom/)
-
-### FBI agents who ‘simply followed orders’ in Jan. 6 probes won’t be fired, a Justice official says - The Associated Press
-FBI agents who followed orders and carried out their duties in an ethical manner while investigating the Jan. 6 riot at the U.S. Capitol are not at risk of being fired. That's according to a memo from a top Justice Department official to the bureau workforce …
-[Read more](https://apnews.com/article/trump-fbi-justice-department-jan-6-ff003e46ea48c4e8be710d1ba2eb2d02)
-
 ### 2025 Super Bowl: Chiefs and Eagles ranked by tiers with shot at Hall of Fame; two locks at the top - CBS Sports
 Super Bowl LIX will help determine which players ultimately get a gold jacket one day
 [Read more](https://www.cbssports.com/nfl/news/2025-super-bowl-chiefs-and-eagles-ranked-by-tiers-with-shot-at-hall-of-fame-two-locks-at-the-top/)
+
+### ‘Emilia Pérez’ Director Jacques Audiard Disavows Karla Sofía Gascón But Stands Up For Film In Crucial Awards Weekend: Q&A - Deadline
+'Emilia Pérez' director Jacques Audiard says he is disappointed with Karla Sofía Gascón’s behavior as awards season ramps up. Read the Deadline Q&A.
+[Read more](http://deadline.com/2025/02/emilia-perez-jacques-audiard-disavows-karla-sofia-gascon-1236279021/)
 
 ### Taylor Swift's Luxurious Super Bowl Suite Has A Mouthwatering Food Menu - Yahoo Entertainment
 Most football fans can only dream of watching the Super Bowl from a private suite, but for Taylor Swift, it's becoming tradition.
 [Read more](https://www.mashed.com/1781134/food-menu-taylor-swift-super-bowl-suite/)
 
-### Amritsar: More than 100 Indian migrants deported by the US arrive home - The Associated Press
-Indian airport officials say a U.S. military plane carrying 104 deported Indian migrants has arrived in a northern Indian city, the first such flight to the country as part of a crackdown ordered by the Trump administration. The Indians who returned home Wedn…
-[Read more](https://apnews.com/article/indian-illegal-immigrants-deportation-from-united-states-eb43d6fb6ba1f78febdd78b77bd36196)
-
-### Federal judge blocks Trump’s executive order to end birthright citizenship - CNN
-A second federal judge on Wednesday blocked President Donald Trump’s executive order that seeks to end birthright citizenship, saying it’s likely unconstitutional and “runs counter to our nation’s 250-year history of citizenship by birth.”
-[Read more](https://www.cnn.com/2025/02/05/politics/judge-blocks-birthright-citizenship-executive-order/index.html)
-
-### 11 dead in worst mass shooting in Sweden's history, authorities say - ABC News
-None
-[Read more](https://abcnews.go.com/International/11-dead-worst-mass-shooting-swedens-history-authorities/story?id\\u003d118475034)
-
-### Pam Bondi to be sworn in as attorney general following Senate confirmation - The Washington Post
-Acting deputy attorney general Emil Bove said that “no FBI employee who simply followed orders and carried out their duties in an ethical manner” would be disciplined.
-[Read more](https://www.washingtonpost.com/politics/2025/02/05/pam-bondi-attorney-general/)
-
-### Three Years After Experimental Vaccine, These Patients Are Still Cancer-Free - Gizmodo
-A kidney cancer vaccine candidate has shown great promise in an early Phase I trial published this week.
-[Read more](https://gizmodo.com/three-years-after-experimental-vaccine-these-patients-are-still-cancer-free-2000559585)
-
-### Here are five Apple Invites features you might have missed - 9to5Mac
-Apple just launched a brand new Invites app for iPhone, here are five included features you might have missed.
-[Read more](https://9to5mac.com/2025/02/05/here-are-five-apple-invites-features-you-might-have-missed/)
-
-### Ancient duck-like creature discovered in Antarctica may be the oldest modern bird ever discovered - Livescience.com
-A new and nearly complete skull of Vegavis iaai discovered in Antarctica suggests that modern birds originated before the end-Cretaceous mass extinction.
-[Read more](https://www.livescience.com/animals/birds/ancient-duck-like-creature-discovered-in-antarctica-may-be-the-oldest-modern-bird-ever-discovered)
-
 ### Google opens its most powerful AI models to everyone, the next stage in its virtual agent push - CNBC
 The suite of agentic Gemini 2.0 models includes 2.0 Flash, 2.0 Pro Experimental and 2.0 Flash-Lite.
 [Read more](https://www.cnbc.com/2025/02/05/google-opens-gemini-2point0-its-most-powerful-ai-model-to-everyone.html)
 
+### Alphabet Stock Tumbles After Earnings. The Google Parent Is Headed to Its Largest Market-Cap Drop Ever. - Barron's
+None
+[Read more](https://www.barrons.com/articles/alphabet-earnings-stock-price-google-476852a7)
+
+### Sweden’s worst mass shooting leaves at least 11 dead, including the gunman - The Associated Press
+Sweden’s worst mass shooting has left at least 11 people dead including the gunman and five seriously wounded at an adult education center. Police believe the perpetrator acted alone but hadn't said by Wednesday if he was a student or what his motive may have…
+[Read more](https://apnews.com/article/sweden-shooting-adult-education-center-fa26e8064a0708ddc213c7cd9f50267c)
+
+### Anker Solix Portable Power Station Just Crashed to $429 From $999 on Amazon - Gizmodo
+Have serious power at your disposal with nearly $600 off this Anker Power Station.
+[Read more](https://gizmodo.com/anker-solix-portable-power-station-just-crashed-to-429-from-999-on-amazon-2000559020)
+
+### Nintendo President Weighs In On Switch 2 Pricing As Some Experts Predict $400 - Kotaku
+The company will continue to take 'affordable prices' into account
+[Read more](https://kotaku.com/nintendo-switch-2-price-release-date-preorder-mk9-1851755723)
+
+### Kevin Durant, Jimmy Butler Mega-Trade Could Involve Five Teams and a Dozen Players - Sports Illustrated
+Could a mega-trade involving Kevin Durant, Jimmy Butler and the Golden State Warriors be brewing?
+[Read more](https://www.si.com/nba/kevin-durant-jimmy-butler-mega-trade-five-teams-dozen-players)
+
 ### After a wrenching decision by NASA, private lunar lander finds a new customer - Ars Technica
 “When VIPER was removed, that was definitely a setback. Our team felt that.”…
 [Read more](https://arstechnica.com/space/2025/02/after-a-wrenching-decision-by-nasa-private-lunar-lander-finds-a-new-customer/)
-
-### ‘Jurassic World: Rebirth’ Trailer: Jonathan Bailey And Scarlett Johansson Study And Run From Dinosaurs - Deadline
-Jurassic World: Rebirth has released its first trailer. The film stars Jonathan Bailey, Scarlett Johansson and Mahershala Ali.
-[Read more](http://deadline.com/2025/02/jurassic-world-rebirth-trailer-1236277265/)
 
 <!-- NEWS-END -->
