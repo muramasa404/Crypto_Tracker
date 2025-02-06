@@ -6,29 +6,57 @@ GDP: {'name': 'Real Gross Domestic Product', 'interval': 'annual', 'unit': 'bill
 ## 최신 경제 뉴스
 
 <!-- NEWS-START -->
-### Blake Lively Sued For Defamation by Crisis PR Firm in ‘It Ends With Us’ Feud - Hollywood Reporter
-Jed Wallace targets the actress naming him in the sexual harassment and retaliation complaint she filed with the California Civil Rights Department.
-[Read more](http://www.hollywoodreporter.com/business/business-news/blake-lively-sued-defamation-jed-wallace-1236127820/)
+### How Trump arrived at his stunning idea to ‘take over’ the Gaza Strip - CNN
+Trump administration officials are hurrying to catch up to the president’s audacious and improbable plan for the United States to take ownership of Gaza and redevelop it into a “Middle Eastern Riviera,” trying to wrap their heads around an idea that some hope…
+[Read more](https://www.cnn.com/2025/02/05/politics/how-trump-decided-gaza-strip-take-over/index.html)
 
-### Trump offers deferred resignation to national security and intelligence workers - NPR
-The letters are the first examples of the national security and intelligence workforce being included in broader efforts to downsize the federal government by the Trump administration.
-[Read more](https://www.npr.org/2025/02/05/nx-s1-5287792/trump-deferred-resignation-cia-nsa-odni-national-security-intelligence)
+### Why Nvidia, Broadcom, and Other Chip Stocks Are Surging Wednesday - Investopedia
+Shares of several tech companies specializing in artificial intelligence products soared Wednesday after Google parent Alphabet said it plans to ramp up spending on AI.
+[Read more](https://www.investopedia.com/why-nvidia-broadcom-and-other-chip-stocks-are-surging-wednesday-8786442)
 
-### Top Justice Department official accuses FBI leadership of ‘insubordination’ over January 6 inquiry - CNN
-The acting deputy attorney general accused FBI leadership of “insubordination” by refusing to identify a “core team” of bureau employees who worked on January 6 investigations, while trying to assure that rank-and-file agents who “simply followed orders” will…
-[Read more](https://www.cnn.com/2025/02/05/politics/fbi-january-6-justice-department/index.html)
+### Travis Kelce On Taylor Swift Hater Donald Trump Attending Super Bowl: “It’s A Great Honor” - Deadline
+Donald Trump has expressed "hate" for Taylor Swift, but Chiefs' TE Travis Kelce says he's "honored" that the president will attend the Super Bowl.
+[Read more](http://deadline.com/2025/02/travis-kelce-taylor-swift-hater-donald-trump-super-bowl-1236279142/)
 
-### Khris Middleton trade grades: Bucks get 'C-' for moving franchise mainstay to Wizards for Kyle Kuzma - CBS Sports
-Middleton hasn't been on the court much, but Kuzma is having the least-efficient season of his career
-[Read more](https://www.cbssports.com/nba/news/khris-middleton-trade-grades-bucks-get-c-for-moving-franchise-mainstay-to-wizards-for-kyle-kuzma/)
+### Blake Lively Sued by Crisis PR Firm in It Ends With Us Complaint - Variety
+A crisis PR firm that was named in Blake Lively's 'It Ends With Us' complaint filed a defamation suit against her.
+[Read more](https://variety.com/2025/film/news/blake-lively-sued-crisis-pr-it-ends-with-us-1236298031/)
 
-### Judge issues nationwide injunction blocking Trump's bid to end birthright citizenship - ABC News
+### Stock Market Today: Google Hit, But Offers New Entry; Broadcom, Fiserv, Mueller Water Trigger Buy Points As Nasdaq Cuts Losses (Live Coverage) - Investor's Business Daily
 None
-[Read more](https://abcnews.go.com/US/judge-future-trumps-order-blocking-birthright-citizenship/story?id\\u003d118460936)
+[Read more](https://www.investors.com/market-trend/stock-market-today/nasdaq-sp500-djia-google-stock-mattel-broadcom/)
+
+### FBI agents who ‘simply followed orders’ in Jan. 6 probes won’t be fired, a Justice official says - The Associated Press
+FBI agents who followed orders and carried out their duties in an ethical manner while investigating the Jan. 6 riot at the U.S. Capitol are not at risk of being fired. That's according to a memo from a top Justice Department official to the bureau workforce …
+[Read more](https://apnews.com/article/trump-fbi-justice-department-jan-6-ff003e46ea48c4e8be710d1ba2eb2d02)
+
+### 2025 Super Bowl: Chiefs and Eagles ranked by tiers with shot at Hall of Fame; two locks at the top - CBS Sports
+Super Bowl LIX will help determine which players ultimately get a gold jacket one day
+[Read more](https://www.cbssports.com/nfl/news/2025-super-bowl-chiefs-and-eagles-ranked-by-tiers-with-shot-at-hall-of-fame-two-locks-at-the-top/)
+
+### Taylor Swift's Luxurious Super Bowl Suite Has A Mouthwatering Food Menu - Yahoo Entertainment
+Most football fans can only dream of watching the Super Bowl from a private suite, but for Taylor Swift, it's becoming tradition.
+[Read more](https://www.mashed.com/1781134/food-menu-taylor-swift-super-bowl-suite/)
+
+### Amritsar: More than 100 Indian migrants deported by the US arrive home - The Associated Press
+Indian airport officials say a U.S. military plane carrying 104 deported Indian migrants has arrived in a northern Indian city, the first such flight to the country as part of a crackdown ordered by the Trump administration. The Indians who returned home Wedn…
+[Read more](https://apnews.com/article/indian-illegal-immigrants-deportation-from-united-states-eb43d6fb6ba1f78febdd78b77bd36196)
+
+### Federal judge blocks Trump’s executive order to end birthright citizenship - CNN
+A second federal judge on Wednesday blocked President Donald Trump’s executive order that seeks to end birthright citizenship, saying it’s likely unconstitutional and “runs counter to our nation’s 250-year history of citizenship by birth.”
+[Read more](https://www.cnn.com/2025/02/05/politics/judge-blocks-birthright-citizenship-executive-order/index.html)
 
 ### 11 dead in worst mass shooting in Sweden's history, authorities say - ABC News
 None
 [Read more](https://abcnews.go.com/International/11-dead-worst-mass-shooting-swedens-history-authorities/story?id\\u003d118475034)
+
+### Pam Bondi to be sworn in as attorney general following Senate confirmation - The Washington Post
+Acting deputy attorney general Emil Bove said that “no FBI employee who simply followed orders and carried out their duties in an ethical manner” would be disciplined.
+[Read more](https://www.washingtonpost.com/politics/2025/02/05/pam-bondi-attorney-general/)
+
+### Three Years After Experimental Vaccine, These Patients Are Still Cancer-Free - Gizmodo
+A kidney cancer vaccine candidate has shown great promise in an early Phase I trial published this week.
+[Read more](https://gizmodo.com/three-years-after-experimental-vaccine-these-patients-are-still-cancer-free-2000559585)
 
 ### Here are five Apple Invites features you might have missed - 9to5Mac
 Apple just launched a brand new Invites app for iPhone, here are five included features you might have missed.
@@ -42,32 +70,12 @@ A new and nearly complete skull of Vegavis iaai discovered in Antarctica suggest
 The suite of agentic Gemini 2.0 models includes 2.0 Flash, 2.0 Pro Experimental and 2.0 Flash-Lite.
 [Read more](https://www.cnbc.com/2025/02/05/google-opens-gemini-2point0-its-most-powerful-ai-model-to-everyone.html)
 
-### The end of Squid Game and Stranger Things solidifies Netflix’s new era - The Verge
-The final seasons of both Stranger Things and Squid Game hit Netflix in 2025, marking the end of an era.
-[Read more](https://www.theverge.com/netflix/606274/netfflix-new-era-stranger-things-squid-game-end)
+### After a wrenching decision by NASA, private lunar lander finds a new customer - Ars Technica
+“When VIPER was removed, that was definitely a setback. Our team felt that.”…
+[Read more](https://arstechnica.com/space/2025/02/after-a-wrenching-decision-by-nasa-private-lunar-lander-finds-a-new-customer/)
 
-### Disney Stock Drifts After Earnings. How Price Hikes Are Helping. - Barron's
-None
-[Read more](https://www.barrons.com/articles/disney-earnings-stock-price-f89c0e51)
-
-### Ohio warehouse mass shooting leaves 1 dead, 5 injured; suspect arrested - USA TODAY
-One person was killed and five were injured in a shooting at a cosmetics warehouse facility in New Albany, Ohio. A suspect has been arrested.
-[Read more](https://www.usatoday.com/story/news/nation/2025/02/05/ohio-new-albany-shooting-kdcone/78238921007/)
-
-### USAID employees around the world will be placed on leave Friday and ordered to return to US - CNN
-US Agency for International Development staff around the world will be placed on administrative leave Friday and ordered to return to the US, according to a directive issued Tuesday night.
-[Read more](https://www.cnn.com/2025/02/04/politics/usaid-officials-administrative-leave/index.html)
-
-### President Trump sends first US migrant detainees to Guantanamo Bay - BBC.com
-The US president last week announced plans to expand the detention of migrants at the base in Cuba.
-[Read more](https://www.bbc.com/news/articles/cy0p1ykxyzjo)
-
-### Saquon Barkley poised to make regular season, playoff history in Super Bowl LIX - NBC Sports
-Barkley needs just three scrimmage yards and 30 rushing yards to break the NFL's all-time records for most combined yards in a regular and postseason.
-[Read more](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/saquon-barkley-poised-to-make-regular-season-playoff-history-in-super-bowl-lix)
-
-### Two Grand Canyon-size valleys on the far side of the moon formed within 10 minutes, scientists say - CNN
-Two Grand Canyon-size features on the far side of the moon were likely formed in about 10 minutes after an unknown object slammed into the moon 3.8 billion years ago.
-[Read more](https://www.cnn.com/2025/02/05/science/lunar-grand-canyons-far-side-moon/index.html)
+### ‘Jurassic World: Rebirth’ Trailer: Jonathan Bailey And Scarlett Johansson Study And Run From Dinosaurs - Deadline
+Jurassic World: Rebirth has released its first trailer. The film stars Jonathan Bailey, Scarlett Johansson and Mahershala Ali.
+[Read more](http://deadline.com/2025/02/jurassic-world-rebirth-trailer-1236277265/)
 
 <!-- NEWS-END -->
