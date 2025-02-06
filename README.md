@@ -6,76 +6,76 @@ GDP: {'name': 'Real Gross Domestic Product', 'interval': 'annual', 'unit': 'bill
 ## 최신 경제 뉴스
 
 <!-- NEWS-START -->
-### Mideast Power Saudi Arabia Rejects Trump Proposal to Take Over Gaza - The Wall Street Journal
-Riyadh says it is committed to a Palestinian state including the strip, rules out normalization of diplomatic ties with Israel without that goal
-[Read more](https://www.wsj.com/world/middle-east/mideast-power-saudi-arabia-rejects-trump-proposal-to-take-over-gaza-5fe9bc30)
+### On-again, off-again tariffs are having consequences even as S&P 500 holds up for now - CNBC
+The S&P 500 is only 1.5% below an intraday record high of 6,128.18 set on Jan. 24.
+[Read more](https://www.cnbc.com/2025/02/05/on-again-off-again-tariffs-are-having-consequences-even-as-sp-500-holds-up-for-now.html)
+
+### Alphabet shares fall more than 8% on revenue miss, AI investment boost - CNBC
+Alphabet shares dropped after the search giant fell short of Wall Street's fourth-quarter revenue expectations and announced big spending plans
+[Read more](https://www.cnbc.com/2025/02/05/alphabet-shares-fall-7percent-on-revenue-miss-heightened-ai-investments.html)
+
+### Palestinians and Arab states reject Trump's Gaza takeover proposal - BBC.com
+The Palestinian president, Hamas and neighbouring countries condemn the idea of resettling Gazans abroad.
+[Read more](https://www.bbc.com/news/articles/c4gw89x8x11o)
+
+### Trump Tariffs Live Updates: USPS Does A U-Turn And Says It Will Continue Accepting Packages From China - Forbes
+Economists have broadly predicted Trump’s tariffs will raise prices and harm the economy.
+[Read more](https://www.forbes.com/sites/alisondurkee/2025/02/05/trump-tariffs-live-updates-usps-does-a-u-turn-and-says-it-will-continue-accepting-packages-from-china/)
+
+### Workplace shooting in Ohio warehouse leaves 1 dead, 5 more wounded, suspect on loose, police say - CBS News
+Police are seeking an employee of a warehouse in a Columbus, Ohio suburb who they say shot one co-worker to death and wounded five others late Tuesday night.
+[Read more](https://www.cbsnews.com/news/shooting-ohio-warehouse-kdcone-new-albany/)
+
+### Trump expected to become first sitting president to attend Super Bowl, White House confirms visit - Yahoo Sports
+The president is also expected to sit for an interview with Fox News to be aired before the game.
+[Read more](https://sports.yahoo.com/trump-expected-to-become-first-sitting-president-to-attend-super-bowl-white-house-confirms-visit-161805429.html)
+
+### ‘Jurassic World Rebirth’: Scarlett Johansson, Mahershala Ali Hit the Jungle in First Trailer - Hollywood Reporter
+Bounding into theaters this summer, Gareth Edwards' new feature in the Universal franchise also stars Jonathan Bailey.
+[Read more](http://www.hollywoodreporter.com/movies/movie-news/jurassic-world-rebirth-trailer-scarlett-johansson-mahershala-ali-1236127473/)
+
+### Futures Drop Ahead Of ADP Jobs Report - Investor's Business Daily
+Alphabet, AMD and Uber Technologies plunged on earnings Wednesday morning.
+[Read more](https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-alphabet-googl-stock-amd-uber/)
+
+### Two Grand Canyon-size valleys on the far side of the moon formed within 10 minutes, scientists say - CNN
+Two Grand Canyon-size features on the far side of the moon were likely formed in about 10 minutes after an unknown object slammed into the moon 3.8 billion years ago.
+[Read more](https://www.cnn.com/2025/02/05/science/lunar-grand-canyons-far-side-moon/index.html)
+
+### The Galaxy S25 Ultra is Priced at $150 instead of $1,419, Samsung is Going Wild - Gizmodo
+You have 24 hours left to take advantage of the pre-order deals on the entire Galaxy S25 Series.
+[Read more](https://gizmodo.com/the-galaxy-s25-ultra-is-priced-at-150-instead-of-1419-samsung-is-going-wild-2000559322)
+
+### Switch 2 price will ‘consider the affordability customers expect’ from Nintendo, says president - Video Games Chronicle
+But inflation and the exchange rate will also affect the Switch 2 price, says Nintendo's president
+[Read more](https://www.videogameschronicle.com/news/switch-2-price/)
+
+### As Internet enshittification marches on, here are some of the worst offenders - Ars Technica
+Ars staffers take aim at some of the web’s worst predatory practices.
+[Read more](https://arstechnica.com/gadgets/2025/02/as-internet-enshittification-marches-on-here-are-some-of-the-worst-offenders/)
+
+### Disney Earnings Boosted by ‘Moana 2,’ Disney+ Loses 700,000 Subscribers as Streaming Business Swings to Another Profit - Variety
+"Moana 2" and another profitable quarter for Disney+ and Hulu helped Disney beat forecasts for revenue and earnings for the December 2024 quarter.
+[Read more](https://variety.com/2025/tv/news/disney-plus-subscribers-earnings-moana-2-streaming-profit-1236297514/)
+
+### Earthquakes keep rattling Greece’s volcanic island of Santorini every few minutes - The Associated Press
+Earthquakes are still rattling Greece’s volcanic island of Santorini every few minutes. The temblors continued through the night and into Wednesday as authorities bolstered emergency plans in case they herald a larger quake to come. Rescue crews with a sniffe…
+[Read more](https://apnews.com/article/greece-earthquakes-santorini-volcano-7ffcbc139ad1081acdad181df1ad2952)
+
+### Trump’s administration is pulling almost all USAID workers off the job worldwide - The Associated Press
+President Donald Trump's administration says it's pulling almost all U.S. Agency for International Development workers off the job and out of the field worldwide. The order takes effect just before midnight Friday and gives direct hires of the agency overseas…
+[Read more](https://apnews.com/article/trump-usaid-layoffs-7e0a159d8a419c4c9388ab02e8259f23)
+
+### 11 dead in worst mass shooting in Sweden's history, authorities say - ABC News
+None
+[Read more](https://abcnews.go.com/International/11-dead-worst-mass-shooting-swedens-history-authorities/story?id\\u003d118475034)
+
+### A spine-zapping implant helped 3 people with a muscle-wasting disease walk better - The Associated Press
+Three people with a muscle-destroying disease destined to worsen got a little stronger when an implanted device zapped their spinal cord. On Wednesday, researchers reported that a spine-stimulating implant already being tested for paralysis might also aid neu…
+[Read more](https://apnews.com/article/spinal-muscular-atrophy-stimulate-neurodegenerative-826a3ea658d4daa36b6b0671b162af3c)
 
 ### Grammys producer reacts to Bianca Censori's fashion stunt with Kanye West on red carpet. Did she break the dress code? - Hindustan Times
 The executive producer of Grammy Awards this year, Raj Kapoor, has broken his silence on Bianca Censori's stunt with Kanye West.
 [Read more](https://www.hindustantimes.com/entertainment/music/grammys-producer-reacts-to-bianca-censoris-fashion-stunt-with-kanye-west-on-red-carpet-did-she-break-the-dress-code-101738742134616.html)
-
-### 1 dead, 5 injured in shooting at manufacturing facility in New Albany, Ohio - ABC News
-None
-[Read more](https://abcnews.go.com/US/1-dead-5-injured-shooting-facility-new-albany/story?id\\u003d118474211)
-
-### Toyota raises profit forecast and aims to double down on China - Financial Times
-Plans for new battery and electric vehicle plant in Shanghai unveiled for Lexus brand
-[Read more](https://www.ft.com/content/b91cb6a7-d24f-4b71-8de4-58124465f592)
-
-### Trump wants US to 'take over' Gaza and own it 'long term', with Palestinians resettled - live updates - BBC.com
-Jordan and Egypt reject the idea of resettlement - while the Palestinian ambassador to the UN says "our homeland is our homeland".
-[Read more](https://www.bbc.com/news/live/clyn05y9x2xt)
-
-### Horoscope for Wednesday, February 5, 2025 - Chicago Sun-Times
-None
-[Read more](https://chicago.suntimes.com/horoscopes/2025/02/05/horoscopes-today-wednesday-february-5-2025)
-
-### Here's what to expect when Disney reports earnings before the bell - CNBC
-Disney reports its fiscal first quarter earnings before the bell — here's what to expect.
-[Read more](https://www.cnbc.com/2025/02/05/disney-dis-earnings-q1-2025.html)
-
-### Steelers, Bengals are the betting favorites to land Cooper Kupp - NBC Sports
-The Rams are trying to trade receiver Cooper Kupp.
-[Read more](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/steelers-bengals-are-the-betting-favorites-to-land-cooper-kupp)
-
-### Recovery crews retrieve remains of last D.C. plane crash victims - The Washington Post
-Divers and salvage crews have recovered the remains of all 67 victims of last week’s midair collision near Reagan National Airport, officials said Tuesday.
-[Read more](https://www.washingtonpost.com/dc-md-va/2025/02/04/dca-crash-victims-recovered/)
-
-### The Aga Khan, spiritual leader of Ismaili Muslims, dies at 88 - POLITICO
-He poured millions into building homes, hospitals and schools in developing countries.
-[Read more](https://www.politico.com/news/2025/02/04/aga-khan-dies-00202548)
-
-### A SpaceX rocket launch may be visible in the sky tonight. Here’s where. - The Washington Post
-You’ll be able to monitor SpaceX’s live video streams and allow a few minutes before glancing to the east-southeast.
-[Read more](https://www.washingtonpost.com/weather/2025/02/04/spacex-rocket-launch-view/)
-
-### Trump admin placing most USAID staff on leave worldwide - Axios
-The move comes days after Elon Musk said  Trump had agreed to shut down USAID.
-[Read more](https://www.axios.com/2025/02/05/usaid-staff-administrative-leave-trump-musk)
-
-### Report: Suns interested in Warriors’ Draymond Green in potential Durant deal - Bright Side Of The Sun
-Phoenix Suns forward Kevin Durant could be on the move to the Warriors.
-[Read more](https://www.brightsideofthesun.com/2025/2/4/24359036/suns-news-trade-warriors-the-athletic-golden-state-houston-rockets-dallas-mavericks)
-
-### Luka Doncic arrives in L.A., and the Lakers have championship dreams again - The Washington Post
-Doncic is introduced as the newest superstar in Los Angeles, and the team’s renewed title hopes are front and center.
-[Read more](https://www.washingtonpost.com/sports/2025/02/04/lakers-introduce-luka-doncic/)
-
-### Hundreds gather outside Treasury Department to protest Elon Musk’s government influence - WTOP
-Over 1,000 people gathered in front of the Treasury Department in D.C. on Tuesday to protest a breach of secure information being offered to Elon Musk.
-[Read more](https://wtop.com/dc/2025/02/hundreds-gather-outside-treasury-department-to-protest-elon-musks-government-influence/)
-
-### Netflix Removes Karla Sofía Gascón From ‘Emilia Pérez’ Oscars Campaign: Reports - Rolling Stone
-Netflix won't be focusing on Karla Sofía Gascón as it campaigns for 'Emilia Pérez' ahead of the Academy Awards.
-[Read more](http://www.rollingstone.com/tv-movies/tv-movie-news/karla-sofia-gascon-emilia-perez-netflix-oscars-1235257024/)
-
-### 'They've done their homework': The unexpected power of Musk's digital assault on Washington - POLITICO
-Almost overnight, banal-seeming federal IT systems have become an ideologically driven bulldozer
-[Read more](https://www.politico.com/news/2025/02/04/musk-digital-assault-washington-00202516)
-
-### FBI agents sue over Justice Dept. effort to ID employees involved in Trump-related investigations - The Associated Press
-FBI agents who participated in investigations related to President Donald Trump have sued over Justice Department efforts to develop a list of employees involved in those inquiries that they fear could be a precursor to mass firings. Two lawsuits, filed Tuesd…
-[Read more](https://apnews.com/article/donald-trump-fbi-justice-department-8460829a0874f91a95bc4a9d22e36fce)
 
 <!-- NEWS-END -->
