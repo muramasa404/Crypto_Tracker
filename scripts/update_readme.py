@@ -25,7 +25,7 @@ def update_readme():
     content = content.replace("<!-- ECONOMIC-DATA-START -->", economic_data_md)
     content = content.replace("<!-- NEWS-START -->", news_data_md)
 
-    with open("README.md", "w") as file:
+    with open("../README.md", "w") as file:
         file.write(content)
 
 if __name__ == "__main__":
