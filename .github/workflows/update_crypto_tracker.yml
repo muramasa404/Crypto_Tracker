@@ -1,0 +1,33 @@
+name: Update README with Economic Data & News
+
+on:
+  schedule:
+    - cron: '*/5 * * * *'  # 매일 오전 9시마다 실행
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Install Dependencies
+        run: |
+          pip install -r requirements.txt
+
+      - name: Run Update Script
+        run: python scripts/update_readme.py
+
+      - name: Commit changes
+        run: |
+          git config --global user.email "you@example.com"
+          git config --global user.name "Your Name"
+          git add README.md
+          git commit -m "Auto-update README with latest economic data and news" || echo "No changes to commit"
+          git push
