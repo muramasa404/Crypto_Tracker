@@ -6,37 +6,57 @@ GDP: {'name': 'Real Gross Domestic Product', 'interval': 'annual', 'unit': 'bill
 ## 최신 경제 뉴스
 
 <!-- NEWS-START -->
-### On-again, off-again tariffs are having consequences even as S&P 500 holds up for now - CNBC
-The S&P 500 is only 1.5% below an intraday record high of 6,128.18 set on Jan. 24.
-[Read more](https://www.cnbc.com/2025/02/05/on-again-off-again-tariffs-are-having-consequences-even-as-sp-500-holds-up-for-now.html)
+### Trump to ban transgender athletes in competition - ESPN
+President Donald Trump will sign an executive order Wednesday that will prevent people who were assigned male at birth from participating in women's or girls' sporting events.
+[Read more](https://www.espn.com/college-sports/story/_/id/43703874/trump-bar-transgender-athletes-competing-women-sports)
 
-### Alphabet shares fall more than 8% on revenue miss, AI investment boost - CNBC
-Alphabet shares dropped after the search giant fell short of Wall Street's fourth-quarter revenue expectations and announced big spending plans
-[Read more](https://www.cnbc.com/2025/02/05/alphabet-shares-fall-7percent-on-revenue-miss-heightened-ai-investments.html)
+### Rand Paul recoils at Trump's Gaza takeover plans: 'I thought we voted for America First' - Fox News
+Sen. Rand Paul recoiled in response to President Donald Trump's Gaza takeover plan, suggesting that it would run afoul of the "America First" principle people voted for.
+[Read more](https://www.foxnews.com/politics/rand-paul-recoils-trumps-gaza-takeover-plans-i-thought-we-voted-america-first)
 
-### Palestinians and Arab states reject Trump's Gaza takeover proposal - BBC.com
-The Palestinian president, Hamas and neighbouring countries condemn the idea of resettling Gazans abroad.
-[Read more](https://www.bbc.com/news/articles/c4gw89x8x11o)
+### Sources: Bucks trade Middleton, land Kuzma - ESPN
+The Bucks have traded Khris Middleton to the Wizards, ending his tenure as one of their franchise cornerstones in a deal that sends Kyle Kuzma to Milwaukee, sources told ESPN.
+[Read more](https://www.espn.com/nba/story/_/id/43704153/sources-bucks-trade-khris-middleton-wizards-kyle-kuzma)
 
-### Trump Tariffs Live Updates: USPS Does A U-Turn And Says It Will Continue Accepting Packages From China - Forbes
-Economists have broadly predicted Trump’s tariffs will raise prices and harm the economy.
-[Read more](https://www.forbes.com/sites/alisondurkee/2025/02/05/trump-tariffs-live-updates-usps-does-a-u-turn-and-says-it-will-continue-accepting-packages-from-china/)
+### Sweden’s worst mass shooting leaves at least 11 dead, including the gunman - The Associated Press
+Sweden’s worst mass shooting has left at least 11 people dead including the gunman and five seriously wounded at an adult education center. Police believe the perpetrator acted alone but hadn't said by Wednesday if he was a student or what his motive may have…
+[Read more](https://apnews.com/article/sweden-shooting-adult-education-center-fa26e8064a0708ddc213c7cd9f50267c)
 
-### Workplace shooting in Ohio warehouse leaves 1 dead, 5 more wounded, suspect on loose, police say - CBS News
-Police are seeking an employee of a warehouse in a Columbus, Ohio suburb who they say shot one co-worker to death and wounded five others late Tuesday night.
-[Read more](https://www.cbsnews.com/news/shooting-ohio-warehouse-kdcone-new-albany/)
+### USAID staff will be put on leave starting on Friday - BBC.com
+The agency has become a focus of the Trump administration's efforts to cut government spending.
+[Read more](https://www.bbc.com/news/articles/cx253xjnxrmo)
 
-### Trump expected to become first sitting president to attend Super Bowl, White House confirms visit - Yahoo Sports
-The president is also expected to sit for an interview with Fox News to be aired before the game.
-[Read more](https://sports.yahoo.com/trump-expected-to-become-first-sitting-president-to-attend-super-bowl-white-house-confirms-visit-161805429.html)
+### What the 'mother of all trade wars' can teach us about U.S. tariffs, according to economists - CNBC
+Here's how current events are mirroring a key point in U.S. history that led to a trade war and exacerbated the Great Depression, according to economists.
+[Read more](https://www.cnbc.com/2025/02/05/how-smoot-hawley-tariff-sparked-the-mother-of-all-trade-wars.html)
 
-### ‘Jurassic World Rebirth’: Scarlett Johansson, Mahershala Ali Hit the Jungle in First Trailer - Hollywood Reporter
-Bounding into theaters this summer, Gareth Edwards' new feature in the Universal franchise also stars Jonathan Bailey.
-[Read more](http://www.hollywoodreporter.com/movies/movie-news/jurassic-world-rebirth-trailer-scarlett-johansson-mahershala-ali-1236127473/)
+### Box-office smash ‘Moana 2' drives Disney profit in the first quarter - The Associated Press
+Disney easily topped first-quarter expectations thanks in part to the box office success of “Moana 2.” The Walt Disney Co. earned $2.55 billion, or $1.40 per share, for the period ended Dec. 28. The Burbank, California-based company earned $1.91 billion, or $…
+[Read more](https://apnews.com/article/disney-iger-moana-streaming-c2128459cbe670c85f2f374669954a99)
 
-### Futures Drop Ahead Of ADP Jobs Report - Investor's Business Daily
-Alphabet, AMD and Uber Technologies plunged on earnings Wednesday morning.
-[Read more](https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-alphabet-googl-stock-amd-uber/)
+### Suspect apprehended after deadly shooting at manufacturing facility in Ohio - ABC News
+None
+[Read more](https://abcnews.go.com/US/1-dead-5-injured-shooting-facility-new-albany/story?id\\u003d118474211)
+
+### Bullseye galaxy reveals stunning rings after galactic impact - Earth.com
+A small blue dwarf galaxy passed through the massive Bullseye galaxy. This impact created nine rings of new stars.
+[Read more](https://www.earth.com/news/bullseye-galaxy-reveals-stunning-rings-after-galactic-impact/)
+
+### Kanye West’s wife Bianca Censori to face legal action for shocking ‘nude’ Grammys stunt? - Hindustan Times
+Kanye West's wife Bianca Censori dropped her black feather coat to display her skimpy minidress while walking Grammys red carpet, sparking calls for her arrest.
+[Read more](https://www.hindustantimes.com/entertainment/music/kanye-west-s-wife-bianca-censori-to-face-legal-action-for-shocking-nude-grammys-stunt-101738763524054.html)
+
+### Mark Zuckerberg Just Delivered Incredible News for Nvidia, AMD, and Micron Stock Investors - The Motley Fool
+
+[Read more](https://www.fool.com/investing/2025/02/05/mark-zuckerberg-delivered-nvidia-amd-micron-stock/)
+
+### Jonathan Bailey And Scarlett Johansson Study And Run From Dinosaurs In ‘Jurassic World: Rebirth’ Trailer - Deadline
+Jurassic World: Rebirth has released its first trailer. The film stars Jonathan Bailey, Scarlett Johansson and Mahershala Ali.
+[Read more](http://deadline.com/2025/02/jurassic-world-rebirth-trailer-1236277265/)
+
+### Google-Parent Alphabet Beat Earnings Expectations. Why the Stock Is Tumbling. - Barron's
+None
+[Read more](https://www.barrons.com/articles/alphabet-earnings-stock-price-google-476852a7)
 
 ### Two Grand Canyon-size valleys on the far side of the moon formed within 10 minutes, scientists say - CNN
 Two Grand Canyon-size features on the far side of the moon were likely formed in about 10 minutes after an unknown object slammed into the moon 3.8 billion years ago.
@@ -46,36 +66,12 @@ Two Grand Canyon-size features on the far side of the moon were likely formed in
 You have 24 hours left to take advantage of the pre-order deals on the entire Galaxy S25 Series.
 [Read more](https://gizmodo.com/the-galaxy-s25-ultra-is-priced-at-150-instead-of-1419-samsung-is-going-wild-2000559322)
 
-### Switch 2 price will ‘consider the affordability customers expect’ from Nintendo, says president - Video Games Chronicle
-But inflation and the exchange rate will also affect the Switch 2 price, says Nintendo's president
-[Read more](https://www.videogameschronicle.com/news/switch-2-price/)
-
 ### As Internet enshittification marches on, here are some of the worst offenders - Ars Technica
 Ars staffers take aim at some of the web’s worst predatory practices.
 [Read more](https://arstechnica.com/gadgets/2025/02/as-internet-enshittification-marches-on-here-are-some-of-the-worst-offenders/)
 
-### Disney Earnings Boosted by ‘Moana 2,’ Disney+ Loses 700,000 Subscribers as Streaming Business Swings to Another Profit - Variety
-"Moana 2" and another profitable quarter for Disney+ and Hulu helped Disney beat forecasts for revenue and earnings for the December 2024 quarter.
-[Read more](https://variety.com/2025/tv/news/disney-plus-subscribers-earnings-moana-2-streaming-profit-1236297514/)
-
 ### Earthquakes keep rattling Greece’s volcanic island of Santorini every few minutes - The Associated Press
 Earthquakes are still rattling Greece’s volcanic island of Santorini every few minutes. The temblors continued through the night and into Wednesday as authorities bolstered emergency plans in case they herald a larger quake to come. Rescue crews with a sniffe…
 [Read more](https://apnews.com/article/greece-earthquakes-santorini-volcano-7ffcbc139ad1081acdad181df1ad2952)
-
-### Trump’s administration is pulling almost all USAID workers off the job worldwide - The Associated Press
-President Donald Trump's administration says it's pulling almost all U.S. Agency for International Development workers off the job and out of the field worldwide. The order takes effect just before midnight Friday and gives direct hires of the agency overseas…
-[Read more](https://apnews.com/article/trump-usaid-layoffs-7e0a159d8a419c4c9388ab02e8259f23)
-
-### 11 dead in worst mass shooting in Sweden's history, authorities say - ABC News
-None
-[Read more](https://abcnews.go.com/International/11-dead-worst-mass-shooting-swedens-history-authorities/story?id\\u003d118475034)
-
-### A spine-zapping implant helped 3 people with a muscle-wasting disease walk better - The Associated Press
-Three people with a muscle-destroying disease destined to worsen got a little stronger when an implanted device zapped their spinal cord. On Wednesday, researchers reported that a spine-stimulating implant already being tested for paralysis might also aid neu…
-[Read more](https://apnews.com/article/spinal-muscular-atrophy-stimulate-neurodegenerative-826a3ea658d4daa36b6b0671b162af3c)
-
-### Grammys producer reacts to Bianca Censori's fashion stunt with Kanye West on red carpet. Did she break the dress code? - Hindustan Times
-The executive producer of Grammy Awards this year, Raj Kapoor, has broken his silence on Bianca Censori's stunt with Kanye West.
-[Read more](https://www.hindustantimes.com/entertainment/music/grammys-producer-reacts-to-bianca-censoris-fashion-stunt-with-kanye-west-on-red-carpet-did-she-break-the-dress-code-101738742134616.html)
 
 <!-- NEWS-END -->
