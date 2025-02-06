@@ -6,72 +6,68 @@ GDP: {'name': 'Real Gross Domestic Product', 'interval': 'annual', 'unit': 'bill
 ## 최신 경제 뉴스
 
 <!-- NEWS-START -->
-### Trump to ban transgender athletes in competition - ESPN
-President Donald Trump will sign an executive order Wednesday that will prevent people who were assigned male at birth from participating in women's or girls' sporting events.
-[Read more](https://www.espn.com/college-sports/story/_/id/43703874/trump-bar-transgender-athletes-competing-women-sports)
+### Blake Lively Sued For Defamation by Crisis PR Firm in ‘It Ends With Us’ Feud - Hollywood Reporter
+Jed Wallace targets the actress naming him in the sexual harassment and retaliation complaint she filed with the California Civil Rights Department.
+[Read more](http://www.hollywoodreporter.com/business/business-news/blake-lively-sued-defamation-jed-wallace-1236127820/)
 
-### Rand Paul recoils at Trump's Gaza takeover plans: 'I thought we voted for America First' - Fox News
-Sen. Rand Paul recoiled in response to President Donald Trump's Gaza takeover plan, suggesting that it would run afoul of the "America First" principle people voted for.
-[Read more](https://www.foxnews.com/politics/rand-paul-recoils-trumps-gaza-takeover-plans-i-thought-we-voted-america-first)
+### Trump offers deferred resignation to national security and intelligence workers - NPR
+The letters are the first examples of the national security and intelligence workforce being included in broader efforts to downsize the federal government by the Trump administration.
+[Read more](https://www.npr.org/2025/02/05/nx-s1-5287792/trump-deferred-resignation-cia-nsa-odni-national-security-intelligence)
 
-### Sources: Bucks trade Middleton, land Kuzma - ESPN
-The Bucks have traded Khris Middleton to the Wizards, ending his tenure as one of their franchise cornerstones in a deal that sends Kyle Kuzma to Milwaukee, sources told ESPN.
-[Read more](https://www.espn.com/nba/story/_/id/43704153/sources-bucks-trade-khris-middleton-wizards-kyle-kuzma)
+### Top Justice Department official accuses FBI leadership of ‘insubordination’ over January 6 inquiry - CNN
+The acting deputy attorney general accused FBI leadership of “insubordination” by refusing to identify a “core team” of bureau employees who worked on January 6 investigations, while trying to assure that rank-and-file agents who “simply followed orders” will…
+[Read more](https://www.cnn.com/2025/02/05/politics/fbi-january-6-justice-department/index.html)
 
-### Sweden’s worst mass shooting leaves at least 11 dead, including the gunman - The Associated Press
-Sweden’s worst mass shooting has left at least 11 people dead including the gunman and five seriously wounded at an adult education center. Police believe the perpetrator acted alone but hadn't said by Wednesday if he was a student or what his motive may have…
-[Read more](https://apnews.com/article/sweden-shooting-adult-education-center-fa26e8064a0708ddc213c7cd9f50267c)
+### Khris Middleton trade grades: Bucks get 'C-' for moving franchise mainstay to Wizards for Kyle Kuzma - CBS Sports
+Middleton hasn't been on the court much, but Kuzma is having the least-efficient season of his career
+[Read more](https://www.cbssports.com/nba/news/khris-middleton-trade-grades-bucks-get-c-for-moving-franchise-mainstay-to-wizards-for-kyle-kuzma/)
 
-### USAID staff will be put on leave starting on Friday - BBC.com
-The agency has become a focus of the Trump administration's efforts to cut government spending.
-[Read more](https://www.bbc.com/news/articles/cx253xjnxrmo)
-
-### What the 'mother of all trade wars' can teach us about U.S. tariffs, according to economists - CNBC
-Here's how current events are mirroring a key point in U.S. history that led to a trade war and exacerbated the Great Depression, according to economists.
-[Read more](https://www.cnbc.com/2025/02/05/how-smoot-hawley-tariff-sparked-the-mother-of-all-trade-wars.html)
-
-### Box-office smash ‘Moana 2' drives Disney profit in the first quarter - The Associated Press
-Disney easily topped first-quarter expectations thanks in part to the box office success of “Moana 2.” The Walt Disney Co. earned $2.55 billion, or $1.40 per share, for the period ended Dec. 28. The Burbank, California-based company earned $1.91 billion, or $…
-[Read more](https://apnews.com/article/disney-iger-moana-streaming-c2128459cbe670c85f2f374669954a99)
-
-### Suspect apprehended after deadly shooting at manufacturing facility in Ohio - ABC News
+### Judge issues nationwide injunction blocking Trump's bid to end birthright citizenship - ABC News
 None
-[Read more](https://abcnews.go.com/US/1-dead-5-injured-shooting-facility-new-albany/story?id\\u003d118474211)
+[Read more](https://abcnews.go.com/US/judge-future-trumps-order-blocking-birthright-citizenship/story?id\\u003d118460936)
 
-### Bullseye galaxy reveals stunning rings after galactic impact - Earth.com
-A small blue dwarf galaxy passed through the massive Bullseye galaxy. This impact created nine rings of new stars.
-[Read more](https://www.earth.com/news/bullseye-galaxy-reveals-stunning-rings-after-galactic-impact/)
-
-### Kanye West’s wife Bianca Censori to face legal action for shocking ‘nude’ Grammys stunt? - Hindustan Times
-Kanye West's wife Bianca Censori dropped her black feather coat to display her skimpy minidress while walking Grammys red carpet, sparking calls for her arrest.
-[Read more](https://www.hindustantimes.com/entertainment/music/kanye-west-s-wife-bianca-censori-to-face-legal-action-for-shocking-nude-grammys-stunt-101738763524054.html)
-
-### Mark Zuckerberg Just Delivered Incredible News for Nvidia, AMD, and Micron Stock Investors - The Motley Fool
-
-[Read more](https://www.fool.com/investing/2025/02/05/mark-zuckerberg-delivered-nvidia-amd-micron-stock/)
-
-### Jonathan Bailey And Scarlett Johansson Study And Run From Dinosaurs In ‘Jurassic World: Rebirth’ Trailer - Deadline
-Jurassic World: Rebirth has released its first trailer. The film stars Jonathan Bailey, Scarlett Johansson and Mahershala Ali.
-[Read more](http://deadline.com/2025/02/jurassic-world-rebirth-trailer-1236277265/)
-
-### Google-Parent Alphabet Beat Earnings Expectations. Why the Stock Is Tumbling. - Barron's
+### 11 dead in worst mass shooting in Sweden's history, authorities say - ABC News
 None
-[Read more](https://www.barrons.com/articles/alphabet-earnings-stock-price-google-476852a7)
+[Read more](https://abcnews.go.com/International/11-dead-worst-mass-shooting-swedens-history-authorities/story?id\\u003d118475034)
+
+### Here are five Apple Invites features you might have missed - 9to5Mac
+Apple just launched a brand new Invites app for iPhone, here are five included features you might have missed.
+[Read more](https://9to5mac.com/2025/02/05/here-are-five-apple-invites-features-you-might-have-missed/)
+
+### Ancient duck-like creature discovered in Antarctica may be the oldest modern bird ever discovered - Livescience.com
+A new and nearly complete skull of Vegavis iaai discovered in Antarctica suggests that modern birds originated before the end-Cretaceous mass extinction.
+[Read more](https://www.livescience.com/animals/birds/ancient-duck-like-creature-discovered-in-antarctica-may-be-the-oldest-modern-bird-ever-discovered)
+
+### Google opens its most powerful AI models to everyone, the next stage in its virtual agent push - CNBC
+The suite of agentic Gemini 2.0 models includes 2.0 Flash, 2.0 Pro Experimental and 2.0 Flash-Lite.
+[Read more](https://www.cnbc.com/2025/02/05/google-opens-gemini-2point0-its-most-powerful-ai-model-to-everyone.html)
+
+### The end of Squid Game and Stranger Things solidifies Netflix’s new era - The Verge
+The final seasons of both Stranger Things and Squid Game hit Netflix in 2025, marking the end of an era.
+[Read more](https://www.theverge.com/netflix/606274/netfflix-new-era-stranger-things-squid-game-end)
+
+### Disney Stock Drifts After Earnings. How Price Hikes Are Helping. - Barron's
+None
+[Read more](https://www.barrons.com/articles/disney-earnings-stock-price-f89c0e51)
+
+### Ohio warehouse mass shooting leaves 1 dead, 5 injured; suspect arrested - USA TODAY
+One person was killed and five were injured in a shooting at a cosmetics warehouse facility in New Albany, Ohio. A suspect has been arrested.
+[Read more](https://www.usatoday.com/story/news/nation/2025/02/05/ohio-new-albany-shooting-kdcone/78238921007/)
+
+### USAID employees around the world will be placed on leave Friday and ordered to return to US - CNN
+US Agency for International Development staff around the world will be placed on administrative leave Friday and ordered to return to the US, according to a directive issued Tuesday night.
+[Read more](https://www.cnn.com/2025/02/04/politics/usaid-officials-administrative-leave/index.html)
+
+### President Trump sends first US migrant detainees to Guantanamo Bay - BBC.com
+The US president last week announced plans to expand the detention of migrants at the base in Cuba.
+[Read more](https://www.bbc.com/news/articles/cy0p1ykxyzjo)
+
+### Saquon Barkley poised to make regular season, playoff history in Super Bowl LIX - NBC Sports
+Barkley needs just three scrimmage yards and 30 rushing yards to break the NFL's all-time records for most combined yards in a regular and postseason.
+[Read more](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/saquon-barkley-poised-to-make-regular-season-playoff-history-in-super-bowl-lix)
 
 ### Two Grand Canyon-size valleys on the far side of the moon formed within 10 minutes, scientists say - CNN
 Two Grand Canyon-size features on the far side of the moon were likely formed in about 10 minutes after an unknown object slammed into the moon 3.8 billion years ago.
 [Read more](https://www.cnn.com/2025/02/05/science/lunar-grand-canyons-far-side-moon/index.html)
-
-### The Galaxy S25 Ultra is Priced at $150 instead of $1,419, Samsung is Going Wild - Gizmodo
-You have 24 hours left to take advantage of the pre-order deals on the entire Galaxy S25 Series.
-[Read more](https://gizmodo.com/the-galaxy-s25-ultra-is-priced-at-150-instead-of-1419-samsung-is-going-wild-2000559322)
-
-### As Internet enshittification marches on, here are some of the worst offenders - Ars Technica
-Ars staffers take aim at some of the web’s worst predatory practices.
-[Read more](https://arstechnica.com/gadgets/2025/02/as-internet-enshittification-marches-on-here-are-some-of-the-worst-offenders/)
-
-### Earthquakes keep rattling Greece’s volcanic island of Santorini every few minutes - The Associated Press
-Earthquakes are still rattling Greece’s volcanic island of Santorini every few minutes. The temblors continued through the night and into Wednesday as authorities bolstered emergency plans in case they herald a larger quake to come. Rescue crews with a sniffe…
-[Read more](https://apnews.com/article/greece-earthquakes-santorini-volcano-7ffcbc139ad1081acdad181df1ad2952)
 
 <!-- NEWS-END -->
