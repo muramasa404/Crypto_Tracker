@@ -6,68 +6,76 @@ GDP: {'name': 'Real Gross Domestic Product', 'interval': 'annual', 'unit': 'bill
 ## 최신 경제 뉴스
 
 <!-- NEWS-START -->
+### California utility company says its equipment may have sparked a Los Angeles-area wildfire - CNN
+California utility company Southern California Edison on Thursday said its equipment “may be associated with” the ignition of the Hurst Fire, which burned alongside the Eaton and Palisades fires during January’s Los Angeles firestorms.
+[Read more](https://www.cnn.com/2025/02/06/us/southern-california-edison-hudson-hurst-fire/index.html)
+
+### Deadpool Creator Rob Liefeld Will No Longer Work with Marvel After ‘Deadpool & Wolverine’ Premiere Indignities - Hollywood Reporter
+The writer-artist describes several perceived slights, such as being denied access to the afterparty, and makes a head-turning claim: "Kevin Feige does not treat comic book creators well."
+[Read more](http://www.hollywoodreporter.com/movies/movie-news/deadpool-creator-rob-liefeld-1236128162/)
+
+### Note to Our Readers - POLITICO
+POLITICO has been the subject of debate on X this week. Some of it has been misinformed, and some of it has been flat-out false. Let’s set the record straight.
+[Read more](https://www.politico.com/news/2025/02/06/politico-note-to-readers-00202917)
+
+### Netanyahu won’t meet with Jewish org. leaders during US visit - exclusive - The Jerusalem Post
+During the week, Netanyahu met with senior administration officials and even a group of senior Evangelical leaders at the beginning of his trip.
+[Read more](https://www.jpost.com/us-elections/article-841034)
+
+### Telescopes spy a monster radio jet streaming from a bright and early object in the universe - ABC News
+Telescopes around the world have spotted a monster radio jet streaming from a quasar dating back to the first 1 billion years of the universe
+[Read more](https://abcnews.go.com/Technology/wireStory/telescopes-spy-monster-radio-jet-streaming-bright-early-118537846)
+
+### CDC scientific report resumes publication after unprecedented pause - The Washington Post
+But three studies about bird flu remain on hold even as the outbreak spreads.
+[Read more](https://www.washingtonpost.com/health/2025/02/06/cdc-mmwr-bird-flu-public-health-communication/)
+
+### Kendrick Lamar vows to keep his passion for storytelling at the Super Bowl halftime show - The Associated Press
+Kendrick Lamar aims to infuse his Los Angeles hip-hop flavor into New Orleans while staying true to his storytelling roots during Sunday’s Super Bowl halftime performance. At a press conference Thursday hosted by Apple Music, he said he'll be bringing his fee…
+[Read more](https://apnews.com/article/kendrick-lamar-super-bowl-halftime-show-7821bb12a3adad3095503aa06238c831)
+
+### Jimmy Butler is headed to the Golden State Warriors, Andrew Wiggins to Miami Heat, AP source says - The Associated Press
+Jimmy Butler has gotten his wish. He’s being traded out of Miami. The Heat and the Golden State Warriors have agreed on a deal that sends Butler to the Bay Area, a person with knowledge of the talks said Wednesday. The trade ends a Miami era for Butler that w…
+[Read more](https://apnews.com/article/jimmy-butler-trade-heat-warriors-71c5aa767874b8b068cdb597c2a0b21a)
+
+### Karla Sofía Gascón Set To Skip Spain’s Goya Awards Amid Backlash Over ‘Emilia Pérez’ Star’s Tweets - Deadline
+In the latest sign that Karla Sofía Gascón is taking a backseat on the 'Emilia Pérez' awards tour, the actress is set to skip the Goya Awards.
+[Read more](http://deadline.com/2025/02/karla-sofia-gascon-skip-spain-goya-awards-emilia-perez-1236280350/)
+
 ### Judge to consider request to block Trump's federal government employee buyout - ABC News
 None
 [Read more](https://abcnews.go.com/US/judge-request-block-trumps-federal-government-employee-buyout/story?id\\u003d118535508)
 
-### 2025 NBA trade deadline: Fantasy impact and analysis on every move - NBC Sports
-Every deal made in the leadup to Thursday's NBA trade deadline and the fantasy impact.
-[Read more](https://www.nbcsports.com/fantasy/basketball/news/2025-fantasy-basketball-nba-trade-deadline-transaction-tracker)
+### Trump administration sues Chicago over 'sanctuary city' laws - BBC.com
+Border Czar Tom Homan said that cities will be 'held accountable' for impeding immigration enforcement.
+[Read more](https://www.bbc.com/news/articles/c8r585ndey4o)
 
-### GOP tension grows on Trump agenda bill as Senate diverges from House's path - NBC News
-As the House struggles to begin work on "one big, beautiful bill" to advance President Donald Trump's agenda, Senate Republicans are starting a two-bill path.
-[Read more](https://www.nbcnews.com/politics/congress/gop-tension-grows-trump-agenda-bill-senate-diverges-houses-path-rcna190974)
+### Average US rate on a 30-year mortgage falls to 6.89%, third straight weekly decline - ABC News
+The average rate on a 30-year mortgage in the U.S. eased for the third week in a row, a smidgen of relief for prospective home shoppers getting into the market before the busy spring homebuying season starts
+[Read more](https://abcnews.go.com/Business/wireStory/average-us-rate-30-year-mortgage-falls-689-118534751)
 
-### Justice Department sues Chicago and Illinois over 'sanctuary' laws - NPR
-The federal lawsuit accuses those jurisdictions of "making it more difficult for, and deliberately impeding, federal immigration officers' ability to carry out their responsibilities."
-[Read more](https://www.npr.org/2025/02/06/nx-s1-5288871/justice-department-sues-chicago-and-illinois-over-sanctuary-laws)
+### Amazon's Alexa Set for Major AI Upgrade: Here's What to Expect - CNET
+Alexa spent years listening and talking. Now it is about to start thinking.
+[Read more](https://www.cnet.com/home/smart-home/amazons-alexa-set-for-major-ai-upgrade-heres-what-to-expect/)
 
-### 102 snakes removed from homeowner’s garden in Sydney - CNN
-Living in Australia means you might have to accept coming across a snake or two on your property at some point. But one Sydney homeowner got more than he bargained for when a snake catcher unearthed 102 of the slithery reptiles hiding in his garden.
-[Read more](https://www.cnn.com/2025/02/06/australia/102-snakes-garden-sydney-intl-scli/index.html)
+### Elon Musk barred from accessing US Treasury payments data - Financial Times
+Temporary order restricts efforts of billionaire’s Department of Government Efficiency to infiltrate multitrillion dollar system
+[Read more](https://www.ft.com/content/097b286f-376e-40eb-8804-69a6d217803d)
 
-### Democrats zero in on Musk as a way to attack Trump - POLITICO
-The billionaire's strategy of moving fast and breaking things isn't going over so well with the public.
-[Read more](https://www.politico.com/news/2025/02/06/democrats-elon-musk-donald-trump-00202833)
+### OpenAI Eyeing More Data Centers in Texas, Other States for Stargate - Bloomberg
+A joint venture from OpenAI, SoftBank Group Corp. and Oracle Corp. is close to selecting additional sites for data center campuses in Texas and eyeing more projects in over a dozen other states, as the companies work to fulfill an ambitious plan to invest hun…
+[Read more](https://www.bloomberg.com/news/articles/2025-02-06/openai-eyeing-more-data-centers-in-texas-other-states-for-stargate)
 
-### Syrians and Bosnian among victims of gunman's attack on Swedish school - BBC.com
-Details of those killed have emerged from embassies in Stockholm, as police describe the scene of the attack.
-[Read more](https://www.bbc.com/news/articles/cy9l2424wrgo)
+### Temu pushes ‘local’ products after Trump reverses trade loophole that helps Chinese companies avoid taxes - New York Post 
+The Chinese-owned e-commerce site promoted so-called “local” products on its website after President Trump imposed a 10% tariff on China and revoked a longtime trade loophole.
+[Read more](https://nypost.com/2025/02/06/business/temu-wants-you-to-buy-its-local-products-after-trump-reverses-trade-loophole/)
 
-### Single-photon LiDAR delivers detailed 3D images at distances up to 1 kilometer - Phys.org
-Researchers have designed a single-photon time-of-flight LiDAR system that can acquire a high-resolution 3D image of an object or scene up to 1 kilometer away. The new system could help enhance security, monitoring, and remote sensing by enabling detailed ima…
-[Read more](https://phys.org/news/2025-02-photon-lidar-3d-images-distances.html)
+### Chappell Roan’s Grammy Speech Raises Questions on Healthcare in the Music Industry - Rolling Stone
+Chappell Roan used her Grammy Best New Artist speech to demand that labels give artists healthcare. Activists and organizers are working on it
+[Read more](http://www.rollingstone.com/music/music-features/chappell-roan-grammy-speech-healthcare-music-industry-1235258394/)
 
-### Super Bowl 59: Start time, halftime show, teams, how to watch, Taylor Swift - Al Jazeera English
-Superbowl LIX promises to be one of the most high-profile NFL finales in years with two superb teams going head-to-head.
-[Read more](https://www.aljazeera.com/sports/2025/2/6/nfl-super-bowl-59-time-date-teams-halftime-how-to-watch-taylor-swift)
-
-### How Jay-Z’s Roc Nation Made the Super Bowl Halftime Show Cool Again - Bloomberg
-The partnership has helped revive the show over the past five years, but how long it will last remains to be seen.
-[Read more](https://www.bloomberg.com/news/articles/2025-02-06/super-bowl-2025-halftime-show-with-kendrick-lamar-produced-by-jay-z-s-roc-nation)
-
-### Ice storm brings snow, sleet and freezing rain to mid-Atlantic and Northeast; more than 100 million under winter storm alerts - Yahoo! Voices
-A winter storm that brought snow, sleet and freezing rain to a large swath of the Midwest swept into the mid-Atlantic and Northeast on Thursday, snarling...
-[Read more](https://www.yahoo.com/news/ice-storm-brings-snow-sleet-and-freezing-rain-to-mid-atlantic-and-northeast-more-than-100-million-under-winter-storm-alerts-151524758.html)
-
-### Santorini in state of emergency after strongest quake in days of tremors - CNN
-A state of emergency has been declared in Santorini after the strongest earthquake was recorded in days of near-constant tremors, which have almost emptied the famous Greek tourist haven of visitors and residents.
-[Read more](https://www.cnn.com/2025/02/06/travel/santorini-greece-earthquake-strong-intl/index.html)
-
-### Philip Morris’s stock touches record high as outlook tops Wall Street estimates - MarketWatch
-Tobacco giant cites boost from smokeless products such as the Zyn nicotine pouch
-[Read more](https://www.marketwatch.com/story/philip-morris-stock-rises-as-outlook-tops-analyst-estimates-c3ef0258)
-
-### Trump Media Registers Trademarks for Truth.Fi Investment Vehicles - GlobeNewswire
-TMTG Quickly Advancing Plans to Launch America First-Themed ETFs, SMAs    SARASOTA, Fla., Feb.  06, 2025  (GLOBE NEWSWIRE) -- Trump Media and...
-[Read more](https://www.globenewswire.com/news-release/2025/02/06/3022027/0/en/Trump-Media-Registers-Trademarks-for-Truth-Fi-Investment-Vehicles.html)
-
-### New bird flu infections in Nevada dairy cattle signal the virus may be here to stay - CNN
-Six dairy herds in Nevada have tested positive for a newer variant of the H5N1 bird flu virus that’s been associated with severe infections in humans, according to the Nevada Department of Agriculture.
-[Read more](https://www.cnn.com/2025/02/05/health/bird-flu-cattle-nevada/index.html)
-
-### Dow Jones Futures Rise Ahead Of Jobless Claims; Nvidia Partner Arm Slides On Earnings - Investor's Business Daily
-Key earnings movers include Arm, MicroStrategy, Qualcomm and Roblox.
-[Read more](https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-jobless-claims-nvidia-partner-arm-stock/)
+### Researchers trained an OpenAI rival in half an hour for less than $50 - The Verge
+AI researchers say they have trained a reasoning model rivaling OpenAI’s in just a half an hour and less than $50.
+[Read more](https://www.theverge.com/news/607341/researchers-cheaper-openai-rival-training)
 
 <!-- NEWS-END -->
