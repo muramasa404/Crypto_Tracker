@@ -6,72 +6,68 @@ GDP: {'name': 'Real Gross Domestic Product', 'interval': 'annual', 'unit': 'bill
 ## 최신 경제 뉴스
 
 <!-- NEWS-START -->
+### Judge to consider request to block Trump's federal government employee buyout - ABC News
+None
+[Read more](https://abcnews.go.com/US/judge-request-block-trumps-federal-government-employee-buyout/story?id\\u003d118535508)
+
+### 2025 NBA trade deadline: Fantasy impact and analysis on every move - NBC Sports
+Every deal made in the leadup to Thursday's NBA trade deadline and the fantasy impact.
+[Read more](https://www.nbcsports.com/fantasy/basketball/news/2025-fantasy-basketball-nba-trade-deadline-transaction-tracker)
+
+### GOP tension grows on Trump agenda bill as Senate diverges from House's path - NBC News
+As the House struggles to begin work on "one big, beautiful bill" to advance President Donald Trump's agenda, Senate Republicans are starting a two-bill path.
+[Read more](https://www.nbcnews.com/politics/congress/gop-tension-grows-trump-agenda-bill-senate-diverges-houses-path-rcna190974)
+
+### Justice Department sues Chicago and Illinois over 'sanctuary' laws - NPR
+The federal lawsuit accuses those jurisdictions of "making it more difficult for, and deliberately impeding, federal immigration officers' ability to carry out their responsibilities."
+[Read more](https://www.npr.org/2025/02/06/nx-s1-5288871/justice-department-sues-chicago-and-illinois-over-sanctuary-laws)
+
+### 102 snakes removed from homeowner’s garden in Sydney - CNN
+Living in Australia means you might have to accept coming across a snake or two on your property at some point. But one Sydney homeowner got more than he bargained for when a snake catcher unearthed 102 of the slithery reptiles hiding in his garden.
+[Read more](https://www.cnn.com/2025/02/06/australia/102-snakes-garden-sydney-intl-scli/index.html)
+
+### Democrats zero in on Musk as a way to attack Trump - POLITICO
+The billionaire's strategy of moving fast and breaking things isn't going over so well with the public.
+[Read more](https://www.politico.com/news/2025/02/06/democrats-elon-musk-donald-trump-00202833)
+
+### Syrians and Bosnian among victims of gunman's attack on Swedish school - BBC.com
+Details of those killed have emerged from embassies in Stockholm, as police describe the scene of the attack.
+[Read more](https://www.bbc.com/news/articles/cy9l2424wrgo)
+
+### Single-photon LiDAR delivers detailed 3D images at distances up to 1 kilometer - Phys.org
+Researchers have designed a single-photon time-of-flight LiDAR system that can acquire a high-resolution 3D image of an object or scene up to 1 kilometer away. The new system could help enhance security, monitoring, and remote sensing by enabling detailed ima…
+[Read more](https://phys.org/news/2025-02-photon-lidar-3d-images-distances.html)
+
+### Super Bowl 59: Start time, halftime show, teams, how to watch, Taylor Swift - Al Jazeera English
+Superbowl LIX promises to be one of the most high-profile NFL finales in years with two superb teams going head-to-head.
+[Read more](https://www.aljazeera.com/sports/2025/2/6/nfl-super-bowl-59-time-date-teams-halftime-how-to-watch-taylor-swift)
+
+### How Jay-Z’s Roc Nation Made the Super Bowl Halftime Show Cool Again - Bloomberg
+The partnership has helped revive the show over the past five years, but how long it will last remains to be seen.
+[Read more](https://www.bloomberg.com/news/articles/2025-02-06/super-bowl-2025-halftime-show-with-kendrick-lamar-produced-by-jay-z-s-roc-nation)
+
+### Ice storm brings snow, sleet and freezing rain to mid-Atlantic and Northeast; more than 100 million under winter storm alerts - Yahoo! Voices
+A winter storm that brought snow, sleet and freezing rain to a large swath of the Midwest swept into the mid-Atlantic and Northeast on Thursday, snarling...
+[Read more](https://www.yahoo.com/news/ice-storm-brings-snow-sleet-and-freezing-rain-to-mid-atlantic-and-northeast-more-than-100-million-under-winter-storm-alerts-151524758.html)
+
 ### Santorini in state of emergency after strongest quake in days of tremors - CNN
 A state of emergency has been declared in Santorini after the strongest earthquake was recorded in days of near-constant tremors, which have almost emptied the famous Greek tourist haven of visitors and residents.
 [Read more](https://www.cnn.com/2025/02/06/travel/santorini-greece-earthquake-strong-intl/index.html)
 
-### After calling off merger, Coach parent Tapestry's holiday sales soar - CNBC
-Coach's parent company reported the results less than two months after calling off its merger with fashion accessories competitor Capri.
-[Read more](https://www.cnbc.com/2025/02/06/tapestry-tpr-q2-2025-earnings.html)
+### Philip Morris’s stock touches record high as outlook tops Wall Street estimates - MarketWatch
+Tobacco giant cites boost from smokeless products such as the Zyn nicotine pouch
+[Read more](https://www.marketwatch.com/story/philip-morris-stock-rises-as-outlook-tops-analyst-estimates-c3ef0258)
 
-### Lakers become the No. 4 favorite to win NBA Finals after trading for Mark Williams - Yahoo Sports
-The Lakers have added Luka Dončić and Mark Williams over the past week. Is that enough for a title push?.
-[Read more](https://sports.yahoo.com/lakers-become-the-no-4-favorite-to-win-nba-finals-after-trading-for-mark-williams-134709670.html)
+### Trump Media Registers Trademarks for Truth.Fi Investment Vehicles - GlobeNewswire
+TMTG Quickly Advancing Plans to Launch America First-Themed ETFs, SMAs    SARASOTA, Fla., Feb.  06, 2025  (GLOBE NEWSWIRE) -- Trump Media and...
+[Read more](https://www.globenewswire.com/news-release/2025/02/06/3022027/0/en/Trump-Media-Registers-Trademarks-for-Truth-Fi-Investment-Vehicles.html)
 
-### Jobless claims rise slightly, but no sign of trouble brewing in labor market - MarketWatch
-Scarce layoffs keep unemployment filings low
-[Read more](https://www.marketwatch.com/story/jobless-claims-rise-slightly-but-no-sign-of-trouble-brewing-in-labor-market-e863b88f)
+### New bird flu infections in Nevada dairy cattle signal the virus may be here to stay - CNN
+Six dairy herds in Nevada have tested positive for a newer variant of the H5N1 bird flu virus that’s been associated with severe infections in humans, according to the Nevada Department of Agriculture.
+[Read more](https://www.cnn.com/2025/02/05/health/bird-flu-cattle-nevada/index.html)
 
-### Google Launches Gemini 2.0 for Everyone. Here Are the Highlights - CNET
-The flood of AI news from Google comes in the wake of the launch of DeepSeek, the breakthrough Chinese AI tool that's been making headlines.
-[Read more](https://www.cnet.com/tech/services-and-software/google-launches-gemini-2-0-for-everyone-here-are-the-highlights/)
-
-### How Calvin Klein and Tommy Hilfiger got caught in Trump's trade war with China - CNBC
-The owner of Calvin Klein and Tommy Hilfger has been placed on China's unreliable entities list, which could force it to cease operations in the region.
-[Read more](https://www.cnbc.com/2025/02/06/calvin-klein-owner-pvh-blacklisted-in-china.html)
-
-### These People Turned AirPods Into Hearing Aids. Here Are the Pros and Cons. - The Wall Street Journal
-AirPods are better for amplifying conversation, if you can find the controls—and keep the buds from falling out.
-[Read more](https://www.wsj.com/tech/personal-tech/apple-airpod-hearing-aids-pros-cons-6871d52a)
-
-### Syrian refugees killed in Swedish gunman's attack on school - BBC.com
-Two Bosnian citizens were also caught up in the worst shooting in Swedish history.
-[Read more](https://www.bbc.com/news/articles/cy9l2424wrgo)
-
-### Israel backs Trump plan and orders military to prepare for Palestinians to leave Gaza - CNN
-Israeli Prime Minister Benjamin Netanyahu has backed US President Donald Trump’s proposal to “take over” Gaza, as Israel’s army was ordered to prepare plans for large numbers of Palestinians to leave the territory.
-[Read more](https://www.cnn.com/2025/02/06/middleeast/netanyahu-endorses-trump-gaza-plan-intl-hnk/index.html)
-
-### UK interest rates latest: Bank of England cuts interest rates to 4.5%, the lowest level since June 2023 - BBC.com
-The Bank says the UK economy will grow by 0.75% in 2025, down from a previous forecast of 1.5%, while inflation is expected to rise.
-[Read more](https://www.bbc.com/news/live/cly5rm5d7pxt)
-
-### Could this startup’s compact nuclear reactors revolutionize cancer detection? - TechCrunch
-As cancer rates in the West, and globally, tack upwards due to lifestyle and environmental pollution, so does the need for the nuclear isotopes used in
-[Read more](https://techcrunch.com/2025/02/06/could-this-startups-compact-nuclear-reactors-revolutionize-cancer-detection/)
-
-### Icy storm slams Northeast during morning commute - ABC News
-None
-[Read more](https://abcnews.go.com/US/icy-mix-hit-22-states-midwest-northeast-latest/story?id\\u003d118479446)
-
-### Second type of bird flu detected in US dairy cows - The Associated Press
-Dairy cattle in Nevada have been infected with a new type of bird flu that's different from the version that has spread in herds since last year. U.S. Agriculture Department officials announced the finding Wednesday. It indicates that distinct strains of the …
-[Read more](https://apnews.com/article/bird-flu-dairy-cattle-h5n1-bed7ead49d34d6a949c670fb3355fea6)
-
-### Kanye West Defends Wife Bianca Censori Amid ‘Invisible Dress’ Controversy - Rolling Stone
-Kanye West responded to the controversy around Bianca Censori's naked Grammys dress on social media.
-[Read more](http://www.rollingstone.com/music/music-news/kanye-west-bianca-censori-invisible-dress-controversy-defense-1235258334/)
-
-### Asus Zenfone 12 Ultra arrives with a design refresh and powerful internals but disappointing software support - Notebookcheck.net
-The Asus Zenfone 12 Ultra arrives with a moderate design makeover, cool colors, and internals worthy of a flagship. It also has AI features which work on-device but disappoints with its software support.
-[Read more](https://www.notebookcheck.net/Asus-Zenfone-12-Ultra-arrives-with-a-design-refresh-and-powerful-internals-but-disappointing-software-support.957002.0.html)
-
-### Brandon Ingram trade grades: Raptors get 'B-' for adding All-Star as Pels bail on pairing with Zion Williamson - CBS Sports
-The Raptors land a 27-year-old former All-Star ahead of his free agency
-[Read more](https://www.cbssports.com/nba/news/brandon-ingram-trade-grades-raptors-get-b-for-adding-all-star-as-pels-bail-on-pairing-with-zion-williamson/)
-
-### Trump admin proposes limiting Musk's DOGE access to Treasury data amid privacy lawsuit - Axios
-A lawsuit alleges Treasury Secretary Scott Bessent allowed DOGE reps to illegally access sensitive data.
-[Read more](https://www.axios.com/2025/02/06/doge-treasury-payments-system-access-trump-musk)
+### Dow Jones Futures Rise Ahead Of Jobless Claims; Nvidia Partner Arm Slides On Earnings - Investor's Business Daily
+Key earnings movers include Arm, MicroStrategy, Qualcomm and Roblox.
+[Read more](https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-jobless-claims-nvidia-partner-arm-stock/)
 
 <!-- NEWS-END -->
