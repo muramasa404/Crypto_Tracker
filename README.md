@@ -6,76 +6,72 @@ GDP: {'name': 'Real Gross Domestic Product', 'interval': 'annual', 'unit': 'bill
 ## 최신 경제 뉴스
 
 <!-- NEWS-START -->
-### Trump signs executive order banning transgender athletes from women's sports, directing DOJ to enforce - ABC News
-None
-[Read more](https://abcnews.go.com/Politics/trump-sign-executive-order-banning-transgender-athletes-womens/story?id\\u003d118468478)
+### Santorini in state of emergency after strongest quake in days of tremors - CNN
+A state of emergency has been declared in Santorini after the strongest earthquake was recorded in days of near-constant tremors, which have almost emptied the famous Greek tourist haven of visitors and residents.
+[Read more](https://www.cnn.com/2025/02/06/travel/santorini-greece-earthquake-strong-intl/index.html)
 
-### Netanyahu backs Trump’s Gaza ‘take over’ as Israeli defense minister instructs military to draw up voluntary migration plan - CNN
-Israeli Prime Minister Benjamin Netanyahu has backed President Donald Trump’s proposal for the United States to “take over” Gaza, as his defense minister instructed the Israeli military to draw up a plan that would enable the “voluntary departure” of Palestin…
+### After calling off merger, Coach parent Tapestry's holiday sales soar - CNBC
+Coach's parent company reported the results less than two months after calling off its merger with fashion accessories competitor Capri.
+[Read more](https://www.cnbc.com/2025/02/06/tapestry-tpr-q2-2025-earnings.html)
+
+### Lakers become the No. 4 favorite to win NBA Finals after trading for Mark Williams - Yahoo Sports
+The Lakers have added Luka Dončić and Mark Williams over the past week. Is that enough for a title push?.
+[Read more](https://sports.yahoo.com/lakers-become-the-no-4-favorite-to-win-nba-finals-after-trading-for-mark-williams-134709670.html)
+
+### Jobless claims rise slightly, but no sign of trouble brewing in labor market - MarketWatch
+Scarce layoffs keep unemployment filings low
+[Read more](https://www.marketwatch.com/story/jobless-claims-rise-slightly-but-no-sign-of-trouble-brewing-in-labor-market-e863b88f)
+
+### Google Launches Gemini 2.0 for Everyone. Here Are the Highlights - CNET
+The flood of AI news from Google comes in the wake of the launch of DeepSeek, the breakthrough Chinese AI tool that's been making headlines.
+[Read more](https://www.cnet.com/tech/services-and-software/google-launches-gemini-2-0-for-everyone-here-are-the-highlights/)
+
+### How Calvin Klein and Tommy Hilfiger got caught in Trump's trade war with China - CNBC
+The owner of Calvin Klein and Tommy Hilfger has been placed on China's unreliable entities list, which could force it to cease operations in the region.
+[Read more](https://www.cnbc.com/2025/02/06/calvin-klein-owner-pvh-blacklisted-in-china.html)
+
+### These People Turned AirPods Into Hearing Aids. Here Are the Pros and Cons. - The Wall Street Journal
+AirPods are better for amplifying conversation, if you can find the controls—and keep the buds from falling out.
+[Read more](https://www.wsj.com/tech/personal-tech/apple-airpod-hearing-aids-pros-cons-6871d52a)
+
+### Syrian refugees killed in Swedish gunman's attack on school - BBC.com
+Two Bosnian citizens were also caught up in the worst shooting in Swedish history.
+[Read more](https://www.bbc.com/news/articles/cy9l2424wrgo)
+
+### Israel backs Trump plan and orders military to prepare for Palestinians to leave Gaza - CNN
+Israeli Prime Minister Benjamin Netanyahu has backed US President Donald Trump’s proposal to “take over” Gaza, as Israel’s army was ordered to prepare plans for large numbers of Palestinians to leave the territory.
 [Read more](https://www.cnn.com/2025/02/06/middleeast/netanyahu-endorses-trump-gaza-plan-intl-hnk/index.html)
 
-### Katz instructs IDF to prepare plan allowing Gazans to leave voluntarily - The Jerusalem Post
-"The plan will include exit options through land crossings as well as special arrangements for departure by sea and air," Katz said.
-[Read more](https://www.jpost.com/breaking-news/article-840907)
+### UK interest rates latest: Bank of England cuts interest rates to 4.5%, the lowest level since June 2023 - BBC.com
+The Bank says the UK economy will grow by 0.75% in 2025, down from a previous forecast of 1.5%, while inflation is expected to rise.
+[Read more](https://www.bbc.com/news/live/cly5rm5d7pxt)
 
-### Mark Williams trade grades: Why the Lakers just missed out on an 'A' for adding Luka Doncic's new lob partner - CBS Sports
-Meanwhile the Hornets did well by cashing in a valuable asset
-[Read more](https://www.cbssports.com/nba/news/mark-williams-trade-grades-why-the-lakers-just-missed-out-on-an-a-for-adding-luka-doncics-new-lob-partner/)
+### Could this startup’s compact nuclear reactors revolutionize cancer detection? - TechCrunch
+As cancer rates in the West, and globally, tack upwards due to lifestyle and environmental pollution, so does the need for the nuclear isotopes used in
+[Read more](https://techcrunch.com/2025/02/06/could-this-startups-compact-nuclear-reactors-revolutionize-cancer-detection/)
 
-### The Asus Zenfone 12 Ultra is skipping the US - The Verge
-The Asus Zenfone 12 Ultra is a re-worked ROG Phone 9 Pro with a Snapdragon 8 Elite chipset and a big 6.78-inch screen. This year, it’s skipping North America.
-[Read more](https://www.theverge.com/news/605968/asus-zenfone-12-ultra-price-specs)
-
-### Scientists Simulated Bennu Crashing to Earth in September 2182. It's Not Pretty. - ScienceAlert
-Simulations of a potential impact by a hill-sized space rock event next century have revealed the rough ride humanity would be in for, hinting at what it'd take for us to survive such a catastrophe.
-[Read more](https://www.sciencealert.com/scientists-simulated-bennu-crashing-to-earth-in-september-2182-its-not-pretty)
-
-### AI model s1 rivals OpenAI’s o1 with $6 training cost - Tech in Asia
+### Icy storm slams Northeast during morning commute - ABC News
 None
-[Read more](https://www.techinasia.com/news/ai-model-s1-rivals-openais-o1-with-6-training-cost)
+[Read more](https://abcnews.go.com/US/icy-mix-hit-22-states-midwest-northeast-latest/story?id\\u003d118479446)
 
-### Reports: Raptors acquire forward Brandon Ingram from Pelicans - NBA.Com
-Former All-Star Brandon Ingram heads north in exchange for Bruce Brown, Kelly Olynyk and multiple draft picks, including a 1st.
-[Read more](https://www.nba.com/news/new-orleans-trades-brandon-ingram-to-toronto)
+### Second type of bird flu detected in US dairy cows - The Associated Press
+Dairy cattle in Nevada have been infected with a new type of bird flu that's different from the version that has spread in herds since last year. U.S. Agriculture Department officials announced the finding Wednesday. It indicates that distinct strains of the …
+[Read more](https://apnews.com/article/bird-flu-dairy-cattle-h5n1-bed7ead49d34d6a949c670fb3355fea6)
 
-### Is it real or is it a trick? Federal workers debate legitimacy of buyout offer as deadline nears - The Associated Press
-The deadline for federal workers to receive financial incentives to quit is approaching. More than 2 million employees have until Thursday at 11:59 p.m. EST to decide what to do. Administration officials have been increasing their pressure on workers to leave…
-[Read more](https://apnews.com/article/buyout-offer-deadline-trump-federal-workers-ce854b19c41b90cd657f75cf09511e96)
+### Kanye West Defends Wife Bianca Censori Amid ‘Invisible Dress’ Controversy - Rolling Stone
+Kanye West responded to the controversy around Bianca Censori's naked Grammys dress on social media.
+[Read more](http://www.rollingstone.com/music/music-news/kanye-west-bianca-censori-invisible-dress-controversy-defense-1235258334/)
 
-### DEI: Google joins US firms abandoning diversity recruitment goals - BBC.com
-U-turn by former the diversity champion comes as major companies face pressure to drop the policies.
-[Read more](https://www.bbc.com/news/articles/c3rw3e5je5po)
+### Asus Zenfone 12 Ultra arrives with a design refresh and powerful internals but disappointing software support - Notebookcheck.net
+The Asus Zenfone 12 Ultra arrives with a moderate design makeover, cool colors, and internals worthy of a flagship. It also has AI features which work on-device but disappoints with its software support.
+[Read more](https://www.notebookcheck.net/Asus-Zenfone-12-Ultra-arrives-with-a-design-refresh-and-powerful-internals-but-disappointing-software-support.957002.0.html)
 
-### Baltics brace for cyberattacks as they depart Russian electricity grid - POLITICO Europe
-A long-planned exit from the BRELL power grid has the Baltic countries preparing for Russian retaliation.
-[Read more](https://www.politico.eu/article/baltics-brace-cyberattacks-depart-russian-electricity-grid-brell/)
+### Brandon Ingram trade grades: Raptors get 'B-' for adding All-Star as Pels bail on pairing with Zion Williamson - CBS Sports
+The Raptors land a 27-year-old former All-Star ahead of his free agency
+[Read more](https://www.cbssports.com/nba/news/brandon-ingram-trade-grades-raptors-get-b-for-adding-all-star-as-pels-bail-on-pairing-with-zion-williamson/)
 
-### Eagles-Chiefs Game Preview: 5 questions and answers with the Super Bowl enemy - Bleeding Green Nation
-Opponent perspective on Philadelphia’s rematch with Kansas City.
-[Read more](https://www.bleedinggreennation.com/2025/2/5/24359922/eagles-chiefs-game-preview-questions-answers-super-bowl-enemy-2025-patrick-mahomes-xavier-worthy-nfl)
-
-### Irv Gotti, Murder Inc. Records Founder Who Worked With Ashanti and Ja Rule, Dies at 54 - Hollywood Reporter
-“Def Jam has lost one of its most creative soldiers who was hip-hop,” says YouTube’s Lyor Cohen.
-[Read more](http://www.hollywoodreporter.com/news/music-news/irv-gotti-murder-inc-founder-dies-1236128314/)
-
-### In photos: Thousands across the U.S. protest Trump and Musk's policies - Axios
-Demonstrators nationwide rallied against Trump's policies on immigration, democracy and transgender people.
-[Read more](https://www.axios.com/2025/02/05/photos-protest-trump-admin-50501)
-
-### Xiaomi 15 Ultra’s latest leaked image showcases amazing Leica camera-inspired dual-tone design - gizmochina
-The Xiaomi 15 Ultra is set to debut at the end of this month in China. With the launch approaching, the rumour mill is expected to reveal concrete details about the device. A new image of the Xiaomi 15 Ultra, inspired by Leica cameras, has surfaced on Chinese…
-[Read more](https://www.gizmochina.com/2025/02/06/xiaomi-15-ultras-latest-leaked-image-showcases-amazing-leica-camera-inspired-dual-tone-design/)
-
-### 11 dead in worst mass shooting in Sweden's history, authorities say - ABC News
-None
-[Read more](https://abcnews.go.com/International/11-dead-worst-mass-shooting-swedens-history-authorities/story?id\\u003d118475034)
-
-### Arm Holdings (ARM) Q3 2025 Earnings Call Transcript - The Motley Fool
-ARM earnings call for the period ending December 31, 2024.
-[Read more](https://www.fool.com/earnings/call-transcripts/2025/02/05/arm-holdings-arm-q3-2025-earnings-call-transcript/)
-
-### Judge weighs interim ban on Elon Musk's DOGE accessing the financial data of millions of Americans - Business Insider
-Elon Musk has no access to the Treasury's tax and Social Security data, a government lawyer said. A DC judge is mulling keeping it that way for now.
-[Read more](https://www.businessinsider.com/judge-weighs-ban-musk-doge-accessing-americans-fiscal-data-2025-2)
+### Trump admin proposes limiting Musk's DOGE access to Treasury data amid privacy lawsuit - Axios
+A lawsuit alleges Treasury Secretary Scott Bessent allowed DOGE reps to illegally access sensitive data.
+[Read more](https://www.axios.com/2025/02/06/doge-treasury-payments-system-access-trump-musk)
 
 <!-- NEWS-END -->
