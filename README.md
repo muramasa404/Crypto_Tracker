@@ -6,76 +6,72 @@ GDP: {'name': 'Real Gross Domestic Product', 'interval': 'annual', 'unit': 'bill
 ## 최신 경제 뉴스
 
 <!-- NEWS-START -->
-### California utility company says its equipment may have sparked a Los Angeles-area wildfire - CNN
-California utility company Southern California Edison on Thursday said its equipment “may be associated with” the ignition of the Hurst Fire, which burned alongside the Eaton and Palisades fires during January’s Los Angeles firestorms.
-[Read more](https://www.cnn.com/2025/02/06/us/southern-california-edison-hudson-hurst-fire/index.html)
+### Egypt lobbies against Trump plan to empty Gaza of Palestinians as Israel makes preparations - The Associated Press
+Israel says it has begun preparations for the departure of large numbers of Palestinians from the Gaza Strip in line with U.S. President Donald Trump’s plan to empty the territory of its population. Officials meanwhile said Egypt has launched a diplomatic bli…
+[Read more](https://apnews.com/article/israel-palestinians-hamas-war-egypt-trump-displacement-bc1c43f80655190824a5de4eb1d310cc)
 
-### Deadpool Creator Rob Liefeld Will No Longer Work with Marvel After ‘Deadpool & Wolverine’ Premiere Indignities - Hollywood Reporter
-The writer-artist describes several perceived slights, such as being denied access to the afterparty, and makes a head-turning claim: "Kevin Feige does not treat comic book creators well."
-[Read more](http://www.hollywoodreporter.com/movies/movie-news/deadpool-creator-rob-liefeld-1236128162/)
+### Rubio walks back State Department’s claim of free Panama Canal transit for US government vessels - CNN
+US Secretary of State Marco Rubio has walked back the assertion of the State Department that Panama “has agreed to no longer charge fees” to US government vessels transiting the Panama Canal after outcry from the Panamanian government.
+[Read more](https://www.cnn.com/2025/02/06/americas/panama-canal-state-department-hnk-intl/index.html)
 
-### Note to Our Readers - POLITICO
-POLITICO has been the subject of debate on X this week. Some of it has been misinformed, and some of it has been flat-out false. Let’s set the record straight.
-[Read more](https://www.politico.com/news/2025/02/06/politico-note-to-readers-00202917)
+### Amazon’s (NASDAQ:AMZN) Q4 Earnings Results: Revenue In Line With Expectations But Quarterly Revenue Guidance Misses Expectations - Yahoo Finance
+Cloud computing and online retail behemoth Amazon (NASDAQ:AMZN) met Wall Street’s revenue expectations in Q4 CY2024, with sales up 10.5% year on year to...
+[Read more](https://finance.yahoo.com/news/amazon-nasdaq-amzn-q4-earnings-211156337.html)
+
+### NBA trade tracker: Every deadline deal as Jimmy Butler, Brandon Ingram, De'Aaron Fox find new homes - CBS Sports
+Here's a look at every notable NBA trade that went down before Thursday's deadline
+[Read more](https://www.cbssports.com/nba/news/nba-trade-tracker-every-deadline-deal-as-jimmy-butler-brandon-ingram-deaaron-fox-find-new-homes/)
+
+### Judge pauses deadline for federal workers to accept Trump’s resignation offer - CNN
+A federal judge paused Thursday’s deadline for federal employees to accept the Trump administration’s deferred resignation offer while more proceedings on the program’s legality play out.
+[Read more](https://www.cnn.com/2025/02/06/politics/federal-worker-resignation-deadline-trump/index.html)
+
+### Minnesota GOP takes control of House after Dems' weekslong boycott, pledges to 'check' Walz's 'extreme' agenda - Fox News
+Republicans and Democrats in the Minnesota House have reached a "power sharing agreement" ending the Democrats' weeks-long boycott of the legislative session.
+[Read more](https://www.foxnews.com/politics/minnesota-gop-takes-control-house-after-dems-weekslong-boycott-pledges-check-walzs-extreme-agenda)
+
+### Warriors insiders offer brutal assessment of Jimmy Butler trade - SFGATE
+The Warriors trading for Jimmy Butler just shows how desperate the team was around the trade deadline.
+[Read more](https://www.sfgate.com/warriors/article/warriors-brutal-assessment-jimmy-butler-trade-20151678.php)
+
+### ‘Emilia Pérez’ Star Karla Sofía Gascón to Skip Spain’s Goya Awards Amid Controversy - Variety
+Oscar-nominated actress Karla Sofía Gascón will skip Spain's prestigious Goya Awards ceremony this Saturday in Granada.
+[Read more](https://variety.com/2025/film/news/emilia-perez-karla-sofia-gascon-skip-goya-awards-1236299189/)
+
+### The Apple Watch SE is the cheapest it’s been in months - The Verge
+The second-gen Apple Watch SE is on sale starting at $169 ($80 off) right now. Star Wars Outlaws and Anker’s Zolo Power Bank are also heavily discounted.
+[Read more](https://www.theverge.com/good-deals/606688/apple-watch-se-star-wars-outlaws-deal-sale)
 
 ### Netanyahu won’t meet with Jewish org. leaders during US visit - exclusive - The Jerusalem Post
 During the week, Netanyahu met with senior administration officials and even a group of senior Evangelical leaders at the beginning of his trip.
 [Read more](https://www.jpost.com/us-elections/article-841034)
 
-### Telescopes spy a monster radio jet streaming from a bright and early object in the universe - ABC News
-Telescopes around the world have spotted a monster radio jet streaming from a quasar dating back to the first 1 billion years of the universe
-[Read more](https://abcnews.go.com/Technology/wireStory/telescopes-spy-monster-radio-jet-streaming-bright-early-118537846)
+### Reports: Cavs add De'Andre Hunter in deal with Hawks - NBA.Com
+The versatile forward reportedly is headed to Cleveland in a 3-player trade with Atlanta.
+[Read more](https://www.nba.com/news/cavaliers-hawks-hunter-levert-niang-trade)
 
-### CDC scientific report resumes publication after unprecedented pause - The Washington Post
-But three studies about bird flu remain on hold even as the outbreak spreads.
-[Read more](https://www.washingtonpost.com/health/2025/02/06/cdc-mmwr-bird-flu-public-health-communication/)
+### ‘Voice of the CDC’ resumes publication, but experts worry about what they’re not hearing - The Associated Press
+A federal scientific publication has returned from a forced two-week hiatus with two papers examining the health effects of wildfires in Hawaii and California. The Centers for Disease Control and Prevention resumed publication of the Morbidity and Mortality W…
+[Read more](https://apnews.com/article/cdc-wildfires-mmwr-9b1caeefd33aeb7b7dbdf1ed944fc094)
 
-### Kendrick Lamar vows to keep his passion for storytelling at the Super Bowl halftime show - The Associated Press
-Kendrick Lamar aims to infuse his Los Angeles hip-hop flavor into New Orleans while staying true to his storytelling roots during Sunday’s Super Bowl halftime performance. At a press conference Thursday hosted by Apple Music, he said he'll be bringing his fee…
-[Read more](https://apnews.com/article/kendrick-lamar-super-bowl-halftime-show-7821bb12a3adad3095503aa06238c831)
+### Telescopes spy a monster radio jet streaming from a bright and early object in the universe - The Associated Press
+Telescopes around the world have spotted a monster radio jet streaming from a quasar dating back to the first 1 billion years of the universe. At double the width of our Milky Way Galaxy, this jet of radio waves is the biggest ever detected in the early unive…
+[Read more](https://apnews.com/article/universe-quasar-monster-radio-het-0822cd50b4f39c5902146c1ea893a76f)
 
-### Jimmy Butler is headed to the Golden State Warriors, Andrew Wiggins to Miami Heat, AP source says - The Associated Press
-Jimmy Butler has gotten his wish. He’s being traded out of Miami. The Heat and the Golden State Warriors have agreed on a deal that sends Butler to the Bay Area, a person with knowledge of the talks said Wednesday. The trade ends a Miami era for Butler that w…
-[Read more](https://apnews.com/article/jimmy-butler-trade-heat-warriors-71c5aa767874b8b068cdb597c2a0b21a)
-
-### Karla Sofía Gascón Set To Skip Spain’s Goya Awards Amid Backlash Over ‘Emilia Pérez’ Star’s Tweets - Deadline
-In the latest sign that Karla Sofía Gascón is taking a backseat on the 'Emilia Pérez' awards tour, the actress is set to skip the Goya Awards.
-[Read more](http://deadline.com/2025/02/karla-sofia-gascon-skip-spain-goya-awards-emilia-perez-1236280350/)
-
-### Judge to consider request to block Trump's federal government employee buyout - ABC News
-None
-[Read more](https://abcnews.go.com/US/judge-request-block-trumps-federal-government-employee-buyout/story?id\\u003d118535508)
-
-### Trump administration sues Chicago over 'sanctuary city' laws - BBC.com
-Border Czar Tom Homan said that cities will be 'held accountable' for impeding immigration enforcement.
-[Read more](https://www.bbc.com/news/articles/c8r585ndey4o)
+### Santorini: State of emergency declared as tremors continue - DW (English)
+The declaration of a state of emergency comes as seismic activity — which has prompted thousands to flee — continues. A 5.2 magnitude quake was recorded on Wednesday evening.
+[Read more](https://www.dw.com/en/santorini-state-of-emergency-declared-as-tremors-continue/a-71532322)
 
 ### Average US rate on a 30-year mortgage falls to 6.89%, third straight weekly decline - ABC News
 The average rate on a 30-year mortgage in the U.S. eased for the third week in a row, a smidgen of relief for prospective home shoppers getting into the market before the busy spring homebuying season starts
 [Read more](https://abcnews.go.com/Business/wireStory/average-us-rate-30-year-mortgage-falls-689-118534751)
 
+### Mets’ Pete Alonso deal comes with Vladimir Guerrero Jr. intrigue - New York Post 
+Even after the Mets’ reunion with Pete Alonso, they could still be back to square one — and still in the market for a first baseman — next offseason.
+[Read more](https://nypost.com/2025/02/06/sports/mets-pete-alonso-deal-comes-with-vladimir-guerrero-jr-intrigue/)
+
 ### Amazon's Alexa Set for Major AI Upgrade: Here's What to Expect - CNET
 Alexa spent years listening and talking. Now it is about to start thinking.
 [Read more](https://www.cnet.com/home/smart-home/amazons-alexa-set-for-major-ai-upgrade-heres-what-to-expect/)
-
-### Elon Musk barred from accessing US Treasury payments data - Financial Times
-Temporary order restricts efforts of billionaire’s Department of Government Efficiency to infiltrate multitrillion dollar system
-[Read more](https://www.ft.com/content/097b286f-376e-40eb-8804-69a6d217803d)
-
-### OpenAI Eyeing More Data Centers in Texas, Other States for Stargate - Bloomberg
-A joint venture from OpenAI, SoftBank Group Corp. and Oracle Corp. is close to selecting additional sites for data center campuses in Texas and eyeing more projects in over a dozen other states, as the companies work to fulfill an ambitious plan to invest hun…
-[Read more](https://www.bloomberg.com/news/articles/2025-02-06/openai-eyeing-more-data-centers-in-texas-other-states-for-stargate)
-
-### Temu pushes ‘local’ products after Trump reverses trade loophole that helps Chinese companies avoid taxes - New York Post 
-The Chinese-owned e-commerce site promoted so-called “local” products on its website after President Trump imposed a 10% tariff on China and revoked a longtime trade loophole.
-[Read more](https://nypost.com/2025/02/06/business/temu-wants-you-to-buy-its-local-products-after-trump-reverses-trade-loophole/)
-
-### Chappell Roan’s Grammy Speech Raises Questions on Healthcare in the Music Industry - Rolling Stone
-Chappell Roan used her Grammy Best New Artist speech to demand that labels give artists healthcare. Activists and organizers are working on it
-[Read more](http://www.rollingstone.com/music/music-features/chappell-roan-grammy-speech-healthcare-music-industry-1235258394/)
-
-### Researchers trained an OpenAI rival in half an hour for less than $50 - The Verge
-AI researchers say they have trained a reasoning model rivaling OpenAI’s in just a half an hour and less than $50.
-[Read more](https://www.theverge.com/news/607341/researchers-cheaper-openai-rival-training)
 
 <!-- NEWS-END -->
