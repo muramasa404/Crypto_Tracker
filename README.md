@@ -6,84 +6,76 @@ GDP: {'name': 'Real Gross Domestic Product', 'interval': 'annual', 'unit': 'bill
 ## 최신 경제 뉴스
 
 <!-- NEWS-START -->
-### US plane brings back 104 deported Indians, most from Gujarat, Punjab and Haryana - The Indian Express
-33 each from Gujarat and Haryana, 30 from Punjab; 25 women, 12 minors
-[Read more](https://indianexpress.com/article/india/us-plane-brings-back-104-deported-indians-most-from-gujarat-punjab-and-haryana-9819902/)
+### Temu steers users to 'local' products after Trump shuts tax loophole - CNBC
+Temu has onboarded more sellers with U.S. inventory in recent years as lawmakers have zeroed in on the de minimis exemption.
+[Read more](https://www.cnbc.com/2025/02/05/temu-steers-users-to-local-products-after-trump-ends-de-minimis.html)
+
+### At least 104 Indian citizens deported from US on military aircraft, say Indian officials - CNN
+At least 104 Indian citizens were deported from the United States Tuesday night on a military aircraft, according to officials from India’s Punjab state, as US President Donald Trump makes stemming migration a top priority.
+[Read more](https://www.cnn.com/2025/02/05/asia/india-citizens-us-deportation-intl-hnk-latam/index.html)
+
+### Dairy herds in Nevada test positive for newer bird flu strain that’s been linked to severe human infections - CNN
+Six dairy herds in Nevada have tested positive for a newer strain of the H5N1 bird flu virus that’s been associated with severe infections in humans, according to the Nevada Department of Agriculture.
+[Read more](https://www.cnn.com/2025/02/05/health/bird-flu-cattle-nevada/index.html)
+
+### Analysts rework Alphabet stock price targets after earnings shock - TheStreet
+Google CEO Sundar Pichai said the current AI opportunity is 'as big as it comes.'
+[Read more](https://www.thestreet.com/investing/analysts-rework-google-stock-price-targets-after-q4-earnings-shock)
+
+### Blake Lively Team Shrugs Off Defamation Suit Over Alleged Smear Campaign Planner - Deadline
+Blake Lively's Team Shrugs Off Defamation Suit Over Alleged Smear Campaign Planner; Jed Wallace Says Claims have Cost Him Millions In Lost Business
+[Read more](http://deadline.com/2025/02/blake-lively-defamation-suit-reaction-jed-wallace-1236279581/)
+
+### Bondi, as new AG, launches 'Weaponization Working Group' to review officials who investigated Trump - ABC News
+None
+[Read more](https://abcnews.go.com/US/bondi-new-ag-launches-weaponization-working-group-review/story?id\\u003d118501463)
 
 ### Trump signs order banning transgender women from female sports - BBC.com
 He says the move, which covers non-elite levels, restores fairness but human rights advocates have condemned it.
 [Read more](https://www.bbc.com/news/articles/c20g85k3z35o)
 
-### Fox News hires president’s daughter-in-law Lara Trump for weekend show on network - The Associated Press
-Fox News is keeping it in the family with President Donald Trump. The network announced Wednesday that it is hiring his daughter-in-law, Lara, to host a one-hour show on Saturday nights. Lara Trump was a contributor to Fox in 2021 and 2022 before becoming co-…
-[Read more](https://apnews.com/article/lara-trump-fox-news-president-9585f6d27cbf74942ff3e2db560bbe64)
+### Ford Earnings Are Coming. Welcome to the Everything Quarter. - Barron's
 
-### Los Angeles Rams announced as designated team for first ever NFL regular season game in Australia in 2026 - therams.com
-NFL makes multiyear commitment to playing regular season games in Melbourne; partners with the Victorian State Government and the Melbourne Cricket Ground for regular season game, with Los Angeles Rams selected as the designated team.
-[Read more](https://www.therams.com/news/rams-first-ever-nfl-regular-season-game-melbourne-australia-melbourne-cricket-ground-mcg-2026)
+[Read more](https://www.barrons.com/articles/ford-earnings-evs-stock-price-1cfb7dc1)
 
-### Senate Republicans to move forward on Trump agenda as House stalls on budget reconciliation plan - CBS News
-Senate Republicans say they'll move forward with their own plan to approve key parts of the Trump agenda beginning next week, amid House delays.
-[Read more](https://www.cbsnews.com/news/senate-republicans-trump-agenda-budget-reconciliation-plan/)
+### Exclusive | Google Kills Diversity Hiring Targets - WSJ - The Wall Street Journal
+None
+[Read more](https://www.wsj.com/tech/google-kills-diversity-hiring-targets-04433d7c)
 
-### Thousands protest Trump administration policies in cities across the US - The Associated Press
-Thousands of demonstrators have gathered outside a federal courthouse in Philadelphia and at state capitols in Michigan, Texas, Wisconsin and Indiana to protest the early actions of President Donald Trump's administration. Protesters waved signs decrying Trum…
-[Read more](https://apnews.com/article/50501-protests-project-2025-trump-state-capitols-ddd341171a54ba9b498cbfe7530e18ab)
+### Federal judge in Maryland blocks Trump’s birthright citizenship order - The Washington Post
+U.S. District Judge Deborah Boardman issued the injunction at a hearing on a lawsuit brought by civil rights groups arguing that Trump’s order is unconstitutional.
+[Read more](https://www.washingtonpost.com/immigration/2025/02/05/birthright-citizenship-injunction-trump-immigration/)
 
-### USAID is going away. Here’s what it’s been doing in South America - The Associated Press
-The dismantling of the U.S. Agency for International Development will deliver a major blow to efforts including humanitarian assistance in Colombia, conservation efforts in Brazil and coca eradication in Peru — South American countries that have been a priori…
-[Read more](https://apnews.com/article/trump-usaid-brazil-colombia-peru-amazon-venezuela-a0e9bb720165da269bf472b0f9cb50d4)
+### Democrats slam Trump's 'insane' Gaza plan as supportive Republicans await details - ABC News
+None
+[Read more](https://abcnews.go.com/Politics/democrats-slam-trumps-insane-gaza-plan-supportive-republicans/story?id\\u003d118488273)
 
-### Children's Hospital Los Angeles pauses gender-affirming care for new transgender patients - ABC7 Los Angeles
-Children's Hospital Los Angeles has reportedly paused the initiation of hormone therapy for new transgender youth patients.
-[Read more](https://abc7.com/post/childrens-hospital-los-angeles-pauses-gender-affirming-care-transgender-patients-19/15869321/)
+### Landslide rips apart Santa Rosa home rebuilt after Tubbs Fire, firefighters rescue residents - The Santa Rosa Press Democrat
+Fire officials rescued Santa Rosa residents trapped inside a home caught in a landslide Tuesday night as storms continued to wreak havoc across the region.
+[Read more](https://www.pressdemocrat.com/article/news/rincon-valley-landslide-santa-rosa-rain-sonoma/)
 
-### Dow Jones Today: Stocks Mixed as Investors Digest Barrage of Earnings Reports; Nvidia and Broadcom Jump - Investopedia
-Stocks closed higher Wednesday, putting major indexes back near record highs, as investors reacted to a flurry of earnings reports while keeping an eye on geopolitical developments.
-[Read more](https://www.investopedia.com/dow-jones-today-02052025-8786166)
+### 11 dead in worst mass shooting in Sweden's history, authorities say - ABC News
+None
+[Read more](https://abcnews.go.com/International/11-dead-worst-mass-shooting-swedens-history-authorities/story?id\\u003d118475034)
 
-### Blake Lively Sued by Crisis PR Firm in It Ends With Us Complaint - Variety
-A crisis PR firm that was named in Blake Lively's 'It Ends With Us' complaint filed a defamation suit against her.
-[Read more](https://variety.com/2025/film/news/blake-lively-sued-crisis-pr-it-ends-with-us-1236298031/)
+### Senate panel set to advance budget next week, Graham says - POLITICO
+None
+[Read more](https://www.politico.com/live-updates/2025/02/05/congress/senate-budget-lindsey-graham-00202649)
 
-### 2025 Super Bowl: Chiefs and Eagles ranked by tiers with shot at Hall of Fame; two locks at the top - CBS Sports
-Super Bowl LIX will help determine which players ultimately get a gold jacket one day
-[Read more](https://www.cbssports.com/nfl/news/2025-super-bowl-chiefs-and-eagles-ranked-by-tiers-with-shot-at-hall-of-fame-two-locks-at-the-top/)
+### Super Bowl 2025: Eagles vs. Chiefs picks and game predictions - Bleeding Green Nation
+Will Philadelphia get their revenge on Kansas City?
+[Read more](https://www.bleedinggreennation.com/2025/2/5/24359573/super-bowl-2025-eagles-vs-chiefs-picks-game-predictions-philadelphia-kansas-city-nfl-59-saquon)
 
-### ‘Emilia Pérez’ Director Jacques Audiard Disavows Karla Sofía Gascón But Stands Up For Film In Crucial Awards Weekend: Q&A - Deadline
-'Emilia Pérez' director Jacques Audiard says he is disappointed with Karla Sofía Gascón’s behavior as awards season ramps up. Read the Deadline Q&A.
-[Read more](http://deadline.com/2025/02/emilia-perez-jacques-audiard-disavows-karla-sofia-gascon-1236279021/)
+### Suns could trade Kevin Durant and add Jimmy Butler - Arizona Sports
+Arizona Sports' John Gambadoro said it is "definitely a possibility" the Suns deal Kevin Durant and get back Jimmy Butler in a trade.
+[Read more](https://arizonasports.com/nba/phoenix-suns/durant-butler/3572816/)
+
+### New Aga Khan named as Prince Rahim Al-Hussaini - BBC.com
+The late Aga Khan's son has been named as his successor after the spiritual leader's will was unsealed.
+[Read more](https://www.bbc.com/news/articles/ce3ndgd6076o)
 
 ### Taylor Swift's Luxurious Super Bowl Suite Has A Mouthwatering Food Menu - Yahoo Entertainment
 Most football fans can only dream of watching the Super Bowl from a private suite, but for Taylor Swift, it's becoming tradition.
 [Read more](https://www.mashed.com/1781134/food-menu-taylor-swift-super-bowl-suite/)
-
-### Google opens its most powerful AI models to everyone, the next stage in its virtual agent push - CNBC
-The suite of agentic Gemini 2.0 models includes 2.0 Flash, 2.0 Pro Experimental and 2.0 Flash-Lite.
-[Read more](https://www.cnbc.com/2025/02/05/google-opens-gemini-2point0-its-most-powerful-ai-model-to-everyone.html)
-
-### Alphabet Stock Tumbles After Earnings. The Google Parent Is Headed to Its Largest Market-Cap Drop Ever. - Barron's
-None
-[Read more](https://www.barrons.com/articles/alphabet-earnings-stock-price-google-476852a7)
-
-### Sweden’s worst mass shooting leaves at least 11 dead, including the gunman - The Associated Press
-Sweden’s worst mass shooting has left at least 11 people dead including the gunman and five seriously wounded at an adult education center. Police believe the perpetrator acted alone but hadn't said by Wednesday if he was a student or what his motive may have…
-[Read more](https://apnews.com/article/sweden-shooting-adult-education-center-fa26e8064a0708ddc213c7cd9f50267c)
-
-### Anker Solix Portable Power Station Just Crashed to $429 From $999 on Amazon - Gizmodo
-Have serious power at your disposal with nearly $600 off this Anker Power Station.
-[Read more](https://gizmodo.com/anker-solix-portable-power-station-just-crashed-to-429-from-999-on-amazon-2000559020)
-
-### Nintendo President Weighs In On Switch 2 Pricing As Some Experts Predict $400 - Kotaku
-The company will continue to take 'affordable prices' into account
-[Read more](https://kotaku.com/nintendo-switch-2-price-release-date-preorder-mk9-1851755723)
-
-### Kevin Durant, Jimmy Butler Mega-Trade Could Involve Five Teams and a Dozen Players - Sports Illustrated
-Could a mega-trade involving Kevin Durant, Jimmy Butler and the Golden State Warriors be brewing?
-[Read more](https://www.si.com/nba/kevin-durant-jimmy-butler-mega-trade-five-teams-dozen-players)
-
-### After a wrenching decision by NASA, private lunar lander finds a new customer - Ars Technica
-“When VIPER was removed, that was definitely a setback. Our team felt that.”…
-[Read more](https://arstechnica.com/space/2025/02/after-a-wrenching-decision-by-nasa-private-lunar-lander-finds-a-new-customer/)
 
 <!-- NEWS-END -->
