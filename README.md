@@ -6,13 +6,21 @@ GDP: {'name': 'Real Gross Domestic Product', 'interval': 'annual', 'unit': 'bill
 ## 최신 경제 뉴스
 
 <!-- NEWS-START -->
-### Lakers reportedly land Hornets center Mark Williams in exchange for Dalton Knecht, Cam Reddish - Yahoo Sports
-The Lakers selected Dalton Knecht with their first-round draft pick last summer.
-[Read more](https://sports.yahoo.com/lakers-reportedly-land-hornets-center-mark-williams-in-exchange-for-dalton-knecht-cam-reddish-052023610.html)
+### Netanyahu backs Trump’s Gaza ‘take over’ as Israeli defense minister instructs military to draw up voluntary migration plan - CNN
+Israeli Prime Minister Benjamin Netanyahu has backed President Donald Trump’s proposal for the United States to “take over” Gaza, as his defense minister instructed the Israeli military to draw up a plan that would enable the “voluntary departure” of Palestin…
+[Read more](https://www.cnn.com/2025/02/06/middleeast/netanyahu-endorses-trump-gaza-plan-intl-hnk/index.html)
 
-### NBA trade deadline 2025: Raptors get Brandon Ingram from Pelicans - Yahoo Sports
-Ingram provides the Raptors with a potent scoring threat, but he can be an unrestricted free agent after the 2024-25 NBA season.
-[Read more](https://sports.yahoo.com/nba-trade-deadline-2025-raptors-get-brandon-ingram-from-pelicans-044231135.html)
+### Mark Williams trade grades: Why the Lakers just missed out on an 'A' for adding Luka Doncic's new lob partner - CBS Sports
+Meanwhile the Hornets did well by cashing in a valuable asset
+[Read more](https://www.cbssports.com/nba/news/mark-williams-trade-grades-why-the-lakers-just-missed-out-on-an-a-for-adding-luka-doncics-new-lob-partner/)
+
+### The Asus Zenfone 12 Ultra is skipping the US - The Verge
+The Asus Zenfone 12 Ultra is a re-worked ROG Phone 9 Pro with a Snapdragon 8 Elite chipset and a big 6.78-inch screen. This year, it’s skipping North America.
+[Read more](https://www.theverge.com/news/605968/asus-zenfone-12-ultra-price-specs)
+
+### Jimmy Butler is headed to the Golden State Warriors, Andrew Wiggins to Miami Heat, AP source says - The Associated Press
+Jimmy Butler has gotten his wish. He’s being traded out of Miami. The Heat and the Golden State Warriors have agreed on a deal that sends Butler to the Bay Area, a person with knowledge of the talks said Wednesday. The trade ends a Miami era for Butler that w…
+[Read more](https://apnews.com/article/jimmy-butler-trade-heat-warriors-71c5aa767874b8b068cdb597c2a0b21a)
 
 ### DEI: Google joins US firms abandoning diversity recruitment goals - BBC.com
 U-turn by former the diversity champion comes as major companies face pressure to drop the policies.
@@ -22,56 +30,48 @@ U-turn by former the diversity champion comes as major companies face pressure t
 The first new and notable update for the Nvidia Shield TV in over two years has just arrived, and it brings a ton of fixes and more.
 [Read more](http://9to5google.com/2025/02/05/nvidia-shield-tv-9-2-update-changelog/)
 
+### How Elon Musk’s deputies took over the government’s most basic functions - The Washington Post
+Elon Musk and his allies are harnessing tech units and other agencies that handle daily federal operations to amass sweeping control of the executive branch.
+[Read more](https://www.washingtonpost.com/business/2025/02/05/elon-musk-federal-technology-takeover/)
+
 ### Mexico deploys the first of 10000 National Guard troops to US border after Trump's tariff threat - The Associated Press
 A line of Mexican National Guard and Army trucks are rumbling along the border separating Ciudad Juárez and El Paso, Texas, among the first of 10,000 troops Mexico has sent to its northern frontier following tariff threats by President Donald Trump. Masked an…
 [Read more](https://apnews.com/article/national-guard-mexico-border-ciudad-juarez-sheinbaum-b26e9d359f4f17b60925bd3935d169d3)
 
-### Irv Gotti, Co-Founder of Murder Inc. Records, Dies at 54 - Billboard
-Irv Gotti -- who co-founded Murder Inc. Records and helped make superstars out of Ja Rule and Ashanti -- has died after suffering a stroke.
-[Read more](http://www.billboard.com/music/rb-hip-hop/irv-gotti-dead-murder-inc-1235893747/)
+### 11 dead in worst mass shooting in Sweden's history, authorities say - ABC News
+None
+[Read more](https://abcnews.go.com/International/11-dead-worst-mass-shooting-swedens-history-authorities/story?id\\u003d118475034)
 
-### A new type of bird flu has been found in dairy cows in Nevada - NPR
-The strain of bird flu is distinct from what has previously been found in dairy cattle. The finding means the virus has again spilled over from birds to cows, and it raises some worrying questions.
-[Read more](https://www.npr.org/sections/shots-health-news/2025/02/05/nx-s1-5286265/bird-flu-cow-cattle-nevada)
+### Browns Myles Garrett bares all on his trade request on "The Rich Eisen Show" - Dawgs By Nature
+He said what? Myles Garrett discussed everything about his trade rquest
+[Read more](https://www.dawgsbynature.com/2025/2/5/24359769/myles-garrett-rich-eisen-browns-trade-rumors)
 
-### Guatemala gives Rubio a second deportation deal for migrants being sent home from the US - The Associated Press
-Guatemalan President Bernardo Arévalo says his country will accept migrants from other countries who are being deported from the United States. It's the second deal that Secretary of State Marco Rubio has reached during his trip to Central America. Under the …
-[Read more](https://apnews.com/article/rubio-guatemala-trump-immigration-migrants-3cae5b616e1535e480e4f68c2641868c)
+### Bank of England expected to cut interest rates - BBC.com
+A cut to interest rates could mean lower mortgage rates.
+[Read more](https://www.bbc.com/news/articles/c0lzj3g77gpo)
 
-### Watch: Hundreds protest President Donald Trump's policies at California Capitol - KCRA Sacramento
-Hundreds of people gathered Wednesday at the Captial Mall in Sacramento to protest recent policies adopted by the Trump administration.
-[Read more](https://www.kcra.com/article/sacramento-protest-trump-capital-50501-movement/63679306)
-
-### New attorney general moves to align Justice Department with Trump's priorities - NPR
-Trump and Attorney General Pam Bondi have both argued the Justice Department under Biden unfairly targeted conservatives, most notably Trump himself.
-[Read more](https://www.npr.org/2025/02/05/g-s1-46698/attorney-general-memos-weaponization-trump)
-
-### Jimmy Butler trade: Warriors land Heat star, Andrew Wiggins to Miami in another NBA blockbuster, per reports - CBS Sports
-Butler also reportedly agreed to a two-year, $121 million contract extension
-[Read more](https://www.cbssports.com/nba/news/jimmy-butler-trade-warriors-land-heat-star-andrew-wiggins-to-miami-in-another-nba-blockbuster-per-reports/)
-
-### Strong earthquake near Santorini after days of tremors - BBC.com
-More than 11,000 people have already left the island of Santorini in recent days.
-[Read more](https://www.bbc.com/news/articles/ce8jlm6rm9qo)
-
-### Judge blocks Trump's bid to restrict birthright citizenship - BBC.com
-The ruling puts a hold on Trump's executive order until the legal process plays out, which could take months or even years.
-[Read more](https://www.bbc.com/news/articles/cvg8kk9j3j0o)
-
-### Judge weighs interim ban on Elon Musk's DOGE accessing the financial data of millions of Americans - Business Insider
-Elon Musk has no access to the Treasury's tax and Social Security data, a government lawyer said. A DC judge is mulling keeping it that way for now.
-[Read more](https://www.businessinsider.com/judge-weighs-ban-musk-doge-accessing-americans-fiscal-data-2025-2)
+### Dairy herds in Nevada test positive for newer bird flu strain that’s been linked to severe human infections - CNN
+Six dairy herds in Nevada have tested positive for a newer strain of the H5N1 bird flu virus that’s been associated with severe infections in humans, according to the Nevada Department of Agriculture.
+[Read more](https://www.cnn.com/2025/02/05/health/bird-flu-cattle-nevada/index.html)
 
 ### California coastal community shifts 4 inches closer to the ocean each week: NASA - ABC News
 None
 [Read more](https://abcnews.go.com/US/california-coastal-community-shifts-4-inches-closer-ocean/story?id\\u003d118493997)
 
-### Sweden mourns deadliest shooting as gunman details emerge - BBC.com
-Police say they have identified the gunman but will not publish his name yet or those of victims.
-[Read more](https://www.bbc.com/news/articles/czdl72j3j6go)
+### Thousands across the U.S. protest Trump policies - PBS NewsHour
+Demonstrators decried everything from the president's immigration crackdown to his rollback of transgender rights and a proposal to forcibly transfer Palestinians from the Gaza Strip.
+[Read more](https://www.pbs.org/newshour/politics/thousands-across-the-u-s-protest-trump-policies)
 
-### Liam Payne's girlfriend Kate Cassidy says death was 'tragic accident' - BBC.com
-The US influencer, who had been in a relationship with Payne since 2022, has spoken to the Sun newspaper.
-[Read more](https://www.bbc.com/news/articles/cgrnll1w8rqo)
+### Blake Lively Team Shrugs Off Defamation Suit Over Alleged Smear Campaign Planner - Deadline
+Blake Lively's Team Shrugs Off Defamation Suit Over Alleged Smear Campaign Planner; Jed Wallace Says Claims have Cost Him Millions In Lost Business
+[Read more](http://deadline.com/2025/02/blake-lively-defamation-suit-reaction-jed-wallace-1236279581/)
+
+### Trump closed a China loophole. Shein and Temu were already prepared. - Business Insider
+Shein and Temu shifted more of their orders to be fulfilled in the US ahead of de minimis changes.
+[Read more](https://www.businessinsider.com/shein-temu-wont-be-killed-by-de-minimis-exemption-changes-2025-2)
+
+### Every Question We Have About Taylor Swift at the Super Bowl - The Cut
+Will Taylor Swift encounter Donald Trump at the Super Bowl? What is she going to wear? Is Travis Kelce going to propose? Here are all the questions (and some of the answers) we have about Swift at the Super Bowl.
+[Read more](http://www.thecut.com/article/will-taylor-swift-be-at-the-super-bowl-everything-we-know.html)
 
 <!-- NEWS-END -->
