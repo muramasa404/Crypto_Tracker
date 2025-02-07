@@ -6,9 +6,33 @@ GDP: {'name': 'Real Gross Domestic Product', 'interval': 'annual', 'unit': 'bill
 ## 최신 경제 뉴스
 
 <!-- NEWS-START -->
-### Temu steers users to 'local' products after Trump shuts tax loophole - CNBC
-Temu has onboarded more sellers with U.S. inventory in recent years as lawmakers have zeroed in on the de minimis exemption.
-[Read more](https://www.cnbc.com/2025/02/05/temu-steers-users-to-local-products-after-trump-ends-de-minimis.html)
+### Irv Gotti, Murder Inc. Founder Who Worked With Ashanti and Ja Rule, Dies at 54 - Hollywood Reporter
+“Def Jam has lost one of its most creative soldiers who was hip-hop,” says YouTube’s Lyor Cohen
+[Read more](http://www.hollywoodreporter.com/news/music-news/irv-gotti-murder-inc-founder-dies-1236128314/)
+
+### Jimmy Butler trade: Warriors land Heat star, Andrew Wiggins to Miami in another NBA blockbuster, per reports - CBS Sports
+Butler also reportedly agreed to a two-year, $121 million contract extension
+[Read more](https://www.cbssports.com/nba/news/jimmy-butler-trade-warriors-land-heat-star-andrew-wiggins-to-miami-in-another-nba-blockbuster-per-reports/)
+
+### Protesters in cities across the US rally against Trump's policies, Project 2025 and Elon Musk - The Associated Press
+Demonstrators have gathered in cities across the U.S. to protest the Trump administration’s early actions. They're decrying everything from the president’s immigration crackdown to his rollback of transgender rights and a proposal to forcibly transfer Palesti…
+[Read more](https://apnews.com/article/50501-protests-project-2025-trump-state-capitols-ddd341171a54ba9b498cbfe7530e18ab)
+
+### The heist of 100,000 eggs in Pennsylvania becomes a whodunit that police have yet to crack - The Associated Press
+The heist of 100,000 eggs from the back of a trailer in Pennsylvania has become a whodunit that police have yet to crack. A spokesperson for the Pennsylvania State Police said Wednesday that four days after the theft no leads have come in. Law enforcement off…
+[Read more](https://apnews.com/article/eggs-stolen-pennsylvania-100000-c1c260ca05b9f84612c61071cb504939)
+
+### Judge appears likely to block DOGE from accessing Treasury Department records - ABC News
+None
+[Read more](https://abcnews.go.com/US/judge-weigh-block-doge-accessing-treasury-department-records/story?id\\u003d118498817)
+
+### Judge blocks Trump's bid to restrict birthright citizenship - BBC.com
+The ruling puts a hold on Trump's executive order until the legal process plays out, which could take months or even years.
+[Read more](https://www.bbc.com/news/articles/cvg8kk9j3j0o)
+
+### Republicans block Musk from congressional subpoena as DOGE continues to access government data - ABC News
+None
+[Read more](https://abcnews.go.com/Politics/republicans-block-musk-congressional-subpoena-doge-continues-access/story?id\\u003d118487749)
 
 ### At least 104 Indian citizens deported from US on military aircraft, say Indian officials - CNN
 At least 104 Indian citizens were deported from the United States Tuesday night on a military aircraft, according to officials from India’s Punjab state, as US President Donald Trump makes stemming migration a top priority.
@@ -22,60 +46,36 @@ Six dairy herds in Nevada have tested positive for a newer strain of the H5N1 bi
 Google CEO Sundar Pichai said the current AI opportunity is 'as big as it comes.'
 [Read more](https://www.thestreet.com/investing/analysts-rework-google-stock-price-targets-after-q4-earnings-shock)
 
+### California coastal community shifts 4 inches closer to the ocean each week: NASA - ABC News
+None
+[Read more](https://abcnews.go.com/US/california-coastal-community-shifts-4-inches-closer-ocean/story?id\\u003d118493997)
+
+### Liam Payne's girlfriend Kate Cassidy says death was 'tragic accident' - BBC.com
+The US influencer, who had been in a relationship with Payne since 2022, has spoken to the Sun newspaper.
+[Read more](https://www.bbc.com/news/articles/cgrnll1w8rqo)
+
 ### Blake Lively Team Shrugs Off Defamation Suit Over Alleged Smear Campaign Planner - Deadline
 Blake Lively's Team Shrugs Off Defamation Suit Over Alleged Smear Campaign Planner; Jed Wallace Says Claims have Cost Him Millions In Lost Business
 [Read more](http://deadline.com/2025/02/blake-lively-defamation-suit-reaction-jed-wallace-1236279581/)
 
-### Bondi, as new AG, launches 'Weaponization Working Group' to review officials who investigated Trump - ABC News
-None
-[Read more](https://abcnews.go.com/US/bondi-new-ag-launches-weaponization-working-group-review/story?id\\u003d118501463)
+### Keeping Men Out of Women’s Sports - The White House
+By the authority vested in me as President by the Constitution and the laws of the United States of America, and to protect opportunities for women and
+[Read more](https://www.whitehouse.gov/presidential-actions/2025/02/keeping-men-out-of-womens-sports/)
 
-### Trump signs order banning transgender women from female sports - BBC.com
-He says the move, which covers non-elite levels, restores fairness but human rights advocates have condemned it.
-[Read more](https://www.bbc.com/news/articles/c20g85k3z35o)
+### Kevin Durant's potential Warriors reunion is 'dead' - SFGATE
+Reporters put out rumors of Kevin Durant being linked to the Warriors ahead of the trade deadline, but a potential move now seems highly unlikely.
+[Read more](https://www.sfgate.com/warriors/article/kevin-durant-potential-warriors-reunion-unclear-20148969.php)
 
-### Ford Earnings Are Coming. Welcome to the Everything Quarter. - Barron's
+### Trump closed a China loophole. Shein and Temu were already prepared. - Business Insider
+Shein and Temu shifted more of their orders to be fulfilled in the US ahead of de minimis changes.
+[Read more](https://www.businessinsider.com/shein-temu-wont-be-killed-by-de-minimis-exemption-changes-2025-2)
 
-[Read more](https://www.barrons.com/articles/ford-earnings-evs-stock-price-1cfb7dc1)
+### Every Question We Have About Taylor Swift at the Super Bowl - The Cut
+Will Taylor Swift encounter Donald Trump at the Super Bowl? What is she going to wear? Is Travis Kelce going to propose? Here are all the questions (and some of the answers) we have about Swift at the Super Bowl.
+[Read more](http://www.thecut.com/article/will-taylor-swift-be-at-the-super-bowl-everything-we-know.html)
 
-### Exclusive | Google Kills Diversity Hiring Targets - WSJ - The Wall Street Journal
-None
-[Read more](https://www.wsj.com/tech/google-kills-diversity-hiring-targets-04433d7c)
-
-### Federal judge in Maryland blocks Trump’s birthright citizenship order - The Washington Post
-U.S. District Judge Deborah Boardman issued the injunction at a hearing on a lawsuit brought by civil rights groups arguing that Trump’s order is unconstitutional.
-[Read more](https://www.washingtonpost.com/immigration/2025/02/05/birthright-citizenship-injunction-trump-immigration/)
-
-### Democrats slam Trump's 'insane' Gaza plan as supportive Republicans await details - ABC News
-None
-[Read more](https://abcnews.go.com/Politics/democrats-slam-trumps-insane-gaza-plan-supportive-republicans/story?id\\u003d118488273)
-
-### Landslide rips apart Santa Rosa home rebuilt after Tubbs Fire, firefighters rescue residents - The Santa Rosa Press Democrat
-Fire officials rescued Santa Rosa residents trapped inside a home caught in a landslide Tuesday night as storms continued to wreak havoc across the region.
-[Read more](https://www.pressdemocrat.com/article/news/rincon-valley-landslide-santa-rosa-rain-sonoma/)
-
-### 11 dead in worst mass shooting in Sweden's history, authorities say - ABC News
-None
-[Read more](https://abcnews.go.com/International/11-dead-worst-mass-shooting-swedens-history-authorities/story?id\\u003d118475034)
-
-### Senate panel set to advance budget next week, Graham says - POLITICO
-None
-[Read more](https://www.politico.com/live-updates/2025/02/05/congress/senate-budget-lindsey-graham-00202649)
-
-### Super Bowl 2025: Eagles vs. Chiefs picks and game predictions - Bleeding Green Nation
-Will Philadelphia get their revenge on Kansas City?
-[Read more](https://www.bleedinggreennation.com/2025/2/5/24359573/super-bowl-2025-eagles-vs-chiefs-picks-game-predictions-philadelphia-kansas-city-nfl-59-saquon)
-
-### Suns could trade Kevin Durant and add Jimmy Butler - Arizona Sports
-Arizona Sports' John Gambadoro said it is "definitely a possibility" the Suns deal Kevin Durant and get back Jimmy Butler in a trade.
-[Read more](https://arizonasports.com/nba/phoenix-suns/durant-butler/3572816/)
-
-### New Aga Khan named as Prince Rahim Al-Hussaini - BBC.com
-The late Aga Khan's son has been named as his successor after the spiritual leader's will was unsealed.
-[Read more](https://www.bbc.com/news/articles/ce3ndgd6076o)
-
-### Taylor Swift's Luxurious Super Bowl Suite Has A Mouthwatering Food Menu - Yahoo Entertainment
-Most football fans can only dream of watching the Super Bowl from a private suite, but for Taylor Swift, it's becoming tradition.
-[Read more](https://www.mashed.com/1781134/food-menu-taylor-swift-super-bowl-suite/)
+### Trump unleashes a supercharged MAGA agenda and Republicans come aboard - The Associated Press
+President Donald Trump’s early moves, such as trying to slash the federal government and imposing tariffs on key allies, are testing how far Republicans are willing to go in supporting his supercharged “Make America Great Again” agenda. For now, Republicans a…
+[Read more](https://apnews.com/article/trump-republicans-maga-agenda-resistance-09c71f4a1e4084e3adf92546219ee4ab)
 
 <!-- NEWS-END -->
