@@ -6,76 +6,72 @@ GDP: {'name': 'Real Gross Domestic Product', 'interval': 'annual', 'unit': 'bill
 ## 최신 경제 뉴스
 
 <!-- NEWS-START -->
-### Irv Gotti, Murder Inc. Founder Who Worked With Ashanti and Ja Rule, Dies at 54 - Hollywood Reporter
-“Def Jam has lost one of its most creative soldiers who was hip-hop,” says YouTube’s Lyor Cohen
-[Read more](http://www.hollywoodreporter.com/news/music-news/irv-gotti-murder-inc-founder-dies-1236128314/)
+### Lakers reportedly land Hornets center Mark Williams in exchange for Dalton Knecht, Cam Reddish - Yahoo Sports
+The Lakers selected Dalton Knecht with their first-round draft pick last summer.
+[Read more](https://sports.yahoo.com/lakers-reportedly-land-hornets-center-mark-williams-in-exchange-for-dalton-knecht-cam-reddish-052023610.html)
+
+### NBA trade deadline 2025: Raptors get Brandon Ingram from Pelicans - Yahoo Sports
+Ingram provides the Raptors with a potent scoring threat, but he can be an unrestricted free agent after the 2024-25 NBA season.
+[Read more](https://sports.yahoo.com/nba-trade-deadline-2025-raptors-get-brandon-ingram-from-pelicans-044231135.html)
+
+### DEI: Google joins US firms abandoning diversity recruitment goals - BBC.com
+U-turn by former the diversity champion comes as major companies face pressure to drop the policies.
+[Read more](https://www.bbc.com/news/articles/c3rw3e5je5po)
+
+### Nvidia Shield TV gets its first widely-available update in two years – what’s new - 9to5Google
+The first new and notable update for the Nvidia Shield TV in over two years has just arrived, and it brings a ton of fixes and more.
+[Read more](http://9to5google.com/2025/02/05/nvidia-shield-tv-9-2-update-changelog/)
+
+### Mexico deploys the first of 10000 National Guard troops to US border after Trump's tariff threat - The Associated Press
+A line of Mexican National Guard and Army trucks are rumbling along the border separating Ciudad Juárez and El Paso, Texas, among the first of 10,000 troops Mexico has sent to its northern frontier following tariff threats by President Donald Trump. Masked an…
+[Read more](https://apnews.com/article/national-guard-mexico-border-ciudad-juarez-sheinbaum-b26e9d359f4f17b60925bd3935d169d3)
+
+### Irv Gotti, Co-Founder of Murder Inc. Records, Dies at 54 - Billboard
+Irv Gotti -- who co-founded Murder Inc. Records and helped make superstars out of Ja Rule and Ashanti -- has died after suffering a stroke.
+[Read more](http://www.billboard.com/music/rb-hip-hop/irv-gotti-dead-murder-inc-1235893747/)
+
+### A new type of bird flu has been found in dairy cows in Nevada - NPR
+The strain of bird flu is distinct from what has previously been found in dairy cattle. The finding means the virus has again spilled over from birds to cows, and it raises some worrying questions.
+[Read more](https://www.npr.org/sections/shots-health-news/2025/02/05/nx-s1-5286265/bird-flu-cow-cattle-nevada)
+
+### Guatemala gives Rubio a second deportation deal for migrants being sent home from the US - The Associated Press
+Guatemalan President Bernardo Arévalo says his country will accept migrants from other countries who are being deported from the United States. It's the second deal that Secretary of State Marco Rubio has reached during his trip to Central America. Under the …
+[Read more](https://apnews.com/article/rubio-guatemala-trump-immigration-migrants-3cae5b616e1535e480e4f68c2641868c)
+
+### Watch: Hundreds protest President Donald Trump's policies at California Capitol - KCRA Sacramento
+Hundreds of people gathered Wednesday at the Captial Mall in Sacramento to protest recent policies adopted by the Trump administration.
+[Read more](https://www.kcra.com/article/sacramento-protest-trump-capital-50501-movement/63679306)
+
+### New attorney general moves to align Justice Department with Trump's priorities - NPR
+Trump and Attorney General Pam Bondi have both argued the Justice Department under Biden unfairly targeted conservatives, most notably Trump himself.
+[Read more](https://www.npr.org/2025/02/05/g-s1-46698/attorney-general-memos-weaponization-trump)
 
 ### Jimmy Butler trade: Warriors land Heat star, Andrew Wiggins to Miami in another NBA blockbuster, per reports - CBS Sports
 Butler also reportedly agreed to a two-year, $121 million contract extension
 [Read more](https://www.cbssports.com/nba/news/jimmy-butler-trade-warriors-land-heat-star-andrew-wiggins-to-miami-in-another-nba-blockbuster-per-reports/)
 
-### Protesters in cities across the US rally against Trump's policies, Project 2025 and Elon Musk - The Associated Press
-Demonstrators have gathered in cities across the U.S. to protest the Trump administration’s early actions. They're decrying everything from the president’s immigration crackdown to his rollback of transgender rights and a proposal to forcibly transfer Palesti…
-[Read more](https://apnews.com/article/50501-protests-project-2025-trump-state-capitols-ddd341171a54ba9b498cbfe7530e18ab)
-
-### The heist of 100,000 eggs in Pennsylvania becomes a whodunit that police have yet to crack - The Associated Press
-The heist of 100,000 eggs from the back of a trailer in Pennsylvania has become a whodunit that police have yet to crack. A spokesperson for the Pennsylvania State Police said Wednesday that four days after the theft no leads have come in. Law enforcement off…
-[Read more](https://apnews.com/article/eggs-stolen-pennsylvania-100000-c1c260ca05b9f84612c61071cb504939)
-
-### Judge appears likely to block DOGE from accessing Treasury Department records - ABC News
-None
-[Read more](https://abcnews.go.com/US/judge-weigh-block-doge-accessing-treasury-department-records/story?id\\u003d118498817)
+### Strong earthquake near Santorini after days of tremors - BBC.com
+More than 11,000 people have already left the island of Santorini in recent days.
+[Read more](https://www.bbc.com/news/articles/ce8jlm6rm9qo)
 
 ### Judge blocks Trump's bid to restrict birthright citizenship - BBC.com
 The ruling puts a hold on Trump's executive order until the legal process plays out, which could take months or even years.
 [Read more](https://www.bbc.com/news/articles/cvg8kk9j3j0o)
 
-### Republicans block Musk from congressional subpoena as DOGE continues to access government data - ABC News
-None
-[Read more](https://abcnews.go.com/Politics/republicans-block-musk-congressional-subpoena-doge-continues-access/story?id\\u003d118487749)
-
-### At least 104 Indian citizens deported from US on military aircraft, say Indian officials - CNN
-At least 104 Indian citizens were deported from the United States Tuesday night on a military aircraft, according to officials from India’s Punjab state, as US President Donald Trump makes stemming migration a top priority.
-[Read more](https://www.cnn.com/2025/02/05/asia/india-citizens-us-deportation-intl-hnk-latam/index.html)
-
-### Dairy herds in Nevada test positive for newer bird flu strain that’s been linked to severe human infections - CNN
-Six dairy herds in Nevada have tested positive for a newer strain of the H5N1 bird flu virus that’s been associated with severe infections in humans, according to the Nevada Department of Agriculture.
-[Read more](https://www.cnn.com/2025/02/05/health/bird-flu-cattle-nevada/index.html)
-
-### Analysts rework Alphabet stock price targets after earnings shock - TheStreet
-Google CEO Sundar Pichai said the current AI opportunity is 'as big as it comes.'
-[Read more](https://www.thestreet.com/investing/analysts-rework-google-stock-price-targets-after-q4-earnings-shock)
+### Judge weighs interim ban on Elon Musk's DOGE accessing the financial data of millions of Americans - Business Insider
+Elon Musk has no access to the Treasury's tax and Social Security data, a government lawyer said. A DC judge is mulling keeping it that way for now.
+[Read more](https://www.businessinsider.com/judge-weighs-ban-musk-doge-accessing-americans-fiscal-data-2025-2)
 
 ### California coastal community shifts 4 inches closer to the ocean each week: NASA - ABC News
 None
 [Read more](https://abcnews.go.com/US/california-coastal-community-shifts-4-inches-closer-ocean/story?id\\u003d118493997)
 
+### Sweden mourns deadliest shooting as gunman details emerge - BBC.com
+Police say they have identified the gunman but will not publish his name yet or those of victims.
+[Read more](https://www.bbc.com/news/articles/czdl72j3j6go)
+
 ### Liam Payne's girlfriend Kate Cassidy says death was 'tragic accident' - BBC.com
 The US influencer, who had been in a relationship with Payne since 2022, has spoken to the Sun newspaper.
 [Read more](https://www.bbc.com/news/articles/cgrnll1w8rqo)
-
-### Blake Lively Team Shrugs Off Defamation Suit Over Alleged Smear Campaign Planner - Deadline
-Blake Lively's Team Shrugs Off Defamation Suit Over Alleged Smear Campaign Planner; Jed Wallace Says Claims have Cost Him Millions In Lost Business
-[Read more](http://deadline.com/2025/02/blake-lively-defamation-suit-reaction-jed-wallace-1236279581/)
-
-### Keeping Men Out of Women’s Sports - The White House
-By the authority vested in me as President by the Constitution and the laws of the United States of America, and to protect opportunities for women and
-[Read more](https://www.whitehouse.gov/presidential-actions/2025/02/keeping-men-out-of-womens-sports/)
-
-### Kevin Durant's potential Warriors reunion is 'dead' - SFGATE
-Reporters put out rumors of Kevin Durant being linked to the Warriors ahead of the trade deadline, but a potential move now seems highly unlikely.
-[Read more](https://www.sfgate.com/warriors/article/kevin-durant-potential-warriors-reunion-unclear-20148969.php)
-
-### Trump closed a China loophole. Shein and Temu were already prepared. - Business Insider
-Shein and Temu shifted more of their orders to be fulfilled in the US ahead of de minimis changes.
-[Read more](https://www.businessinsider.com/shein-temu-wont-be-killed-by-de-minimis-exemption-changes-2025-2)
-
-### Every Question We Have About Taylor Swift at the Super Bowl - The Cut
-Will Taylor Swift encounter Donald Trump at the Super Bowl? What is she going to wear? Is Travis Kelce going to propose? Here are all the questions (and some of the answers) we have about Swift at the Super Bowl.
-[Read more](http://www.thecut.com/article/will-taylor-swift-be-at-the-super-bowl-everything-we-know.html)
-
-### Trump unleashes a supercharged MAGA agenda and Republicans come aboard - The Associated Press
-President Donald Trump’s early moves, such as trying to slash the federal government and imposing tariffs on key allies, are testing how far Republicans are willing to go in supporting his supercharged “Make America Great Again” agenda. For now, Republicans a…
-[Read more](https://apnews.com/article/trump-republicans-maga-agenda-resistance-09c71f4a1e4084e3adf92546219ee4ab)
 
 <!-- NEWS-END -->
