@@ -6,49 +6,49 @@ GDP: {'name': 'Real Gross Domestic Product', 'interval': 'annual', 'unit': 'bill
 ## 최신 경제 뉴스
 
 <!-- NEWS-START -->
-### NFL MVP: Here's who gave Lamar Jackson a fourth-place vote as Josh Allen wins one of closest MVP races ever - CBS Sports
-The Ravens quarterback wasn't listed as first or second on just a single ballot
-[Read more](https://www.cbssports.com/nfl/news/nfl-mvp-heres-who-gave-lamar-jackson-a-fourth-place-vote-as-josh-allen-wins-one-of-closest-mvp-races-ever/)
+### Search underway in western Alaska for plane carrying 10 people - The Associated Press
+Authorities are searching part of Alaska's western coast for an aircraft that went missing while carrying 10 people. The Bering Air Caravan went missing before 4 p.m. Thursday while heading from Unalakleet to Nome with nine passengers and a pilot. The route i…
+[Read more](https://apnews.com/article/missing-aircraft-alaska-search-10-people-eb496188285ed54c9a527f658d4ff70a)
+
+### Bills QB Josh Allen wins first career AP NFL Most Valuable Player award - BuffaloBills.com
+Allen won the MVP award over QB Lamar Jackson, RB Saquon Barkley, QB Joe Burrow and QB Jared Goff
+[Read more](https://www.buffalobills.com/news/bills-qb-josh-allen-wins-first-career-ap-nfl-most-valuable-player-award)
 
 ### It’s Russian Men Against Ukrainian Machines on the Battlefields in Ukraine - The Wall Street Journal
 Desperately short of infantry, Kyiv is using aerial drones to pick off Russian infantry. It’s slowing, but not stopping, the Russian advance.
 [Read more](https://www.wsj.com/world/its-russian-men-against-ukrainian-machines-on-the-battlefields-in-ukraine-fcbe1592)
 
-### EPA employees who work on environmental justice are put on leave - NPR
-In an email obtained by NPR, employees at EPA's Office of Environmental Justice and External Civil Rights were told they were on administrative leave, effective immediately.
-[Read more](https://www.npr.org/2025/02/06/nx-s1-5289331/epa-employees-who-work-on-environmental-justice-are-put-on-leave)
+### Multiple instances of bird flu found in San Mateo County - SFGATE
+H5N1, known as bird flu, has been found in San Mateo County this week, according to state and local health officials.
+[Read more](https://www.sfgate.com/bayarea/article/bird-flu-san-mateo-county-20152903.php)
+
+### Wordle today: The answer and hints for February 7, 2025 - Mashable
+Here are some tips and tricks to help you find the answer to "Wordle" #1328.
+[Read more](https://mashable.com/article/wordle-today-answer-february-7-2025)
 
 ### Kanye West Defends Sean ‘Diddy’ Combs, Pleads With Trump To “Free My Brother Puff” - Deadline
 With Sean 'Diddy' Combs awaiting trial on multiple sex trafficking and abuse charges, Kanye West is attempting to leverage his friendship with Trump.
 [Read more](http://deadline.com/2025/02/kanye-west-pleads-trump-free-sean-diddy-combs-1236281107/)
 
-### 'A monster': Demetrius Frazier executed by nitrogen gas in Alabama for woman's 1991 murder - USA TODAY
-Alabama executed Demetrius Frazier for the 1991 murder of 41-year-old Pauline Brown two days before Thanksgiving.
-[Read more](https://www.usatoday.com/story/news/nation/2025/02/06/demetrius-frazier-execution-death-penalty-pauline-brown-nitrogen-gas/78290700007/)
+### Grading The New York Mets Offseason Moves After Pete Alonso Signing - Sports Illustrated
+With Pete Alonso finally signed on with the Mets, their offseason is pretty much complete. It also means we can finally start grading the team's winter additions.
+[Read more](https://www.si.com/mlb/mets/news/grading-the-new-york-mets-offseason-moves-after-pete-alonso-signing-jake9)
+
+### Once profit-starved Amazon is swimming in cash — and will go on a $100 billion AI-focused spending spree - Fortune
+Once profit-starved, Amazon is displaying a version of itself that many rivals have long feared.
+[Read more](https://fortune.com/2025/02/06/amazon-profits-q4-earnings-ai-aws-capital-expenses/)
 
 ### Call from Canton: Former Packers receiver Sterling Sharpe to be inducted into Pro Football Hall of Fame - Packers.com
 First-round pick in ’88 was three-time All-Pro over seven seasons in Green Bay
 [Read more](https://www.packers.com/news/call-from-canton-former-packers-receiver-sterling-sharpe-to-be-inducted-into-pro-football-hall-of-fame)
 
-### Today’s ‘Wordle’ #1329 Hints, Clues And Answer For Friday, February 7th - Forbes
-Looking for help with today's New York Times Wordle? Here are hints, clues and commentary to help you solve today's Wordle and sharpen your guessing game.
-[Read more](https://www.forbes.com/sites/erikkain/2025/02/06/todays-wordle-1329-hints-clues-and-answer-for-friday-february-7th/)
+### Karla Sofía Gascón Hopes Her Withdrawal From ‘Emilia Pérez’ Oscar Campaign Allows “the Film to Be Appreciated” - Hollywood Reporter
+The Hollywood Reporter previously reported that the embattled best actress Oscar nominee will no longer be flying to L.A. for any of the film's awards activities this week.
+[Read more](http://www.hollywoodreporter.com/movies/movie-news/karla-sofia-gascon-responds-withdrawal-emilia-perez-oscar-campaign-1236129324/)
 
-### Karla Sofía Gascón Responds To ‘Emilia Pérez’ Director & Offers “Silence” During Oscars Race: “Let The Work Talk For Itself” - Deadline
-As Karla Sofía Gascón faces continued backlash for past comments, the 'Emilia Pérez' actress is stepping back from the spotlight.
-[Read more](http://deadline.com/2025/02/karla-sofia-gascon-responds-emilia-perez-director-offers-silence-oscars-race-1236281066/)
-
-### Trump promotes misleading claims about federal government’s media subscriptions - The Associated Press
-Federal government payments for subscriptions to media outlets have become the latest target of President Donald Trump's spending hawks. A day after his press secretary cited some $8 million in spending for Politico subscriptions, Trump dubbed it a “scandal” …
-[Read more](https://apnews.com/article/trump-media-payments-subscriptions-spending-365a0899a84fba1567e85bb83da1e06b)
-
-### Lil Wayne Announces Release Date for New Album Tha Carter VI - Pitchfork
-The sixth installment of the rapper’s famed album series lands on June 6
-[Read more](https://pitchfork.com/news/lil-wayne-announces-release-date-for-new-album-tha-carter-vi/)
-
-### Egypt lobbies against Trump plan to empty Gaza of Palestinians as Israel prepares for it - The Associated Press
-Israel says it has begun preparations for the departure of large numbers of Palestinians from the Gaza Strip in line with President Donald Trump’s plan to empty the territory of its population. Meanwhile, Egypt has begun a diplomatic blitz behind the scenes t…
-[Read more](https://apnews.com/article/israel-palestinians-hamas-war-egypt-trump-displacement-bc1c43f80655190824a5de4eb1d310cc)
+### 2025 NBA trade deadline was insane -- and we might never see another one like it - CBS Sports
+NBA executives help explain why this year was a perfect storm for blockbuster deals
+[Read more](https://www.cbssports.com/nba/news/2025-nba-trade-deadline-was-insane-and-we-might-never-see-another-one-like-it/)
 
 ### Stock futures are little changed as investors brace for big payrolls report: Live updates - CNBC
 The S&P 500 and Nasdaq Composite posted three-day win streaks on Thursday.
@@ -58,25 +58,25 @@ The S&P 500 and Nasdaq Composite posted three-day win streaks on Thursday.
 Bringing together a "broad spectrum of sectors"
 [Read more](https://www.nintendolife.com/news/2025/02/e3s-entertainment-software-association-returns-with-a-new-industry-event)
 
+### Labor groups sue to halt Trump admin’s dismantling of USAID as workforce is expected to be slashed to under 300 - CNN
+A pair of labor groups representing employees at the US Agency for International Development (USAID) sued President Donald Trump on Thursday over his efforts to dismantle the decades-old agency as multiple sources told CNN that fewer than 300 employees are ex…
+[Read more](https://www.cnn.com/2025/02/06/politics/labor-groups-sue-trump-usaid/index.html)
+
 ### Judge halts Trump's government worker buyout plan - BBC.com
 The offer is part of an ongoing effort by the Trump administration to slash the size of the federal government.
 [Read more](https://www.bbc.com/news/articles/cx2q1g3evzqo)
 
-### After Trump’s remarks on Gaza, some in Dearborn, Michigan ‘think we screwed up.’ - POLITICO
-Trump’s plan to “take over” Gaza was met with outrage in Dearborn, Michigan, an Arab American enclave.
-[Read more](https://www.politico.com/news/2025/02/06/trump-arab-americans-dearborn-michigan-00203018)
+### Swedish police say mass shooter was connected to school where he opened fire - The Associated Press
+Swedish police say the shooter who killed 10 people in the country’s worst mass shooting was connected to the adult education center where he opened fire with at least one rifle-like weapon. Authorities said the gunman, who has not yet been officially identif…
+[Read more](https://apnews.com/article/sweden-shooting-adult-education-center-4f8d316aff439b29200ede6456373f43)
 
-### Amazon doubles down on AI with a massive $100B spending plan for 2025 - TechCrunch
-Amazon is joining other Big Tech companies by announcing huge AI spending plans for 2025.
-[Read more](https://techcrunch.com/2025/02/06/amazon-doubles-down-on-ai-with-a-massive-100b-spending-plan-for-2025/)
+### EPA places more than 160 environmental justice employees on paid leave - CNN
+Employees in the Environmental Protection Agency’s Office of Environmental Justice and External Civil Rights have been told they are being placed on paid administrative leave as the agency executes the Trump administration’s executive order to wipe out all pr…
+[Read more](https://www.cnn.com/2025/02/06/politics/epa-workers-administrative-leave/index.html)
 
-### Steve Cohen ‘needed’ the Pete Alonso-Mets reunion to happen - New York Post 
-Mets owner Steve Cohen suggested the secret sit-down with Pete Alonso in Tampa on Tuesday, and that may have been the breakthrough the sides needed.
-[Read more](https://nypost.com/2025/02/06/sports/steve-cohen-needed-the-pete-alonso-mets-reunion-to-happen/)
-
-### Apple’s Long-Awaited Overhaul of iPhone SE Nears Release - Bloomberg
-Apple Inc. plans to unveil a long-anticipated overhaul of the iPhone SE in the coming days, a move that will modernize its lower-cost model in a bid to spur growth and entice consumers to switch from other brands.
-[Read more](https://www.bloomberg.com/news/articles/2025-02-06/apple-s-long-awaited-overhaul-of-budget-iphone-nears-release)
+### Trump makes misleading claims about government payments to Politico. Here's a fact check. - CBS News
+Records show federal agencies, as well as Republican and Democratic lawmakers, paid for subscriptions to Politico. But the company says it's never received federal subsidies.
+[Read more](https://www.cbsnews.com/news/trump-politico-payments-fact-check/)
 
 ### Nintendo patent explains Switch 2 Joy-Cons’ “mouse operation” mode - Ars Technica
 Users can access thumbsticks, shoulder buttons while sliding Joy-Cons on a flat surface.
