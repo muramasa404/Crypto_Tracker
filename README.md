@@ -6,80 +6,72 @@ GDP: {'name': 'Real Gross Domestic Product', 'interval': 'annual', 'unit': 'bill
 ## 최신 경제 뉴스
 
 <!-- NEWS-START -->
-### Search underway in western Alaska for plane carrying 10 people - The Associated Press
-Authorities are searching part of Alaska's western coast for an aircraft that went missing while carrying 10 people. The Bering Air Caravan went missing before 4 p.m. Thursday while heading from Unalakleet to Nome with nine passengers and a pilot. The route i…
-[Read more](https://apnews.com/article/missing-aircraft-alaska-search-10-people-eb496188285ed54c9a527f658d4ff70a)
+### Phishing Tests, the Bane of Work Life, Are Getting Meaner - The Wall Street Journal
+None
+[Read more](https://www.wsj.com/tech/cybersecurity/phishing-tests-the-bane-of-work-life-are-getting-meaner-76f30173)
+
+### What does Trump mean when he invokes America's 'Manifest Destiny'? - NPR
+The 19th century term describes the perceived right of Americans to use force or the threat of force to wrest desireable land from the grasp of others.
+[Read more](https://www.npr.org/2025/02/07/nx-s1-5287692/manifest-destiny-trump-mars)
+
+### Exclusive: GM, Pepsi, Disney, others scrub some DEI references from investor reports - NPR
+Some companies have announced diversity rollbacks — but many more are deleting or softening language from their investor disclosures, an NPR analysis finds.
+[Read more](https://www.npr.org/2025/02/07/nx-s1-5288947/trump-dei-disney-pepsi-diversity)
+
+### China lashes out at US 'coercion' after Panama declines to renew infrastructure agreement - ABC News
+China on lashed out at what it called U.S. “coercion” after Panama declined to renew a key infrastructure agreement with Beijing following Washington’s threat to take back the Panama Canal
+[Read more](https://abcnews.go.com/Business/wireStory/china-lashes-us-coercion-after-panama-declines-renew-118561218)
 
 ### Bills QB Josh Allen wins first career AP NFL Most Valuable Player award - BuffaloBills.com
 Allen won the MVP award over QB Lamar Jackson, RB Saquon Barkley, QB Joe Burrow and QB Jared Goff
 [Read more](https://www.buffalobills.com/news/bills-qb-josh-allen-wins-first-career-ap-nfl-most-valuable-player-award)
 
-### It’s Russian Men Against Ukrainian Machines on the Battlefields in Ukraine - The Wall Street Journal
-Desperately short of infantry, Kyiv is using aerial drones to pick off Russian infantry. It’s slowing, but not stopping, the Russian advance.
-[Read more](https://www.wsj.com/world/its-russian-men-against-ukrainian-machines-on-the-battlefields-in-ukraine-fcbe1592)
+### EV maker Scout Motors wants to sell directly to buyers but can’t do it in its home state - The Associated Press
+Volkswagen-backed Scout Motors is making a massive bet in the electric SUV market. The company wants to let customers buy its vehicle in minutes on their app and handle everything after, from repairs to updates and upgrades. But without some help from lawmake…
+[Read more](https://apnews.com/article/direct-auto-sales-scout-motors-south-carolina-eedc94ff4347dc1eef4fd64a79375952)
 
-### Multiple instances of bird flu found in San Mateo County - SFGATE
-H5N1, known as bird flu, has been found in San Mateo County this week, according to state and local health officials.
-[Read more](https://www.sfgate.com/bayarea/article/bird-flu-san-mateo-county-20152903.php)
+### Antonio Gates, Jared Allen, Eric Allen and Sterling Sharpe make the Pro Football Hall of Fame - The Associated Press
+Antonio Gates, Jared Allen, Eric Allen and Sterling Sharpe have been voted into the Pro Football Hall of Fame in the smallest induction class in 20 years following offseason rule changes meant to make it harder to get inducted. Sharpe got in as a seniors cand…
+[Read more](https://apnews.com/article/football-hall-of-fame-a8a41e9c62d040159b825d42bda6f8b2)
 
-### Wordle today: The answer and hints for February 7, 2025 - Mashable
-Here are some tips and tricks to help you find the answer to "Wordle" #1328.
-[Read more](https://mashable.com/article/wordle-today-answer-february-7-2025)
+### UFC 312 loses fight minutes before weigh-ins - MMA Junkie
+UFC 312 is now down to 12 fights.
+[Read more](https://mmajunkie.usatoday.com/2025/02/ufc-312-loses-fight-minutes-before-weigh-ins)
 
-### Kanye West Defends Sean ‘Diddy’ Combs, Pleads With Trump To “Free My Brother Puff” - Deadline
-With Sean 'Diddy' Combs awaiting trial on multiple sex trafficking and abuse charges, Kanye West is attempting to leverage his friendship with Trump.
-[Read more](http://deadline.com/2025/02/kanye-west-pleads-trump-free-sean-diddy-combs-1236281107/)
+### Senate confirms Russell Vought to lead White House budget office - The Washington Post
+The fiscal conservative returns to the post he held in President Donald Trump’s first administration.
+[Read more](https://www.washingtonpost.com/business/2025/02/06/russell-vought-confirmed-omb-director/)
 
-### Grading The New York Mets Offseason Moves After Pete Alonso Signing - Sports Illustrated
-With Pete Alonso finally signed on with the Mets, their offseason is pretty much complete. It also means we can finally start grading the team's winter additions.
-[Read more](https://www.si.com/mlb/mets/news/grading-the-new-york-mets-offseason-moves-after-pete-alonso-signing-jake9)
+### USAID could slash staff to hundreds after placing most on leave - BBC.com
+But US President Donald Trump's plan to dramatically cut back US foreign aid faces a legal challenge.
+[Read more](https://www.bbc.com/news/articles/c5y6701gl60o)
 
 ### Once profit-starved Amazon is swimming in cash — and will go on a $100 billion AI-focused spending spree - Fortune
 Once profit-starved, Amazon is displaying a version of itself that many rivals have long feared.
 [Read more](https://fortune.com/2025/02/06/amazon-profits-q4-earnings-ai-aws-capital-expenses/)
 
-### Call from Canton: Former Packers receiver Sterling Sharpe to be inducted into Pro Football Hall of Fame - Packers.com
-First-round pick in ’88 was three-time All-Pro over seven seasons in Green Bay
-[Read more](https://www.packers.com/news/call-from-canton-former-packers-receiver-sterling-sharpe-to-be-inducted-into-pro-football-hall-of-fame)
+### Here Are All The Major Lawsuits Against Trump And Musk—As USAID Shutdown Sparks Legal Battle - Forbes
+Judges ruled on Thursday alone to extend blocks on Trump’s birthright citizenship ban, limit Elon Musk’s access to Treasury documents and pause the deadline for federal employee buyouts.
+[Read more](https://www.forbes.com/sites/alisondurkee/2025/02/06/here-are-all-the-major-lawsuits-against-trump-and-musk-as-usaid-shutdown-sparks-legal-battle/)
 
-### Karla Sofía Gascón Hopes Her Withdrawal From ‘Emilia Pérez’ Oscar Campaign Allows “the Film to Be Appreciated” - Hollywood Reporter
-The Hollywood Reporter previously reported that the embattled best actress Oscar nominee will no longer be flying to L.A. for any of the film's awards activities this week.
-[Read more](http://www.hollywoodreporter.com/movies/movie-news/karla-sofia-gascon-responds-withdrawal-emilia-perez-oscar-campaign-1236129324/)
+### Karla Sofía Gascón Responds To ‘Emilia Pérez’ Director & Offers “Silence” During Oscars Race: “Let The Work Talk For Itself” - Deadline
+As Karla Sofía Gascón faces continued backlash for past comments, the 'Emilia Pérez' actress is stepping back from the spotlight.
+[Read more](http://deadline.com/2025/02/karla-sofia-gascon-responds-emilia-perez-director-offers-silence-oscars-race-1236281066/)
 
-### 2025 NBA trade deadline was insane -- and we might never see another one like it - CBS Sports
-NBA executives help explain why this year was a perfect storm for blockbuster deals
-[Read more](https://www.cbssports.com/nba/news/2025-nba-trade-deadline-was-insane-and-we-might-never-see-another-one-like-it/)
+### Trump promotes misleading claims about federal government’s media subscriptions - The Associated Press
+Federal government payments for subscriptions to media outlets have become the latest target of President Donald Trump's spending hawks. A day after his press secretary cited some $8 million in spending for Politico subscriptions, Trump dubbed it a “scandal” …
+[Read more](https://apnews.com/article/trump-media-payments-subscriptions-spending-365a0899a84fba1567e85bb83da1e06b)
+
+### Lil Wayne Announces Release Date for New Album Tha Carter VI - Pitchfork
+The sixth installment of the rapper’s famed album series lands on June 6
+[Read more](https://pitchfork.com/news/lil-wayne-announces-release-date-for-new-album-tha-carter-vi/)
 
 ### Stock futures are little changed as investors brace for big payrolls report: Live updates - CNBC
 The S&P 500 and Nasdaq Composite posted three-day win streaks on Thursday.
 [Read more](https://www.cnbc.com/2025/02/06/stock-market-today-live-updates.html)
 
-### E3's Entertainment Software Association Returns With A New Industry Event - Nintendo Life
-Bringing together a "broad spectrum of sectors"
-[Read more](https://www.nintendolife.com/news/2025/02/e3s-entertainment-software-association-returns-with-a-new-industry-event)
-
-### Labor groups sue to halt Trump admin’s dismantling of USAID as workforce is expected to be slashed to under 300 - CNN
-A pair of labor groups representing employees at the US Agency for International Development (USAID) sued President Donald Trump on Thursday over his efforts to dismantle the decades-old agency as multiple sources told CNN that fewer than 300 employees are ex…
-[Read more](https://www.cnn.com/2025/02/06/politics/labor-groups-sue-trump-usaid/index.html)
-
-### Judge halts Trump's government worker buyout plan - BBC.com
-The offer is part of an ongoing effort by the Trump administration to slash the size of the federal government.
-[Read more](https://www.bbc.com/news/articles/cx2q1g3evzqo)
-
-### Swedish police say mass shooter was connected to school where he opened fire - The Associated Press
-Swedish police say the shooter who killed 10 people in the country’s worst mass shooting was connected to the adult education center where he opened fire with at least one rifle-like weapon. Authorities said the gunman, who has not yet been officially identif…
-[Read more](https://apnews.com/article/sweden-shooting-adult-education-center-4f8d316aff439b29200ede6456373f43)
-
-### EPA places more than 160 environmental justice employees on paid leave - CNN
-Employees in the Environmental Protection Agency’s Office of Environmental Justice and External Civil Rights have been told they are being placed on paid administrative leave as the agency executes the Trump administration’s executive order to wipe out all pr…
-[Read more](https://www.cnn.com/2025/02/06/politics/epa-workers-administrative-leave/index.html)
-
-### Trump makes misleading claims about government payments to Politico. Here's a fact check. - CBS News
-Records show federal agencies, as well as Republican and Democratic lawmakers, paid for subscriptions to Politico. But the company says it's never received federal subsidies.
-[Read more](https://www.cbsnews.com/news/trump-politico-payments-fact-check/)
-
-### Nintendo patent explains Switch 2 Joy-Cons’ “mouse operation” mode - Ars Technica
-Users can access thumbsticks, shoulder buttons while sliding Joy-Cons on a flat surface.
-[Read more](https://arstechnica.com/gaming/2025/02/nintendo-patent-explains-switch-2-joy-cons-mouse-operation-mode/)
+### Court’s pause of federal worker ‘buyout’ gives Trump administration more time to get more applications - POLITICO
+OPM said more than 60,000 had accepted the offer.
+[Read more](https://www.politico.com/news/2025/02/06/federal-worker-buyout-deadline-00203022)
 
 <!-- NEWS-END -->
