@@ -6,84 +6,80 @@ GDP: {'name': 'Real Gross Domestic Product', 'interval': 'annual', 'unit': 'bill
 ## 최신 경제 뉴스
 
 <!-- NEWS-START -->
+### NFL MVP: Here's who gave Lamar Jackson a fourth-place vote as Josh Allen wins one of closest MVP races ever - CBS Sports
+The Ravens quarterback wasn't listed as first or second on just a single ballot
+[Read more](https://www.cbssports.com/nfl/news/nfl-mvp-heres-who-gave-lamar-jackson-a-fourth-place-vote-as-josh-allen-wins-one-of-closest-mvp-races-ever/)
+
+### It’s Russian Men Against Ukrainian Machines on the Battlefields in Ukraine - The Wall Street Journal
+Desperately short of infantry, Kyiv is using aerial drones to pick off Russian infantry. It’s slowing, but not stopping, the Russian advance.
+[Read more](https://www.wsj.com/world/its-russian-men-against-ukrainian-machines-on-the-battlefields-in-ukraine-fcbe1592)
+
+### EPA employees who work on environmental justice are put on leave - NPR
+In an email obtained by NPR, employees at EPA's Office of Environmental Justice and External Civil Rights were told they were on administrative leave, effective immediately.
+[Read more](https://www.npr.org/2025/02/06/nx-s1-5289331/epa-employees-who-work-on-environmental-justice-are-put-on-leave)
+
+### Kanye West Defends Sean ‘Diddy’ Combs, Pleads With Trump To “Free My Brother Puff” - Deadline
+With Sean 'Diddy' Combs awaiting trial on multiple sex trafficking and abuse charges, Kanye West is attempting to leverage his friendship with Trump.
+[Read more](http://deadline.com/2025/02/kanye-west-pleads-trump-free-sean-diddy-combs-1236281107/)
+
+### 'A monster': Demetrius Frazier executed by nitrogen gas in Alabama for woman's 1991 murder - USA TODAY
+Alabama executed Demetrius Frazier for the 1991 murder of 41-year-old Pauline Brown two days before Thanksgiving.
+[Read more](https://www.usatoday.com/story/news/nation/2025/02/06/demetrius-frazier-execution-death-penalty-pauline-brown-nitrogen-gas/78290700007/)
+
 ### Call from Canton: Former Packers receiver Sterling Sharpe to be inducted into Pro Football Hall of Fame - Packers.com
 First-round pick in ’88 was three-time All-Pro over seven seasons in Green Bay
 [Read more](https://www.packers.com/news/call-from-canton-former-packers-receiver-sterling-sharpe-to-be-inducted-into-pro-football-hall-of-fame)
 
-### Tech Giants Double Down on Their Massive AI Spending - The Wall Street Journal
-Amazon, Google, Microsoft and Meta pour billions into artificial intelligence, undeterred by DeepSeek’s rise
-[Read more](https://www.wsj.com/tech/ai/tech-giants-double-down-on-their-massive-ai-spending-b3040b33)
-
-### Saquon Barkley runs away with the AP NFL Offensive Player of the Year award - The Associated Press
-Saquon Barkley ran away with the AP NFL Offensive Player of the Year award after rushing for 2,005 yards, eighth-best in NFL history, in his first season with the Eagles. Barkley sat out Philadelphia’s final regular-season game when he was 101 yards away from…
-[Read more](https://apnews.com/article/nfl-honors-mvp-ap)
+### Today’s ‘Wordle’ #1329 Hints, Clues And Answer For Friday, February 7th - Forbes
+Looking for help with today's New York Times Wordle? Here are hints, clues and commentary to help you solve today's Wordle and sharpen your guessing game.
+[Read more](https://www.forbes.com/sites/erikkain/2025/02/06/todays-wordle-1329-hints-clues-and-answer-for-friday-february-7th/)
 
 ### Karla Sofía Gascón Responds To ‘Emilia Pérez’ Director & Offers “Silence” During Oscars Race: “Let The Work Talk For Itself” - Deadline
 As Karla Sofía Gascón faces continued backlash for past comments, the 'Emilia Pérez' actress is stepping back from the spotlight.
 [Read more](http://deadline.com/2025/02/karla-sofia-gascon-responds-emilia-perez-director-offers-silence-oscars-race-1236281066/)
 
-### US formally seizes second plane belonging to Venezuelan President Maduro - CNN
-US Secretary of State Marco Rubio formally seized a plane belonging to Venezuelan President Nicolas Maduro’s government on behalf of the United States on Thursday.
-[Read more](https://www.cnn.com/2025/02/06/politics/marco-rubio-dominican-republic-plane-latam-hnk-intl/index.html)
+### Trump promotes misleading claims about federal government’s media subscriptions - The Associated Press
+Federal government payments for subscriptions to media outlets have become the latest target of President Donald Trump's spending hawks. A day after his press secretary cited some $8 million in spending for Politico subscriptions, Trump dubbed it a “scandal” …
+[Read more](https://apnews.com/article/trump-media-payments-subscriptions-spending-365a0899a84fba1567e85bb83da1e06b)
 
-### Trump’s Gaza plan shocks the world but finds support in Israel - The Associated Press
-President Donald Trump’s plan to seek U.S. ownership of the Gaza Strip and move out its population has found a sympathetic ear in Israel. Trump’s proposal lent legitimacy to a notion long championed by Israel’s far-right. Although it is laden with moral, lega…
-[Read more](https://apnews.com/article/israel-trump-gaza-netanyahu-169d497ac07760ccb9724bef5982338a)
+### Lil Wayne Announces Release Date for New Album Tha Carter VI - Pitchfork
+The sixth installment of the rapper’s famed album series lands on June 6
+[Read more](https://pitchfork.com/news/lil-wayne-announces-release-date-for-new-album-tha-carter-vi/)
 
-### Unions sue Trump administration over USAID shutdown - The Hill
-Unions representing government employees sued the Trump administration Thursday evening to block efforts to shut down the government’s independent foreign assistance agency.  Elon Musk’s Department of Government Efficiency (DOGE) launched a full-scale assault…
-[Read more](https://thehill.com/policy/international/5131863-unions-sue-trump-administration-usaid/)
+### Egypt lobbies against Trump plan to empty Gaza of Palestinians as Israel prepares for it - The Associated Press
+Israel says it has begun preparations for the departure of large numbers of Palestinians from the Gaza Strip in line with President Donald Trump’s plan to empty the territory of its population. Meanwhile, Egypt has begun a diplomatic blitz behind the scenes t…
+[Read more](https://apnews.com/article/israel-palestinians-hamas-war-egypt-trump-displacement-bc1c43f80655190824a5de4eb1d310cc)
 
 ### Stock futures are little changed as investors brace for big payrolls report: Live updates - CNBC
 The S&P 500 and Nasdaq Composite posted three-day win streaks on Thursday.
 [Read more](https://www.cnbc.com/2025/02/06/stock-market-today-live-updates.html)
 
 ### E3's Entertainment Software Association Returns With A New Industry Event - Nintendo Life
-None
+Bringing together a "broad spectrum of sectors"
 [Read more](https://www.nintendolife.com/news/2025/02/e3s-entertainment-software-association-returns-with-a-new-industry-event)
 
-### Nintendo patents show the Switch 2 Joy-Con may indeed work like a mouse — and so might a new controller - The Verge
-Newly-published Nintendo patents show that the company has been exploring a version of its Joy-Con controllers that can work like a computer mouse. The patents also appear to show a magnetic accessory.
-[Read more](https://www.theverge.com/news/608018/nintendo-switch-2-patents-joy-con-pro-controller-mouse-magnets)
-
-### Russ Vought, champion of Schedule F and slashing agency budgets, wins confirmation to OMB - Government Executive
-Trump's pick for budget chief was confirmed by the Senate after Democrats held the floor for a full day to speak in opposition to him.
-[Read more](https://www.govexec.com/management/2025/02/russ-vought-champion-schedule-f-and-slashing-agency-budgets-wins-confirmation-omb/402823/)
+### Judge halts Trump's government worker buyout plan - BBC.com
+The offer is part of an ongoing effort by the Trump administration to slash the size of the federal government.
+[Read more](https://www.bbc.com/news/articles/cx2q1g3evzqo)
 
 ### After Trump’s remarks on Gaza, some in Dearborn, Michigan ‘think we screwed up.’ - POLITICO
 Trump’s plan to “take over” Gaza was met with outrage in Dearborn, Michigan, an Arab American enclave.
 [Read more](https://www.politico.com/news/2025/02/06/trump-arab-americans-dearborn-michigan-00203018)
 
-### AI invented a new miracle material that’s as strong as steel but light as foam - BGR
-A new AI-created wonder material is stronger than steel but as light as styrofoam and could revolutionize transportation designs.
-[Read more](https://bgr.com/science/ai-invented-a-new-miracle-material-thats-as-strong-as-steel-but-light-as-foam/)
+### Amazon doubles down on AI with a massive $100B spending plan for 2025 - TechCrunch
+Amazon is joining other Big Tech companies by announcing huge AI spending plans for 2025.
+[Read more](https://techcrunch.com/2025/02/06/amazon-doubles-down-on-ai-with-a-massive-100b-spending-plan-for-2025/)
 
-### Trump makes misleading claims about government payments to Politico. Here's a fact check. - CBS News
-Records show federal agencies, as well as Republican and Democratic lawmakers, paid for subscriptions to Politico. But the company says it's never received federal subsidies.
-[Read more](https://www.cbsnews.com/news/trump-politico-payments-fact-check/)
+### Steve Cohen ‘needed’ the Pete Alonso-Mets reunion to happen - New York Post 
+Mets owner Steve Cohen suggested the secret sit-down with Pete Alonso in Tampa on Tuesday, and that may have been the breakthrough the sides needed.
+[Read more](https://nypost.com/2025/02/06/sports/steve-cohen-needed-the-pete-alonso-mets-reunion-to-happen/)
 
-### Judge temporarily blocks Trump's federal government employee buyout - ABC News
-None
-[Read more](https://abcnews.go.com/US/judge-request-block-trumps-federal-government-employee-buyout/story?id\\u003d118535508)
+### Apple’s Long-Awaited Overhaul of iPhone SE Nears Release - Bloomberg
+Apple Inc. plans to unveil a long-anticipated overhaul of the iPhone SE in the coming days, a move that will modernize its lower-cost model in a bid to spur growth and entice consumers to switch from other brands.
+[Read more](https://www.bloomberg.com/news/articles/2025-02-06/apple-s-long-awaited-overhaul-of-budget-iphone-nears-release)
 
-### As bird flu spreads, what is the risk from eggs and milk? - ABC News
-None
-[Read more](https://abcnews.go.com/Health/bird-flu-spreads-risk-eggs-milk/story?id\\u003d118544360)
-
-### Looks Like Lil Wayne Just Announced Tha Carter VI in … a Lotion Ad - Vulture
-Lil Wayne may not have gotten the halftime show, but that’s not stopping him from announcing ‘Tha Carter VI’ at the big game. He’s just doing it in … a lotion ad.
-[Read more](http://www.vulture.com/article/lil-wayne-tha-carter-vi-super-bowl-cetaphil-ad.html)
-
-### Eradicating Anti-Christian Bias - The White House
-By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered:     Section 1.  Purpose
-[Read more](https://www.whitehouse.gov/presidential-actions/2025/02/eradicating-anti-christian-bias/)
-
-### Honeywell, with significant operations in Twin Cities, will break into three companies - Star Tribune
-The once-leading Minnesota corporation, now based in North Carolina, has been pressured by shareholders to split up.
-[Read more](https://www.startribune.com/honeywell-split-effects-minnesota-operations/601218134)
-
-### ‘No-shenanigans handshake’ helps usher in Minnesota House return after prolonged power standoff - MPR News
-The legislative session was resuscitated after weeks of a Minnesota House deadlock. Party leaders agreed to pact where they will share power on committees if a tie returns and clear away other areas of dispute.
-[Read more](https://www.mprnews.org/story/2025/02/06/minnesota-house-returns-to-action-after-prolonged-standoff)
+### Nintendo patent explains Switch 2 Joy-Cons’ “mouse operation” mode - Ars Technica
+Users can access thumbsticks, shoulder buttons while sliding Joy-Cons on a flat surface.
+[Read more](https://arstechnica.com/gaming/2025/02/nintendo-patent-explains-switch-2-joy-cons-mouse-operation-mode/)
 
 <!-- NEWS-END -->
