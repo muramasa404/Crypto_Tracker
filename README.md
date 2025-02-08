@@ -6,72 +6,68 @@ GDP: {'name': 'Real Gross Domestic Product', 'interval': 'annual', 'unit': 'bill
 ## 최신 경제 뉴스
 
 <!-- NEWS-START -->
-### Phishing Tests, the Bane of Work Life, Are Getting Meaner - The Wall Street Journal
+### Kanye Accidentally Exposes Elon Musk’s Hard-Right Grift in MAGA Meltdown - The Daily Beast
+The rapper admits he’s jealous of how well the MAGA billionaire has used Nazi fakery to seize power in Donald Trump’s America.
+[Read more](https://www.thedailybeast.com/kanye-west-accidentally-exposes-elon-musks-hard-right-grift-in-maga-meltdown/)
+
+### Report: iPhone SE could shed its 10-year-old design “as early as next week” - Ars Technica
+New budget phone may include bigger screen, USB-C, Face ID, Apple Intelligence.
+[Read more](https://arstechnica.com/gadgets/2025/02/report-iphone-se-could-shed-its-10-year-old-design-as-early-as-next-week/)
+
+### Live updates: Trump to meet with Japan’s prime minister, dine with Senate Republicans - The Washington Post
+The latest news on President Donald Trump’s return to the White House and the new Congress.
+[Read more](https://www.washingtonpost.com/politics/2025/02/07/trump-presidency-news/)
+
+### Galaxy S25 Ultra performs incredibly well in punishing drop tests - SamMobile - Samsung news
+Shortly after Samsung announced the Galaxy S25 Ultra at Unpacked in San Francisco, the company issued a press release citing ...
+[Read more](https://www.sammobile.com/news/galaxy-s25-ultra-performs-incredibly-well-in-punishing-drop-tests/)
+
+### Two killed as small plane crashes into bus on busy road in Brazilian city of São Paulo - CNN
+At least two people have been killed after a small airplane collided with cars on a busy avenue in
+[Read more](https://www.cnn.com/2025/02/07/americas/brazil-sao-paulo-plane-crash-intl/index.html)
+
+### Crews still searching for flight reported missing on Thursday in Alaska - ABC News
 None
+[Read more](https://abcnews.go.com/US/crews-searching-flight-reported-missing-alaska-10-people/story?id\\u003d118557849)
+
+### Volatile markets or no, the best bet for the next decade is Wall Street stocks. - MarketWatch
+Northern Trust strategist says buybacks are the secret American sauce
+[Read more](https://www.marketwatch.com/story/usa-all-the-way-why-one-firm-says-the-best-bet-for-the-next-decade-is-still-wall-street-2e9a32d3)
+
+### Manning has had 'Hall of Fame moments, but not a Hall of Fame career' - ESPN
+Although denied this time, Manning maintains a good chance to get in.
+[Read more](https://www.espn.com/nfl/story/_/id/43705843/why-eli-manning-did-not-make-cut-nfl-class-2025-hof)
+
+### Phishing Tests, the Bane of Work Life, Are Getting Meaner - The Wall Street Journal
+Researchers say the ruses, aimed at teaching gullible employees about the dangers lurking online, don’t even work
 [Read more](https://www.wsj.com/tech/cybersecurity/phishing-tests-the-bane-of-work-life-are-getting-meaner-76f30173)
 
-### What does Trump mean when he invokes America's 'Manifest Destiny'? - NPR
-The 19th century term describes the perceived right of Americans to use force or the threat of force to wrest desireable land from the grasp of others.
-[Read more](https://www.npr.org/2025/02/07/nx-s1-5287692/manifest-destiny-trump-mars)
+### China lashes out at US ‘coercion’ after Panama declines to renew infrastructure agreement - The Associated Press
+China on lashed out at what it called U.S. “coercion” after Panama declined to renew a key infrastructure agreement with Beijing following Washington’s threat to take back the Panama Canal. The Belt and Road Initiative is President Xi Jinping’s signature fore…
+[Read more](https://apnews.com/article/china-us-panama-canal-belt-road-9452852d8e074902d3f2a75fa73f5060)
 
-### Exclusive: GM, Pepsi, Disney, others scrub some DEI references from investor reports - NPR
-Some companies have announced diversity rollbacks — but many more are deleting or softening language from their investor disclosures, an NPR analysis finds.
-[Read more](https://www.npr.org/2025/02/07/nx-s1-5288947/trump-dei-disney-pepsi-diversity)
+### UFC 312 video: Dricus Du Plessis, Sean Strickland intense at final staredown - MMA Junkie
+Dricus Du Plessis and Sean Strickland came face-to-face for the final time before their UFC 312 title rematch.
+[Read more](https://mmajunkie.usatoday.com/2025/02/ufc-312-video-dricus-du-plessis-sean-strickland-intense-at-final-staredown)
 
-### China lashes out at US 'coercion' after Panama declines to renew infrastructure agreement - ABC News
-China on lashed out at what it called U.S. “coercion” after Panama declined to renew a key infrastructure agreement with Beijing following Washington’s threat to take back the Panama Canal
-[Read more](https://abcnews.go.com/Business/wireStory/china-lashes-us-coercion-after-panama-declines-renew-118561218)
+### Trump sued by workers' unions over "unconstitutional and illegal" move to dismantle USAID - Axios
+The Trump administration's action has "generated a global humanitarian crisis," lawsuit says.
+[Read more](https://www.axios.com/2025/02/07/usaid-trump-rubio-sued-cuts)
 
-### Bills QB Josh Allen wins first career AP NFL Most Valuable Player award - BuffaloBills.com
-Allen won the MVP award over QB Lamar Jackson, RB Saquon Barkley, QB Joe Burrow and QB Jared Goff
-[Read more](https://www.buffalobills.com/news/bills-qb-josh-allen-wins-first-career-ap-nfl-most-valuable-player-award)
+### Buffalo Bills quarterback Josh Allen, fiancee Hailee Steinfeld walk red carpet at NFL Honors - The Associated Press
+Buffalo Bills quarterback Josh Allen and his fiancee, actor Hailee Steinfeld, were all smiles as they posed for pictures and mingled with celebrities as they walked the red carpet at the NFL Honors. Allen and Steinfeld were first linked in the spring of 2023,…
+[Read more](https://apnews.com/article/hailee-steinfeld-josh-allen-super-bowl-2025-d14943d1b3bb4cb42272fffe8f9f890f)
 
-### EV maker Scout Motors wants to sell directly to buyers but can’t do it in its home state - The Associated Press
-Volkswagen-backed Scout Motors is making a massive bet in the electric SUV market. The company wants to let customers buy its vehicle in minutes on their app and handle everything after, from repairs to updates and upgrades. But without some help from lawmake…
-[Read more](https://apnews.com/article/direct-auto-sales-scout-motors-south-carolina-eedc94ff4347dc1eef4fd64a79375952)
-
-### Antonio Gates, Jared Allen, Eric Allen and Sterling Sharpe make the Pro Football Hall of Fame - The Associated Press
-Antonio Gates, Jared Allen, Eric Allen and Sterling Sharpe have been voted into the Pro Football Hall of Fame in the smallest induction class in 20 years following offseason rule changes meant to make it harder to get inducted. Sharpe got in as a seniors cand…
-[Read more](https://apnews.com/article/football-hall-of-fame-a8a41e9c62d040159b825d42bda6f8b2)
-
-### UFC 312 loses fight minutes before weigh-ins - MMA Junkie
-UFC 312 is now down to 12 fights.
-[Read more](https://mmajunkie.usatoday.com/2025/02/ufc-312-loses-fight-minutes-before-weigh-ins)
-
-### Senate confirms Russell Vought to lead White House budget office - The Washington Post
-The fiscal conservative returns to the post he held in President Donald Trump’s first administration.
-[Read more](https://www.washingtonpost.com/business/2025/02/06/russell-vought-confirmed-omb-director/)
-
-### USAID could slash staff to hundreds after placing most on leave - BBC.com
-But US President Donald Trump's plan to dramatically cut back US foreign aid faces a legal challenge.
-[Read more](https://www.bbc.com/news/articles/c5y6701gl60o)
-
-### Once profit-starved Amazon is swimming in cash — and will go on a $100 billion AI-focused spending spree - Fortune
-Once profit-starved, Amazon is displaying a version of itself that many rivals have long feared.
-[Read more](https://fortune.com/2025/02/06/amazon-profits-q4-earnings-ai-aws-capital-expenses/)
-
-### Here Are All The Major Lawsuits Against Trump And Musk—As USAID Shutdown Sparks Legal Battle - Forbes
-Judges ruled on Thursday alone to extend blocks on Trump’s birthright citizenship ban, limit Elon Musk’s access to Treasury documents and pause the deadline for federal employee buyouts.
-[Read more](https://www.forbes.com/sites/alisondurkee/2025/02/06/here-are-all-the-major-lawsuits-against-trump-and-musk-as-usaid-shutdown-sparks-legal-battle/)
+### Industrial giant Honeywell announces split into 3 companies after investor pressure - USA TODAY
+Honeywell, one of the last remaining American industrial giants, announced it will split into three companies Thursday after investor pressure.
+[Read more](https://www.usatoday.com/story/money/2025/02/06/honeywell-split-aerospace/78309856007/)
 
 ### Karla Sofía Gascón Responds To ‘Emilia Pérez’ Director & Offers “Silence” During Oscars Race: “Let The Work Talk For Itself” - Deadline
 As Karla Sofía Gascón faces continued backlash for past comments, the 'Emilia Pérez' actress is stepping back from the spotlight.
 [Read more](http://deadline.com/2025/02/karla-sofia-gascon-responds-emilia-perez-director-offers-silence-oscars-race-1236281066/)
 
-### Trump promotes misleading claims about federal government’s media subscriptions - The Associated Press
-Federal government payments for subscriptions to media outlets have become the latest target of President Donald Trump's spending hawks. A day after his press secretary cited some $8 million in spending for Politico subscriptions, Trump dubbed it a “scandal” …
-[Read more](https://apnews.com/article/trump-media-payments-subscriptions-spending-365a0899a84fba1567e85bb83da1e06b)
-
-### Lil Wayne Announces Release Date for New Album Tha Carter VI - Pitchfork
-The sixth installment of the rapper’s famed album series lands on June 6
-[Read more](https://pitchfork.com/news/lil-wayne-announces-release-date-for-new-album-tha-carter-vi/)
-
-### Stock futures are little changed as investors brace for big payrolls report: Live updates - CNBC
-The S&P 500 and Nasdaq Composite posted three-day win streaks on Thursday.
-[Read more](https://www.cnbc.com/2025/02/06/stock-market-today-live-updates.html)
-
-### Court’s pause of federal worker ‘buyout’ gives Trump administration more time to get more applications - POLITICO
-OPM said more than 60,000 had accepted the offer.
-[Read more](https://www.politico.com/news/2025/02/06/federal-worker-buyout-deadline-00203022)
+### Russ Vought, champion of Schedule F and slashing agency budgets, wins confirmation to OMB - Government Executive
+None
+[Read more](https://www.govexec.com/management/2025/02/russ-vought-champion-schedule-f-and-slashing-agency-budgets-wins-confirmation-omb/402823/)
 
 <!-- NEWS-END -->
