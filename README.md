@@ -6,13 +6,41 @@ GDP: {'name': 'Real Gross Domestic Product', 'interval': 'annual', 'unit': 'bill
 ## 최신 경제 뉴스
 
 <!-- NEWS-START -->
-### List of 'NFL Honors' award winners from 2024 NFL season - NFL.com
-The NFL celebrated another year of excellence around the league on Thursday night at the 14th annual NFL Honors. Here is the complete list of winners announced at the Saenger Theater in New Orleans.
-[Read more](https://www.nfl.com/news/list-of-nfl-honors-award-winners-from-2024-nfl-season)
+### Call from Canton: Former Packers receiver Sterling Sharpe to be inducted into Pro Football Hall of Fame - Packers.com
+First-round pick in ’88 was three-time All-Pro over seven seasons in Green Bay
+[Read more](https://www.packers.com/news/call-from-canton-former-packers-receiver-sterling-sharpe-to-be-inducted-into-pro-football-hall-of-fame)
 
-### Judge halts Trump's government worker buyout plan - BBC.com
-The offer is part of an ongoing effort by the Trump administration to slash the size of the federal government.
-[Read more](https://www.bbc.com/news/articles/cx2q1g3evzqo)
+### Tech Giants Double Down on Their Massive AI Spending - The Wall Street Journal
+Amazon, Google, Microsoft and Meta pour billions into artificial intelligence, undeterred by DeepSeek’s rise
+[Read more](https://www.wsj.com/tech/ai/tech-giants-double-down-on-their-massive-ai-spending-b3040b33)
+
+### Saquon Barkley runs away with the AP NFL Offensive Player of the Year award - The Associated Press
+Saquon Barkley ran away with the AP NFL Offensive Player of the Year award after rushing for 2,005 yards, eighth-best in NFL history, in his first season with the Eagles. Barkley sat out Philadelphia’s final regular-season game when he was 101 yards away from…
+[Read more](https://apnews.com/article/nfl-honors-mvp-ap)
+
+### Karla Sofía Gascón Responds To ‘Emilia Pérez’ Director & Offers “Silence” During Oscars Race: “Let The Work Talk For Itself” - Deadline
+As Karla Sofía Gascón faces continued backlash for past comments, the 'Emilia Pérez' actress is stepping back from the spotlight.
+[Read more](http://deadline.com/2025/02/karla-sofia-gascon-responds-emilia-perez-director-offers-silence-oscars-race-1236281066/)
+
+### US formally seizes second plane belonging to Venezuelan President Maduro - CNN
+US Secretary of State Marco Rubio formally seized a plane belonging to Venezuelan President Nicolas Maduro’s government on behalf of the United States on Thursday.
+[Read more](https://www.cnn.com/2025/02/06/politics/marco-rubio-dominican-republic-plane-latam-hnk-intl/index.html)
+
+### Trump’s Gaza plan shocks the world but finds support in Israel - The Associated Press
+President Donald Trump’s plan to seek U.S. ownership of the Gaza Strip and move out its population has found a sympathetic ear in Israel. Trump’s proposal lent legitimacy to a notion long championed by Israel’s far-right. Although it is laden with moral, lega…
+[Read more](https://apnews.com/article/israel-trump-gaza-netanyahu-169d497ac07760ccb9724bef5982338a)
+
+### Unions sue Trump administration over USAID shutdown - The Hill
+Unions representing government employees sued the Trump administration Thursday evening to block efforts to shut down the government’s independent foreign assistance agency.  Elon Musk’s Department of Government Efficiency (DOGE) launched a full-scale assault…
+[Read more](https://thehill.com/policy/international/5131863-unions-sue-trump-administration-usaid/)
+
+### Stock futures are little changed as investors brace for big payrolls report: Live updates - CNBC
+The S&P 500 and Nasdaq Composite posted three-day win streaks on Thursday.
+[Read more](https://www.cnbc.com/2025/02/06/stock-market-today-live-updates.html)
+
+### E3's Entertainment Software Association Returns With A New Industry Event - Nintendo Life
+None
+[Read more](https://www.nintendolife.com/news/2025/02/e3s-entertainment-software-association-returns-with-a-new-industry-event)
 
 ### Nintendo patents show the Switch 2 Joy-Con may indeed work like a mouse — and so might a new controller - The Verge
 Newly-published Nintendo patents show that the company has been exploring a version of its Joy-Con controllers that can work like a computer mouse. The patents also appear to show a magnetic accessory.
@@ -26,64 +54,36 @@ Trump's pick for budget chief was confirmed by the Senate after Democrats held t
 Trump’s plan to “take over” Gaza was met with outrage in Dearborn, Michigan, an Arab American enclave.
 [Read more](https://www.politico.com/news/2025/02/06/trump-arab-americans-dearborn-michigan-00203018)
 
-### NBA All-Star Game 2025 draft: Team Shaq reunites LeBron James and Anthony Davis after Lakers trade - Yahoo Sports
-TNT's Shaquille O'Neal, Kenny Smith and Charles Barkley selected eight-man teams from the 24-player pool. LeBron James was the No. 1 pick.
-[Read more](https://sports.yahoo.com/nba-all-star-game-2025-draft-team-shaq-reunites-lebron-james-and-anthony-davis-after-lakers-trade-000422275.html)
+### AI invented a new miracle material that’s as strong as steel but light as foam - BGR
+A new AI-created wonder material is stronger than steel but as light as styrofoam and could revolutionize transportation designs.
+[Read more](https://bgr.com/science/ai-invented-a-new-miracle-material-thats-as-strong-as-steel-but-light-as-foam/)
 
 ### Trump makes misleading claims about government payments to Politico. Here's a fact check. - CBS News
 Records show federal agencies, as well as Republican and Democratic lawmakers, paid for subscriptions to Politico. But the company says it's never received federal subsidies.
 [Read more](https://www.cbsnews.com/news/trump-politico-payments-fact-check/)
 
-### Amazon to spend $100bn this year in AI drive - Financial Times
-Spending plans outpace Big Tech rivals Alphabet and Microsoft
-[Read more](https://www.ft.com/content/e5536a67-ed2d-4dfd-94a7-e9a518f4a73c)
+### Judge temporarily blocks Trump's federal government employee buyout - ABC News
+None
+[Read more](https://abcnews.go.com/US/judge-request-block-trumps-federal-government-employee-buyout/story?id\\u003d118535508)
 
 ### As bird flu spreads, what is the risk from eggs and milk? - ABC News
 None
 [Read more](https://abcnews.go.com/Health/bird-flu-spreads-risk-eggs-milk/story?id\\u003d118544360)
 
-### After prayer breakfast, Trump creates task force to root out ‘anti-Christian bias’ - The Associated Press
-President Donald Trump says at a private religious group's Washington prayer breakfast he's forming a commission on religious liberty. Trump also said at the hotel ballroom event Thursday he'll name Attorney General Pam Bondi to lead a task force to “eradicat…
-[Read more](https://apnews.com/article/trump-national-prayer-breakfast-30ff6f55a2e3c7b8643a15e7b158537d)
+### Looks Like Lil Wayne Just Announced Tha Carter VI in … a Lotion Ad - Vulture
+Lil Wayne may not have gotten the halftime show, but that’s not stopping him from announcing ‘Tha Carter VI’ at the big game. He’s just doing it in … a lotion ad.
+[Read more](http://www.vulture.com/article/lil-wayne-tha-carter-vi-super-bowl-cetaphil-ad.html)
 
-### Federal judge: Trump ignoring rule of law for ‘political or personal gain’ - The Washington Post
-U.S. District Judge John C. Coughenour made his criticisms while issuing a nationwide injunction on the president’s effort to curb birthright citizenship.
-[Read more](https://www.washingtonpost.com/immigration/2025/02/06/trump-birthright-citizenship/)
+### Eradicating Anti-Christian Bias - The White House
+By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered:     Section 1.  Purpose
+[Read more](https://www.whitehouse.gov/presidential-actions/2025/02/eradicating-anti-christian-bias/)
 
-### IMPOSING SANCTIONS ON THE INTERNATIONAL CRIMINAL COURT - The White House
-By the authority vested in me as President by the Constitution and the laws of the United States of America, including the International Emergency
-[Read more](https://www.whitehouse.gov/presidential-actions/2025/02/imposing-sanctions-on-the-international-criminal-court/)
+### Honeywell, with significant operations in Twin Cities, will break into three companies - Star Tribune
+The once-leading Minnesota corporation, now based in North Carolina, has been pressured by shareholders to split up.
+[Read more](https://www.startribune.com/honeywell-split-effects-minnesota-operations/601218134)
 
-### U.K.'s foreign office cat Palmerston shows up for duty in Bermuda - NPR
-The former rescue feline joined the British diplomatic service in 2016 and gained a large following online for fulfilling his duty with charisma. He retired in 2020 but is back in action now.
-[Read more](https://www.npr.org/2025/02/06/nx-s1-5288876/uk-foreign-office-cat-palmerston-bermuda)
-
-### USAID cut dramatically as officials address 'stunning and irresponsible' changes - NPR
-After Secretary of State Marco Rubio approved less than 300 essential personnel to continue in jobs past Friday, unions representing USAID workers sue the Trump administration over cuts to the agency.
-[Read more](https://www.npr.org/2025/02/06/g-s1-46885/usaid-cuts-state-department-trump-rubio)
-
-### Multiple Eagles players are dealing with an illness ahead of the Super Bowl - NBC Sports
-Multiple players are dealing with an illness this week, three days ahead of Super Bowl LIX.
-[Read more](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/multiple-eagles-players-are-dealing-with-an-illness-ahead-of-the-super-bowl)
-
-### Negotiations continue over release of list of FBI agents who investigated Jan. 6 - ABC News
-None
-[Read more](https://abcnews.go.com/US/judge-blocking-fbi-assembling-list-agents-investigated-jan/story?id\\u003d118530525)
-
-### Egypt lobbies against Trump plan to empty Gaza of Palestinians as Israel makes preparations - The Associated Press
-Israel says it has begun preparations for the departure of large numbers of Palestinians from the Gaza Strip in line with U.S. President Donald Trump’s plan to empty the territory of its population. Officials meanwhile said Egypt has launched a diplomatic bli…
-[Read more](https://apnews.com/article/israel-palestinians-hamas-war-egypt-trump-displacement-bc1c43f80655190824a5de4eb1d310cc)
-
-### Tinder will try AI-powered matching as the dating app continues to lose users - TechCrunch
-Tinder hopes to reverse its ongoing decline in active users by turning to AI. In the coming quarter, the Match-owned dating app will roll out new
-[Read more](https://techcrunch.com/2025/02/06/tinder-will-try-ai-powered-matching-as-the-dating-app-continues-to-lose-users/)
-
-### Halsey Defends Chappell Roan After Grammys Speech Criticized in 'Hollywood Reporter' Op-Ed - Rolling Stone
-Halsey came to Chappell Roan's defense on Instagram after a scathing op-ed on Roan was published.
-[Read more](http://www.rollingstone.com/music/music-news/halsey-defends-chappell-roan-grammys-speech-hollywood-reporter-op-ed-1235259071/)
-
-### Santorini rocked by more earthquakes as uncertainty grows - BBC.com
-The island has experienced thousands of quakes in the past week, forcing evacuations of residents.
-[Read more](https://www.bbc.com/news/articles/cr46pnyq0p5o)
+### ‘No-shenanigans handshake’ helps usher in Minnesota House return after prolonged power standoff - MPR News
+The legislative session was resuscitated after weeks of a Minnesota House deadlock. Party leaders agreed to pact where they will share power on committees if a tie returns and clear away other areas of dispute.
+[Read more](https://www.mprnews.org/story/2025/02/06/minnesota-house-returns-to-action-after-prolonged-standoff)
 
 <!-- NEWS-END -->
