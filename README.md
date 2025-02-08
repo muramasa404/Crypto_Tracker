@@ -6,72 +6,84 @@ GDP: {'name': 'Real Gross Domestic Product', 'interval': 'annual', 'unit': 'bill
 ## 최신 경제 뉴스
 
 <!-- NEWS-START -->
+### List of 'NFL Honors' award winners from 2024 NFL season - NFL.com
+The NFL celebrated another year of excellence around the league on Thursday night at the 14th annual NFL Honors. Here is the complete list of winners announced at the Saenger Theater in New Orleans.
+[Read more](https://www.nfl.com/news/list-of-nfl-honors-award-winners-from-2024-nfl-season)
+
+### Judge halts Trump's government worker buyout plan - BBC.com
+The offer is part of an ongoing effort by the Trump administration to slash the size of the federal government.
+[Read more](https://www.bbc.com/news/articles/cx2q1g3evzqo)
+
+### Nintendo patents show the Switch 2 Joy-Con may indeed work like a mouse — and so might a new controller - The Verge
+Newly-published Nintendo patents show that the company has been exploring a version of its Joy-Con controllers that can work like a computer mouse. The patents also appear to show a magnetic accessory.
+[Read more](https://www.theverge.com/news/608018/nintendo-switch-2-patents-joy-con-pro-controller-mouse-magnets)
+
+### Russ Vought, champion of Schedule F and slashing agency budgets, wins confirmation to OMB - Government Executive
+Trump's pick for budget chief was confirmed by the Senate after Democrats held the floor for a full day to speak in opposition to him.
+[Read more](https://www.govexec.com/management/2025/02/russ-vought-champion-schedule-f-and-slashing-agency-budgets-wins-confirmation-omb/402823/)
+
+### After Trump’s remarks on Gaza, some in Dearborn, Michigan ‘think we screwed up.’ - POLITICO
+Trump’s plan to “take over” Gaza was met with outrage in Dearborn, Michigan, an Arab American enclave.
+[Read more](https://www.politico.com/news/2025/02/06/trump-arab-americans-dearborn-michigan-00203018)
+
+### NBA All-Star Game 2025 draft: Team Shaq reunites LeBron James and Anthony Davis after Lakers trade - Yahoo Sports
+TNT's Shaquille O'Neal, Kenny Smith and Charles Barkley selected eight-man teams from the 24-player pool. LeBron James was the No. 1 pick.
+[Read more](https://sports.yahoo.com/nba-all-star-game-2025-draft-team-shaq-reunites-lebron-james-and-anthony-davis-after-lakers-trade-000422275.html)
+
+### Trump makes misleading claims about government payments to Politico. Here's a fact check. - CBS News
+Records show federal agencies, as well as Republican and Democratic lawmakers, paid for subscriptions to Politico. But the company says it's never received federal subsidies.
+[Read more](https://www.cbsnews.com/news/trump-politico-payments-fact-check/)
+
+### Amazon to spend $100bn this year in AI drive - Financial Times
+Spending plans outpace Big Tech rivals Alphabet and Microsoft
+[Read more](https://www.ft.com/content/e5536a67-ed2d-4dfd-94a7-e9a518f4a73c)
+
+### As bird flu spreads, what is the risk from eggs and milk? - ABC News
+None
+[Read more](https://abcnews.go.com/Health/bird-flu-spreads-risk-eggs-milk/story?id\\u003d118544360)
+
+### After prayer breakfast, Trump creates task force to root out ‘anti-Christian bias’ - The Associated Press
+President Donald Trump says at a private religious group's Washington prayer breakfast he's forming a commission on religious liberty. Trump also said at the hotel ballroom event Thursday he'll name Attorney General Pam Bondi to lead a task force to “eradicat…
+[Read more](https://apnews.com/article/trump-national-prayer-breakfast-30ff6f55a2e3c7b8643a15e7b158537d)
+
+### Federal judge: Trump ignoring rule of law for ‘political or personal gain’ - The Washington Post
+U.S. District Judge John C. Coughenour made his criticisms while issuing a nationwide injunction on the president’s effort to curb birthright citizenship.
+[Read more](https://www.washingtonpost.com/immigration/2025/02/06/trump-birthright-citizenship/)
+
+### IMPOSING SANCTIONS ON THE INTERNATIONAL CRIMINAL COURT - The White House
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including the International Emergency
+[Read more](https://www.whitehouse.gov/presidential-actions/2025/02/imposing-sanctions-on-the-international-criminal-court/)
+
+### U.K.'s foreign office cat Palmerston shows up for duty in Bermuda - NPR
+The former rescue feline joined the British diplomatic service in 2016 and gained a large following online for fulfilling his duty with charisma. He retired in 2020 but is back in action now.
+[Read more](https://www.npr.org/2025/02/06/nx-s1-5288876/uk-foreign-office-cat-palmerston-bermuda)
+
+### USAID cut dramatically as officials address 'stunning and irresponsible' changes - NPR
+After Secretary of State Marco Rubio approved less than 300 essential personnel to continue in jobs past Friday, unions representing USAID workers sue the Trump administration over cuts to the agency.
+[Read more](https://www.npr.org/2025/02/06/g-s1-46885/usaid-cuts-state-department-trump-rubio)
+
+### Multiple Eagles players are dealing with an illness ahead of the Super Bowl - NBC Sports
+Multiple players are dealing with an illness this week, three days ahead of Super Bowl LIX.
+[Read more](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/multiple-eagles-players-are-dealing-with-an-illness-ahead-of-the-super-bowl)
+
+### Negotiations continue over release of list of FBI agents who investigated Jan. 6 - ABC News
+None
+[Read more](https://abcnews.go.com/US/judge-blocking-fbi-assembling-list-agents-investigated-jan/story?id\\u003d118530525)
+
 ### Egypt lobbies against Trump plan to empty Gaza of Palestinians as Israel makes preparations - The Associated Press
 Israel says it has begun preparations for the departure of large numbers of Palestinians from the Gaza Strip in line with U.S. President Donald Trump’s plan to empty the territory of its population. Officials meanwhile said Egypt has launched a diplomatic bli…
 [Read more](https://apnews.com/article/israel-palestinians-hamas-war-egypt-trump-displacement-bc1c43f80655190824a5de4eb1d310cc)
 
-### Rubio walks back State Department’s claim of free Panama Canal transit for US government vessels - CNN
-US Secretary of State Marco Rubio has walked back the assertion of the State Department that Panama “has agreed to no longer charge fees” to US government vessels transiting the Panama Canal after outcry from the Panamanian government.
-[Read more](https://www.cnn.com/2025/02/06/americas/panama-canal-state-department-hnk-intl/index.html)
+### Tinder will try AI-powered matching as the dating app continues to lose users - TechCrunch
+Tinder hopes to reverse its ongoing decline in active users by turning to AI. In the coming quarter, the Match-owned dating app will roll out new
+[Read more](https://techcrunch.com/2025/02/06/tinder-will-try-ai-powered-matching-as-the-dating-app-continues-to-lose-users/)
 
-### Amazon’s (NASDAQ:AMZN) Q4 Earnings Results: Revenue In Line With Expectations But Quarterly Revenue Guidance Misses Expectations - Yahoo Finance
-Cloud computing and online retail behemoth Amazon (NASDAQ:AMZN) met Wall Street’s revenue expectations in Q4 CY2024, with sales up 10.5% year on year to...
-[Read more](https://finance.yahoo.com/news/amazon-nasdaq-amzn-q4-earnings-211156337.html)
+### Halsey Defends Chappell Roan After Grammys Speech Criticized in 'Hollywood Reporter' Op-Ed - Rolling Stone
+Halsey came to Chappell Roan's defense on Instagram after a scathing op-ed on Roan was published.
+[Read more](http://www.rollingstone.com/music/music-news/halsey-defends-chappell-roan-grammys-speech-hollywood-reporter-op-ed-1235259071/)
 
-### NBA trade tracker: Every deadline deal as Jimmy Butler, Brandon Ingram, De'Aaron Fox find new homes - CBS Sports
-Here's a look at every notable NBA trade that went down before Thursday's deadline
-[Read more](https://www.cbssports.com/nba/news/nba-trade-tracker-every-deadline-deal-as-jimmy-butler-brandon-ingram-deaaron-fox-find-new-homes/)
-
-### Judge pauses deadline for federal workers to accept Trump’s resignation offer - CNN
-A federal judge paused Thursday’s deadline for federal employees to accept the Trump administration’s deferred resignation offer while more proceedings on the program’s legality play out.
-[Read more](https://www.cnn.com/2025/02/06/politics/federal-worker-resignation-deadline-trump/index.html)
-
-### Minnesota GOP takes control of House after Dems' weekslong boycott, pledges to 'check' Walz's 'extreme' agenda - Fox News
-Republicans and Democrats in the Minnesota House have reached a "power sharing agreement" ending the Democrats' weeks-long boycott of the legislative session.
-[Read more](https://www.foxnews.com/politics/minnesota-gop-takes-control-house-after-dems-weekslong-boycott-pledges-check-walzs-extreme-agenda)
-
-### Warriors insiders offer brutal assessment of Jimmy Butler trade - SFGATE
-The Warriors trading for Jimmy Butler just shows how desperate the team was around the trade deadline.
-[Read more](https://www.sfgate.com/warriors/article/warriors-brutal-assessment-jimmy-butler-trade-20151678.php)
-
-### ‘Emilia Pérez’ Star Karla Sofía Gascón to Skip Spain’s Goya Awards Amid Controversy - Variety
-Oscar-nominated actress Karla Sofía Gascón will skip Spain's prestigious Goya Awards ceremony this Saturday in Granada.
-[Read more](https://variety.com/2025/film/news/emilia-perez-karla-sofia-gascon-skip-goya-awards-1236299189/)
-
-### The Apple Watch SE is the cheapest it’s been in months - The Verge
-The second-gen Apple Watch SE is on sale starting at $169 ($80 off) right now. Star Wars Outlaws and Anker’s Zolo Power Bank are also heavily discounted.
-[Read more](https://www.theverge.com/good-deals/606688/apple-watch-se-star-wars-outlaws-deal-sale)
-
-### Netanyahu won’t meet with Jewish org. leaders during US visit - exclusive - The Jerusalem Post
-During the week, Netanyahu met with senior administration officials and even a group of senior Evangelical leaders at the beginning of his trip.
-[Read more](https://www.jpost.com/us-elections/article-841034)
-
-### Reports: Cavs add De'Andre Hunter in deal with Hawks - NBA.Com
-The versatile forward reportedly is headed to Cleveland in a 3-player trade with Atlanta.
-[Read more](https://www.nba.com/news/cavaliers-hawks-hunter-levert-niang-trade)
-
-### ‘Voice of the CDC’ resumes publication, but experts worry about what they’re not hearing - The Associated Press
-A federal scientific publication has returned from a forced two-week hiatus with two papers examining the health effects of wildfires in Hawaii and California. The Centers for Disease Control and Prevention resumed publication of the Morbidity and Mortality W…
-[Read more](https://apnews.com/article/cdc-wildfires-mmwr-9b1caeefd33aeb7b7dbdf1ed944fc094)
-
-### Telescopes spy a monster radio jet streaming from a bright and early object in the universe - The Associated Press
-Telescopes around the world have spotted a monster radio jet streaming from a quasar dating back to the first 1 billion years of the universe. At double the width of our Milky Way Galaxy, this jet of radio waves is the biggest ever detected in the early unive…
-[Read more](https://apnews.com/article/universe-quasar-monster-radio-het-0822cd50b4f39c5902146c1ea893a76f)
-
-### Santorini: State of emergency declared as tremors continue - DW (English)
-The declaration of a state of emergency comes as seismic activity — which has prompted thousands to flee — continues. A 5.2 magnitude quake was recorded on Wednesday evening.
-[Read more](https://www.dw.com/en/santorini-state-of-emergency-declared-as-tremors-continue/a-71532322)
-
-### Average US rate on a 30-year mortgage falls to 6.89%, third straight weekly decline - ABC News
-The average rate on a 30-year mortgage in the U.S. eased for the third week in a row, a smidgen of relief for prospective home shoppers getting into the market before the busy spring homebuying season starts
-[Read more](https://abcnews.go.com/Business/wireStory/average-us-rate-30-year-mortgage-falls-689-118534751)
-
-### Mets’ Pete Alonso deal comes with Vladimir Guerrero Jr. intrigue - New York Post 
-Even after the Mets’ reunion with Pete Alonso, they could still be back to square one — and still in the market for a first baseman — next offseason.
-[Read more](https://nypost.com/2025/02/06/sports/mets-pete-alonso-deal-comes-with-vladimir-guerrero-jr-intrigue/)
-
-### Amazon's Alexa Set for Major AI Upgrade: Here's What to Expect - CNET
-Alexa spent years listening and talking. Now it is about to start thinking.
-[Read more](https://www.cnet.com/home/smart-home/amazons-alexa-set-for-major-ai-upgrade-heres-what-to-expect/)
+### Santorini rocked by more earthquakes as uncertainty grows - BBC.com
+The island has experienced thousands of quakes in the past week, forcing evacuations of residents.
+[Read more](https://www.bbc.com/news/articles/cr46pnyq0p5o)
 
 <!-- NEWS-END -->
